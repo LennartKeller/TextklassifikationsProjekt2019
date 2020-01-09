@@ -32,3 +32,9 @@ Nächste Schritt:
 - Jedes Verfahren ordentlich anwenden
   - Mit sinnvollen Parametern
 - Ergebnisse visualisieren
+
+Neue Aufgaben:
+  - Innsbruck auf Normalisierung überprüfen (seyn/sein)
+  - Alle Runs mit Lemmata (normalisierte) durchlaufen lassen
+  - Mehr zu Features, die gut wären => Literatur durchschauen, was da verwendet wird
+  - Infratstuktur zum Test => Wrapper für mehrere Perioden etc...
