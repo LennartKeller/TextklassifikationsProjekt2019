@@ -1,10 +1,10 @@
-import numpy as np
+from typing import Union, List
 
+import numpy as np
+from scipy.sparse import csr_matrix
 from sklearn.base import BaseEstimator
 from sklearn.exceptions import NotFittedError
 from sklearn.metrics import f1_score
-from typing import Union, List
-from scipy.sparse import csr_matrix
 from tqdm import tqdm
 
 
@@ -14,8 +14,8 @@ class PeriodEstimatorWrapper(BaseEstimator):
         self.clf = clf(**params)
         if params.get('verbose'):
             self.verbose = params['verbose']
-    
-    def fit(self, X_train:Union[csr_matrix, np.ndarray], y_train: np.array):
+
+    def fit(self, X_train: Union[csr_matrix, np.ndarray], y_train: np.array):
         """
         Fits the estimator.
 
@@ -112,10 +112,3 @@ class PeriodEstimatorWrapper(BaseEstimator):
             scores.append(score)
 
         return pooling_func(scores)
-
-
-
-
-
-
-        
