@@ -100,7 +100,8 @@ class PeriodEstimatorWrapper(BaseEstimator):
               X_test: List[Union[csr_matrix, np.ndarray]],
               y_true: List[np.array],
               scoring_func: callable = lambda y_true, y_pred: f1_score(y_true, y_pred, average='macro'),
-              pooling_func: callable = np.mean):
+              pooling_func: callable = np.mean,
+              pooling: bool = True):
 
         if not self.fitted_:
             raise NotFittedError
@@ -111,4 +112,7 @@ class PeriodEstimatorWrapper(BaseEstimator):
             score = scoring_func(y, y_pred)
             scores.append(score)
 
-        return pooling_func(scores)
+        if pooling:
+            return pooling_func(scores)
+        else:
+            return scores
