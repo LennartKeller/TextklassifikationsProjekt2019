@@ -1,0 +1,58 @@
+Underwood Kapitel:
+
+- Vorgehen: Der Computer weiß nichts über Literaturgeschichte: er modelliert nur die Beweise, die wir ihm geben. 
+Diese nützliche Blindheit erlaubt es uns, die Science-Fiction des zwanzigsten Jahrhunderts provisorisch einzuklammern und Verne allein dadurch zu modellieren, 
+dass wir ihn seinen Zeitgenossen des neunzehnten Jahrhunderts gegenüberstellen. Dann können wir diese Modelle mit Modellen des Genres des zwanzigsten Jahrhunderts 
+vergleichen und sehen, wie eng ihre Vorhersagen übereinstimmen --> perspektivische Modellierung
+- Methode: regularisierte logistische Regression an mehreren tausend Merkmalen.
+--> Meistens die Häufigkeit der Wörter als Feature verwendet, aber auch Häufigkeit von Satzzeichen und die durchschnittliche Wortlänge.
+
+An evaluation of text classification
+methods for literary study:
+
+- Diese Studie vergleicht die Leistungsfähigkeit zweier populärer Algorithmen, der naiven Bayes- und der Support-Vector-Machines (SVMs), 
+bei zwei literarischen Textklassifikationsaufgaben: der Erotik-Klassifikation von Dickinsons Gedichten und der Sentimentalität-Klassifikation 
+von Kapiteln in frühen amerikanischen Romanen.
+
+- Diese Studie kombiniert den naive Bayes- und SVM-Algorithmen mit verschiedenen Werkzeugen zur Merkmalsreduktion und untersucht dann, 
+ob diese Auswahl die Leistung der Algorithmen bei literarischen Textklassifikationsaufgaben beeinflusst.
+
+- Naive Bayes: --> Zwei Varianten:
+	- Multivariates Bernoulli-Model:
+	Feature Values: Vorhandensein oder fehlen von Wörtern
+
+	- Multinomial Model:
+	Feature Values: Worthäufigkeiten
+- SVM:
+	- erlaubt verschiedene Arten von Worthäufigkeitsmaßen als Feature-Value, was zu mehreren Variationen führt.
+	-  In dieser Studie wird der SVM-Algorithmus mit vier Textkandidaten-Darstellungen kombiniert. 
+		- Die erste ist 'svm-bool', die das Vorhandensein oder Fehlen von Wörtern als Feature Value verwendet. 
+		- Die zweite ist 'svm-tf', die als Feature Value die Worthäufigkeit (Term) verwendet. 
+		- Die dritte ist 'svm-ntf', die die normierte Worthäufigkeit als Feature Value verwendet. 
+		- Die letzte ist 'svm-tfidf', die als Feature Value, die mit der inversen Dokumentfrequenz gewichtete Worthäufigkeit verwendet.
+
+- Diese Studie verwendet SVM und naive Bayes-Algorithmen selbst als Methoden zur Merkmalsauswahl
+
+Ergebnis:
+
+- Sowohl SVM als auch naı¨ve Bayes-Klassifikatoren erreichten hohe Genauigkeiten bei der Klassifikation sentimentaler Kapitel.
+- Die Selffeature selection half beiden Algorithmen, ihre Leistung bei beiden Aufgaben zu verbessern.
+- Die beiden Algorithmen wählten jedoch relevante Merkmale in unterschiedlichen Frequenzbereichen aus und erfassten daher unterschiedliche Merkmale der Zielklassen. 
+- Die Naive Bayes-Klassifikatoren bevorzugen klassenindividuelle Wörter, die oft nicht häufig vorkommen. 
+- Im Gegensatz dazu bevorzugen SVMs hochfrequente und diskriminierende Wörter, die in einigen Genres wie z.B. Gedichten selten sind.
+- Naive Bayes: Lernkurve flacht nicht mit der Zunahme der Trainingsbeispiele ab, was auf eine begrenzte Verallgemeinerbarkeit hindeutet. 
+--> Dieser Klassifikator ist nur gut für die Zusammenfassung der Charakteristika der Trainingsdaten.
+- Beide Algorithmen bieten aufgrund ihrer schnell ansteigenden Lernkurven und ihrer starken Vertrauenswürdigkeit in Vorhersagen ein hohes Potential 
+für die beispielbasierte Sentimentalitätsabfrage.
+- Die Auswertungsergebnisse dieser Studie legen auch nahe, dass beliebige Schritte zur Merkmalsverminderung wie Stemming und Stoppwort-Entfernung sehr sorgfältig 
+durchgeführt werden sollten. 
+- Stoppwörter waren sehr diskriminierende Merkmale für die Klassifizierung erotischer Gedichte. 
+- Bei der Klassifikation sentimentaler Kapitel untergrub das Stemming die spätere Merkmalsauswahl, indem es diskriminierende Merkmale aggressiv zusammenführte 
+und neutralisierte.
+
+Mapping Mutable Genresin Structurally Complex Volumes
+
+ 
+
+
+
