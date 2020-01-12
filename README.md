@@ -35,6 +35,14 @@ Nächste Schritt:
 
 Neue Aufgaben:
   - Innsbruck auf Normalisierung überprüfen (seyn/sein)
+  --> Folgendes steht in der Documentation:
+  The exact spelling of u/v (U/V) as well as i/j (I/J) was retained; i.e. forms such as vnsere
+  and Jrrgarten would keep their letters (not unsere and Irrgarten) (note that i/j
+  conventions differ from Durrell et al. 2012
+  --> Denke dewegen ist der Innsbruck Korpus nicht normalisiert. Habe auch "seyn" in den Texten gefunden.
   - Alle Runs mit Lemmata (normalisierte) durchlaufen lassen
   - Mehr zu Features, die gut wären => Literatur durchschauen, was da verwendet wird
+  --> Habe eine Zusammenfassung der zwei Texte zu dem Thema geschrieben. Ist auch im Literature Ordner.
+  --> Habe noch ein Paper von Underwood hinzugefügt und die relevanten Stellen für uns markiert. Weiß nur nicht, ob der uns sehr 
+  weiterhilft.
   - Infratstuktur zum Test => Wrapper für mehrere Perioden etc...
