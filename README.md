@@ -46,3 +46,24 @@ Neue Aufgaben:
   --> Habe noch ein Paper von Underwood hinzugefügt und die relevanten Stellen für uns markiert. Weiß nur nicht, ob der uns sehr 
   weiterhilft.
   - Infratstuktur zum Test => Wrapper für mehrere Perioden etc...
+  
+  
+  
+  News rausschmeißen, weil wir mit einem balanced Datasaet arbeiten wollen
+  schauen ob eine der Kategorien überviel Tokens hat, rausschmeißen für HP Tuning (Dauer reduzieren)
+  10 min Korpus
+      Describe Dataset
+      fixe sets, keine zufällig gesplitteten Daten
+      auch genau auf das dataframe eingehen, einzelnen Spalten kurz durchgehen
+  10 min Forschungsfrage 
+      Wie versuchen wir die zu lösen?
+      vorgehen beschreiben
+      features, Stopwords, evtl. Part of Speech 
+  10 min Anwendenden und auswerten
+  
+  
+Anderer Ansatz  
+  bisher:
+  1 testen auf alle anderen testen
+  idee:
+  auf eins trainieren, auf rest predicten, auf eins und zwei trainieren und auf rest redicten, danach auch eins bis 3 trainieren und wieder auf den kleiner werdenden Rest testen
