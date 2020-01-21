@@ -1,0 +1,3068 @@
+
+
+1	MO	Wohin	PWAV	wohin	word	Wohin	5
+2	--	wird's	NE	wird's	word	wirds	0
+3	MO	nun	ADV	nun	word	nun	5
+4	MO	noch	ADV	noch	word	noch	5
+5	OC	gehen	VVINF	gehen	word	gehn	2
+6	--	?	SENT	?	punctuation	?	5
+
+1	SB	ich	PPER	ich	word	ich	2
+2	--	bin	VAFIN	sein	word	bin	0
+3	NK	des	ART	d	word	des	4
+4	OG	Laufens	NN	Laufens	word	Laufens	5
+5	PD	satt	ADJD	satt	word	satt	2
+6	--	;	SENT	;	punctuation	;	5
+
+1	SB	Ich	PPER	ich	word	Ich	2
+2	--	wette	VVFIN	wetten	word	wette	0
+3	--	,	$,	,	punctuation	,	2
+4	CP	daß	KOUS	daß	word	daß	11
+5	NK	der	ART	d	word	der	6
+6	SB	Schelm	NN	Schelm	word	Schelm	11
+7	OA	mich	PRF	ich	word	mich	11
+8	MO	gar	ADV	gar	word	gar	11
+9	MO	zum	APPRART	zum	word	zum	11
+10	NK	Besten	NA	Beste	word	Besten	9
+11	OC	hat	VAFIN	haben	word	hat	2
+12	--	.	SENT	.	punctuation	.	11
+
+1	DM	Nein	PTKANT	nein	word	Nein	6
+2	--	,	$,	,	punctuation	,	1
+3	DM	nein	PTKANT	nein	word	nein	6
+4	--	,	$,	,	punctuation	,	3
+5	MO	hier	ADV	hier	word	hier	6
+6	--	bleiben	VVFIN	bleiben	word	bleiben	0
+7	SB	wir	PPER	wir	word	wir	6
+8	--	,	$,	,	punctuation	,	7
+9	MO	hier	ADV	hier	word	hier	13
+10	OC	wird	VAFIN	werden	word	wird	6
+11	OA	uns	PPER	wir	word	uns	13
+12	SB	niemand	PIS	niemand	word	niemand	10
+13	OC	stören	VVINF	stören	word	stoͤren	10
+14	--	.	SENT	.	punctuation	.	13
+
+1	--	Wie	PWAV	wie	word	Wie	0
+2	MO	stets	ADV	stets	word	stehts	1
+3	--	?	SENT	?	punctuation	?	2
+
+1	SB	Ich	PPER	ich	word	Ich	2
+2	--	möchte	VMFIN	mögen	word	moͤchte	0
+3	MO	gern	ADV	gern	word	gern	4
+4	MO	einmal	ADV	einmal	word	einmal	7
+5	OA	was	PWS	was	word	was	7
+6	OA	neues	NA	Neue	word	neues	7
+7	OC	hören	VVINF	hören	word	hoͤren	2
+8	--	;	SENT	;	punctuation	;	7
+
+1	SB	Ich	PPER	ich	word	Ich	2
+2	--	bin	VAFIN	sein	word	bin	0
+3	--	,	$,	,	punctuation	,	2
+4	NK	der	ART	d	word	der	6
+5	PNC	Teufel	NN	Teufel	word	Teufel	6
+6	DA	Hohls	NN	Hohls	word	hohls	12
+7	--	,	$,	,	punctuation	,	6
+8	MO	rund	ADV	rund	word	rund	9
+9	MNR	um	APPR	um	word	um	6
+10	NK	die	ART	d	word	die	11
+11	NK	Welt	NN	Welt	word	Welt	9
+12	MO	herum	PTKVZ	herum	word	herum	2
+13	--	,	$,	,	punctuation	,	12
+
+1	--	Zu	APPR	zu	word	Zu	0
+2	NK	Wasser	NN	Wasser	word	Wasser	1
+3	CD	und	KON	und	word	und	1
+4	CJ	zu	APPR	zu	word	zu	3
+5	NK	Land	NN	Land	word	Land	4
+6	--	,	$,	,	punctuation	,	5
+7	CD	und	KON	und	word	und	5
+8	MO	doch	ADV	doch	word	doch	10
+9	MO	noch	ADV	noch	word	noch	10
+10	CJ	Ochsen	NN	Ochse	word	Ochsen	7
+11	MNR	dumm	ADJD	dumm	word	dumm	10
+12	--	.	SENT	.	punctuation	.	11
+
+1	NK	Was	PWS	was	word	Was	2
+2	SB	Teufel	NN	Teufel	word	Teufel	3
+3	--	hilft	VVFIN	helfen	word	hilft	0
+4	MO	mich's	ADJD	mich's	word	michs	3
+5	MO	nun	ADV	nun	word	nun	3
+6	--	,	$,	,	punctuation	,	5
+7	CP	daß	KOUS	daß	word	daß	11
+8	SB	ich	PPER	ich	word	ich	11
+9	NK	die	ART	d	word	die	10
+10	OA	Welt	NN	Welt	word	Welt	11
+11	OC	durchkrochen	VVFIN	durchkrochen	word	durchkrochen	3
+12	--	,	$,	,	punctuation	,	11
+13	CD	Und	KON	und	word	Und	3
+14	MO	da	ADV	da	word	da	15
+15	OC	gewesen	VAPP	sein	word	gewesen	16
+16	CJ	bin	VAFIN	sein	word	bin	13
+17	--	,	$,	,	punctuation	,	16
+18	MO	wohin	PWAV	wohin	word	wohin	21
+19	NK	kein	PIAT	kein	word	kein	20
+20	SB	Mensch	NN	Mensch	word	Mensch	21
+21	OC	gerochen	VVPP	gerochen	word	gerochen	16
+22	--	?	SENT	?	punctuation	?	21
+
+1	SB	Ich	PPER	ich	word	Ich	2
+2	--	habe	VAFIN	haben	word	habe	0
+3	OA	viel	ADV	viel	word	viel	4
+4	OC	gesehen	VVPP	sehen	word	gesehn	2
+5	--	,	$,	,	punctuation	,	4
+6	MO	allein	ADV	allein	word	allein	11
+7	--	,	$,	,	punctuation	,	6
+8	SB	ich	PPER	ich	word	ich	9
+9	RC	weiß	VVFIN	wissen	word	weiß	6
+10	NG	nicht	PTKNEG	nicht	word	nicht	9
+11	OA	was	PWS	was	word	was	4
+12	--	.	SENT	.	punctuation	.	11
+
+1	MO	Vor	APPR	vor	word	Vor	4
+2	NK	meinen	PPOSAT	mein	word	meinen	3
+3	NK	Augen	NN	Auge	word	Augen	1
+4	--	schwebt	VVFIN	schweben	word	schwebt	0
+5	DA	mir	PPER	ich	word	mir	4
+6	MO	stets	ADV	stets	word	stets	8
+7	MO	bald	ADV	bald	word	bald	8
+8	SB	dies	PDS	dies	word	dies	4
+9	MO	bald	ADV	bald	word	bald	4
+10	SB	das	PDS	d	word	das	4
+11	--	.	SENT	.	punctuation	.	10
+
+1	MO	Von	APPR	von	word	Von	11
+2	PNC	Nova	FM	novus	word	Nova	3
+3	NK	Zemla	NE	Zemla	word	Zembla	1
+4	AC	an	PTKVZ	an	word	an	1
+5	--	,	$,	,	punctuation	,	4
+6	CP	bis	KON	bis	word	bis	7
+7	MO	zu	APPR	zu	word	zu	11
+8	NK	den	ART	d	word	den	9
+9	NK	Hottentotten	NE	Hottentotten	word	Hottentotten	7
+10	--	,	$,	,	punctuation	,	9
+11	--	Bin	VAFIN	Bin	word	Bin	0
+12	SB	ich	PPER	ich	word	ich	11
+13	MO	zu	APPR	zu	word	zu	11
+14	NK	Pferd	NN	Pferd	word	Pferd	13
+15	CD	und	KON	und	word	und	14
+16	CJ	Fuß	NN	Fuß	word	Fuß	15
+17	--	,	$,	,	punctuation	,	16
+18	CJ	mit	APPR	mit	word	mit	13
+19	NK	Kriegs	NN	Krieg	word	Kriegs-	18
+20	CD	und	KON	und	word	und	19
+21	CJ	Kaufmanns-Flotten	NN	Kaufmanns-Flotten	word	Kaufmanns-Flotten	20
+22	--	;	SENT	;	punctuation	;	21
+
+1	--	Durch	APPR	durch	word	Durch	0
+2	NK	Japan	NE	Japan	word	Japan	1
+3	--	,	$,	,	punctuation	,	2
+4	CJ	Asien	NE	Asien	word	Asien	2
+5	--	,	$,	,	punctuation	,	4
+6	CJ	Rom	NE	Rom	word	Rom	4
+7	--	,	$,	,	punctuation	,	6
+8	CJ	Schweden	NE	Schweden	word	Schweden	6
+9	--	,	$,	,	punctuation	,	8
+10	CJ	Africa	NE	Afrika	word	Africa	8
+11	--	,	$,	,	punctuation	,	10
+12	PAR	Von	APPR	von	word	Von	10
+13	NK	Fez	NE	Fez	word	Fez	12
+14	CD	und	KON	und	word	und	13
+15	CJ	Surinam	NE	Surinam	word	Surinam	14
+16	--	,	$,	,	punctuation	,	15
+17	AC	bis	KON	bis	word	bis	18
+18	CJ	nach	APPR	nach	word	nach	12
+19	NK	Batavia	NE	Batavia	word	Batavia	18
+20	--	;	SENT	;	punctuation	;	19
+
+1	JU	Denn	KON	denn	word	Denn	14
+2	MO	durch	APPR	durch	word	durch	14
+3	NK	die	ART	d	word	die	5
+4	NK	neue	ADJA	neu	word	neue	5
+5	NK	Welt	NN	Welt	word	Welt	2
+6	AC	bis	KON	bis	word	bis	7
+7	MO	zu	APPR	zu	word	zu	14
+8	NK	den	ART	d	word	den	9
+9	NK	Patagonen	NN	Patagonen	word	Patagonen	7
+10	--	,	$,	,	punctuation	,	9
+11	MO	Wo	PWAV	wo	word	Wo	14
+12	NK	lauter	PIAT	lauter	word	lauter	13
+13	SB	Riesen	NN	Riese	word	Riesen	14
+14	--	sind	VAFIN	sein	word	sind	0
+15	--	,	$,	,	punctuation	,	14
+16	MO	bis	KOUS	bis	word	bis	21
+17	--	,	$,	,	punctuation	,	16
+18	MO	wo	PWAVREL	wo	word	wo	21
+19	NK	die	ART	d	word	die	20
+20	SB	Zwerge	NN	Zwerg	word	Zwerge	21
+21	OC	wohnen	VVFIN	wohnen	word	wohnen	14
+22	--	;	SENT	;	punctuation	;	21
+
+1	--	Ins	APPRART	in	word	Ins	0
+2	NK	Land	NN	Land	word	Land	1
+3	--	,	$,	,	punctuation	,	2
+4	MO	wo	PWAVREL	wo	word	wo	11
+5	SB	Mensch	NN	Mensch	word	Mensch	11
+6	CD	und	KON	und	word	und	5
+7	CJ	Vieh	NN	Vieh	word	Vieh	6
+8	MO	aus	APPR	aus	word	aus	11
+9	NK	einer	ART	ein	word	einer	10
+10	NK	Pfütze	NN	Pfütze	word	Pfuͤtze	8
+11	RC	säuft	VVFIN	säuft	word	saͤuft	2
+12	--	;	SENT	;	punctuation	;	11
+
+1	--	Da	ADV	da	word	Da	0
+2	--	,	$,	,	punctuation	,	1
+3	MO	wo	PWAVREL	wo	word	wo	9
+4	NK	ein	ART	ein	word	ein	6
+5	NK	wildes	ADJA	wild	word	wildes	6
+6	SB	Volk	NN	Volk	word	Volk	9
+7	MNR	mit	APPR	mit	word	mit	6
+8	NK	Affen-Schwänzen	NN	Affen-Schwänzen	word	Affen-Schwaͤnzen	7
+9	RC	läuft	VVFIN	laufen	word	laͤuft	1
+10	--	;	SENT	;	punctuation	;	9
+
+1	--	Dort	ADV	dort	word	Dort	0
+2	--	,	$,	,	punctuation	,	1
+3	MO	wo	PWAVREL	wo	word	wo	6
+4	NK	die	ART	d	word	die	5
+5	SB	Mohren	NN	Mohr	word	Mohren	6
+6	RC	sind	VAFIN	sein	word	sind	1
+7	--	,	$,	,	punctuation	,	6
+8	SB	die	PRELS	d	word	die	10
+9	MO	splitternackend	ADJD	splitternackend	word	splitternackend	10
+10	RC	gehen	VVINF	gehen	word	gehen	5
+11	--	;	SENT	;	punctuation	;	10
+
+1	MO	An	APPR	an	word	An	9
+2	NK	Orten	NN	Ort	word	Orten	1
+3	--	,	$,	,	punctuation	,	2
+4	OA	welche	PRELS	welch	word	welche	13
+5	MO	selbst	PRF	selbst	word	selbst	7
+6	NK	der	ART	d	word	der	7
+7	RC	Teufel	NN	Teufel	word	Teufel	2
+8	NG	nicht	PTKNEG	nicht	word	nicht	9
+9	MO	gesehen	VVPP	sehen	word	gesehen	11
+10	--	,	$,	,	punctuation	,	9
+11	--	Bin	VAFIN	Bin	word	Bin	0
+12	SB	ich	PPER	ich	word	ich	11
+13	PD	herumgetrollt	VVPP	herumgetrollt	word	herumgetrollt	11
+14	--	,	$,	,	punctuation	,	13
+15	CD	und	KON	und	word	und	11
+16	CJ	komme	VVFIN	kommen	word	komme	15
+17	MO	nun	ADV	nun	word	nun	16
+18	MO	hieher	ADV	hierher	word	hieher	16
+19	--	,	$,	,	punctuation	,	18
+20	CD	Und	KON	und	word	Und	16
+21	CJ	find	NN	find	word	find	20
+22	NK	ein	ART	ein	word	ein	24
+23	NK	schönes	ADJA	schön	word	schoͤnes	24
+24	OA	Land	NN	Land	word	Land	21
+25	NK	beinah	NE	beinah	word	beynah	24
+26	MO	von	APPR	von	word	von	25
+27	NK	Menschen	NN	Mensch	word	Menschen	26
+28	SVP	leer	ADJD	leer	word	leer	21
+29	--	.	SENT	.	punctuation	.	28
+
+1	SB	Ich	PPER	ich	word	Ich	2
+2	--	glaub	VVFIN	glauben	word	glaub	0
+3	--	,	$,	,	punctuation	,	2
+4	SB	es	PPER	es	word	es	5
+5	OC	ist	VAFIN	sein	word	ist	2
+6	MO	hier	ADV	hier	word	hier	5
+7	MO	gar	ADV	gar	word	gar	9
+8	NK	ein	ART	ein	word	ein	9
+9	PD	Nest	NN	Nest	word	Nest	5
+10	MNR	voll	ADJD	voll	word	voll	9
+11	NK	Eremiten	NN	Eremiten	word	Eremiten	10
+12	--	.	SENT	.	punctuation	.	11
+
+1	NK	Der	ART	d	word	Der	2
+2	SB	Himmel	NN	Himmel	word	Himmel	3
+3	--	wolle	VMFIN	wollen	word	wolle	0
+4	OA	mich	PPER	ich	word	mich	8
+5	MO	vor	APPR	vor	word	vor	8
+6	NK	dieser	PDAT	dies	word	dieser	7
+7	NK	Brut	NN	Brut	word	Brut	5
+8	OC	behüten	VVINF	behüten	word	behuͤten	3
+9	--	.	SENT	.	punctuation	.	8
+
+1	DM	Nein	PTKANT	nein	word	Nein	4
+2	--	,	$,	,	punctuation	,	1
+3	MO	dazu	PAV	dazu	word	dazu	4
+4	--	taug	VVFIN	taugen	word	taug	0
+5	SB	ich	PPER	ich	word	ich	4
+6	NG	nicht	PTKNEG	nicht	word	nicht	4
+7	--	;	SENT	;	punctuation	;	6
+
+1	SB	ich	PPER	ich	word	ich	2
+2	--	bin	VAFIN	sein	word	bin	0
+3	NK	ein	ART	ein	word	ein	4
+4	PD	Menschen-Ffreund	NN	Menschen-Ffreund	word	Menschen-Ffreund	2
+5	--	,	$,	,	punctuation	,	4
+6	SB	Ich	PPER	ich	word	Ich	7
+7	CJ	suche	VVFIN	suchen	word	suche	2
+8	OA	sie	PPER	Sie	word	sie	7
+9	--	,	$,	,	punctuation	,	8
+10	MO	wo	PWAVREL	wo	word	wo	16
+11	SB	man	PIS	man	word	man	16
+12	OA	sie	PPER	Sie	word	sie	15
+13	MO	nie	ADV	nie	word	nie	15
+14	PM	zu	PTKZU	zu	word	zu	15
+15	OC	finden	VVINF	finden	word	finden	16
+16	MO	meint	VVFIN	meinen	word	meynt	7
+17	--	;	SENT	;	punctuation	;	16
+
+1	JU	Doch	ADV	doch	word	Doch	2
+2	--	sage	VVFIN	sagen	word	sage	0
+3	--	,	$,	,	punctuation	,	2
+4	NK	guter	ADJA	gut	word	guter	5
+5	OC	Freund	NN	Freund	word	Freund	2
+6	--	!	SENT	!	punctuation	!	5
+
+1	--	bist	VAFIN	sein	word	bist	0
+2	SB	du	PPER	du	word	du	1
+3	MO	hier	ADV	hier	word	hier	5
+4	MO	stets	ADV	stets	word	stets	5
+5	OC	gewesen	VAPP	sein	word	gewesen	1
+6	--	?	SENT	?	punctuation	?	5
+
+1	MO	Wie	PWAV	wie	word	Wie	8
+2	--	hast	VAFIN	haben	word	hast	0
+3	SB	du	PPER	du	word	du	2
+4	MO	außerdem	ADV	außerdem	word	ausserdem	8
+5	DA	dir	PPER	du	word	dir	8
+6	NK	diesen	PDAT	dies	word	diesen	7
+7	OA	Ort	NN	Ort	word	Ort	8
+8	OC	erlesen	ADJA	erlesen	word	erlesen	2
+9	--	?	SENT	?	punctuation	?	8
+
+1	MO	Wie	PWAV	wie	word	Wie	2
+2	--	heißt	VVFIN	heißen	word	heißt	0
+3	MO	denn	ADV	denn	word	denn	2
+4	NK	dieses	PDAT	dies	word	dieses	5
+5	OA	Land	NN	Land	word	Land	2
+6	--	?	SENT	?	punctuation	?	5
+
+1	--	Arkadien	NE	Arkadien	word	Arkadien	0
+2	--	.	SENT	.	punctuation	.	1
+
+1	--	Ists	VAFIN	sein	word	Ists	0
+2	UC	wahr	ADJD	wahr	word	wahr	1
+3	--	?	SENT	?	punctuation	?	2
+
+1	--	Arkadien	NE	Arkadien	word	Arkadien	0
+2	--	!	SENT	!	punctuation	!	1
+
+1	--	Ei	ITJ	Ei	word	Ey	0
+2	--	,	$,	,	punctuation	,	1
+3	CJ	Ei	ITJ	Ei	word	Ey	1
+4	--	!	SENT	!	punctuation	!	3
+
+1	SB	das	PDS	d	word	das	2
+2	--	ist	VAFIN	sein	word	ist	0
+3	MO	ja	ADV	ja	word	ia	2
+4	PD	schön	ADJD	schön	word	schoͤn	2
+5	--	,	$,	,	punctuation	,	4
+6	CJ	fürwahr	NN	fürwahr	word	fuͤrwahr	4
+7	--	!	SENT	!	punctuation	!	6
+
+1	SB	Ich	PPER	ich	word	Ich	2
+2	--	hätte	VAFIN	haben	word	haͤtte	0
+3	NG	nicht	PTKNEG	nicht	word	nicht	4
+4	OC	gedacht	VVPP	denken	word	gedacht	2
+5	--	,	$,	,	punctuation	,	4
+6	CP	daß	KOUS	daß	word	daß	9
+7	SB	ich's	PPER	ich	word	ichs	9
+8	MO	noch	ADV	noch	word	noch	10
+9	OC	würde	VAFIN	werden	word	wuͤrde	4
+10	OC	finden	VVINF	finden	word	finden	9
+11	--	,	$,	,	punctuation	,	10
+12	SB	Ich	PPER	ich	word	Ich	13
+13	CJ	hab	VAFIN	haben	word	hab	2
+14	OA	es	PPER	es	word	es	13
+15	MO	recht	ADJD	recht	word	recht	16
+16	OC	gesucht	VVPP	suchen	word	gesucht	13
+17	--	;	SENT	;	punctuation	;	16
+
+1	MO	doch	ADV	doch	word	doch	2
+2	--	kann	VMFIN	können	word	kann	0
+3	SB	ich	PPER	ich	word	ich	2
+4	NG	nicht	PTKNEG	nicht	word	nicht	2
+5	OC	ergründen	VVINF	ergründen	word	ergruͤnden	2
+6	--	,	$,	,	punctuation	,	5
+7	SB	Wer	PWS	wer	word	Wer	14
+8	NK	dies	PDAT	dies	word	dies	10
+9	NK	berühmte	ADJA	berühmt	word	beruͤhmte	10
+10	OA	Land	NN	Land	word	Land	14
+11	MO	an	APPR	an	word	an	14
+12	NK	diesen	PDAT	dies	word	diesen	13
+13	NK	Ort	NN	Ort	word	Ort	11
+14	OC	gesetzt	VVPP	setzen	word	gesetzt	24
+15	--	,	$,	,	punctuation	,	14
+16	SB	Ich	PPER	ich	word	Ich	17
+17	CJ	hab	VAFIN	haben	word	hab	2
+18	OA	es	PPER	es	word	es	17
+19	MO	für	APPR	für	word	fuͤr	17
+20	NK	ein	ART	ein	word	ein	21
+21	NK	Teil	NN	Teil	word	Theil	19
+22	PG	von	APPR	von	word	von	21
+23	NK	Asien	NE	Asien	word	Asien	22
+24	MO	geschätzt	VVPP	schätzen	word	geschaͤzt	17
+25	--	.	SENT	.	punctuation	.	24
+
+1	MO	Ganz	ADV	ganz	word	Ganz	2
+2	--	recht	ADJD	recht	word	recht	0
+3	--	,	$,	,	punctuation	,	2
+4	CJ	Arkadien	NN	Arkadien	word	Arkadien	2
+5	--	,	$,	,	punctuation	,	4
+6	MO	wo	PWAVREL	wo	word	wo	16
+7	MO	vor	APPR	vor	word	vor	16
+8	MO	sehr	ADV	sehr	word	sehr	9
+9	NK	langen	ADJA	lang	word	langen	10
+10	NK	Jahren	NN	Jahr	word	Jahren	7
+11	--	,	$,	,	punctuation	,	10
+12	CP	Wenn	KOUS	wenn	word	Wenn	16
+13	SB	man	PIS	man	word	man	16
+14	NK	den	ART	d	word	den	15
+15	DA	Dichtern	NN	Dichtern	word	Dichtern	16
+16	RC	glaubt	VVFIN	glauben	word	glaubt	4
+17	--	,	$,	,	punctuation	,	16
+18	NK	die	ART	d	word	die	20
+19	NK	ersten	ADJA	erst	word	ersten	20
+20	PD	Schäfer	NE	Schäfer	word	Schaͤfer	21
+21	OC	waren	VAFIN	sein	word	waren	16
+22	--	;	SENT	;	punctuation	;	21
+
+1	NK	Dies	PDAT	dies	word	Dies	3
+2	NK	schöne	ADJA	schön	word	schoͤne	3
+3	SB	Land	NN	Land	word	Land	4
+4	--	war	VAFIN	sein	word	war	0
+5	MO	zwar	ADV	zwar	word	zwar	4
+6	SB	Asien	NE	Asien	word	Asien	4
+7	NK	ein	ART	ein	word	ein	8
+8	PD	Stück	NN	Stück	word	Stuͤck	4
+9	--	,	$,	,	punctuation	,	8
+10	CD	Doch	KON	doch	word	Doch	4
+11	NK	dieses	PDAT	dies	word	dieses	12
+12	SB	Land	NN	Land	word	Land	13
+13	CJ	beute	VVFIN	beuten	word	beut	10
+14	DA	uns	PPER	wir	word	uns	13
+15	NK	der	ART	d	word	der	18
+16	NK	alten	ADJA	alt	word	alten	18
+17	NK	Schäfer	NE	Schäfer	word	Schaͤfer	18
+18	DA	Glück	NN	Glück	word	Gluͤck	13
+19	--	;	SENT	;	punctuation	;	18
+
+1	JU	Und	KON	und	word	Und	11
+2	CP	da	KOUS	da	word	da	11
+3	SB	wir	PPER	wir	word	wir	11
+4	MO	gänzlich	ADV	gänzlich	word	gaͤnzlich	5
+5	MO	hier	ADV	hier	word	hier	11
+6	--	,	$,	,	punctuation	,	5
+7	CM	wie	KOUS	wie	word	wie	9
+8	NK	jene	PDAT	jen	word	jene	9
+9	CC	Schäfer	NE	Schäfer	word	Schaͤfer	5
+10	--	,	$,	,	punctuation	,	9
+11	RE	leben	VVINF	leben	word	leben	13
+12	--	,	$,	,	punctuation	,	11
+13	MO	So	ADV	so	word	So	14
+14	--	hab	VAFIN	haben	word	hab	0
+15	SB	ich	PPER	ich	word	ich	14
+16	DA	ihm	PPER	er	word	ihm	21
+17	MO	dazu	PAV	dazu	word	dazu	21
+18	NK	den	ART	d	word	den	19
+19	OA	Namen	NN	Name	word	Namen	21
+20	MO	auch	ADV	auch	word	auch	21
+21	OC	gegeben	VVPP	geben	word	gegeben	14
+22	--	.	SENT	.	punctuation	.	21
+
+1	--	Zum	APPRART	zum	word	Zum	0
+2	NK	Henker	NN	Henker	word	Henker	1
+3	--	!	SENT	!	punctuation	!	2
+
+1	SB	das	PDS	d	word	das	2
+2	--	ist	VAFIN	sein	word	ist	0
+3	PD	dumm	ADJD	dumm	word	dumm	2
+4	--	;	SENT	;	punctuation	;	3
+
+1	SB	ich	PPER	ich	word	ich	2
+2	--	hätt	VAFIN	haben	word	haͤtt	0
+3	OA	es	PPER	es	word	es	2
+4	MO	gern	ADV	gern	word	gern	2
+5	MO	geglaubt	VVPP	glauben	word	geglaubt	2
+6	--	,	$,	,	punctuation	,	5
+7	CP	Wenn	KOUS	wenn	word	Wenn	16
+8	SB	du	PPER	du	word	du	16
+9	NK	des	ART	d	word	des	11
+10	NK	süßen	ADJA	süß	word	suͤssen	11
+11	OG	Traums	NN	Traums	word	Traums	16
+12	OA	mich	PPER	ich	word	mich	16
+13	NG	nicht	PTKNEG	nicht	word	nicht	16
+14	MO	so	ADV	so	word	so	15
+15	MO	bald	ADV	bald	word	bald	16
+16	MO	beraubt	VVPP	berauben	word	beraubt	2
+17	--	,	$,	,	punctuation	,	16
+18	SB	Es	PPER	es	word	Es	19
+19	CJ	sei	VAFIN	sein	word	sey	2
+20	PD	Arkadien	NE	Arkadien	word	Arkadien	19
+21	--	.	SENT	.	punctuation	.	20
+
+1	OA	Was	PWS	was	word	Was	2
+2	--	tändelst	VVFIN	tändelst	word	taͤndelst	0
+3	SB	du	PPER	du	word	du	2
+4	--	,	$,	,	punctuation	,	3
+5	OA	Montan	NE	Montan	word	Montan	2
+6	--	!	SENT	!	punctuation	!	5
+
+1	JU	Und	KON	und	word	Und	2
+2	--	hintergehst	VVFIN	hintergehst	word	hintergehst	0
+3	OA	dich	PPER	du	word	dich	2
+4	MNR	selbst	PRF	selbst	word	selbst	3
+5	MO	nebst	APPR	nebst	word	nebst	2
+6	NK	mir	PPER	ich	word	mir	5
+7	--	?	SENT	?	punctuation	?	6
+
+1	SB	Das	PDS	d	word	Das	2
+2	--	geht	VVFIN	gehen	word	geht	0
+3	MO	wohl	ADV	wohl	word	wohl	2
+4	SVP	an	PTKVZ	an	word	an	2
+5	--	.	SENT	.	punctuation	.	4
+
+1	OA	Das	ART	d	word	Das	9
+2	SB	man	PIS	man	word	man	9
+3	NK	ein	ART	ein	word	ein	5
+4	NK	neues	ADJA	neu	word	neues	5
+5	OA	Land	NN	Land	word	Land	9
+6	MO	mit	APPR	mit	word	mit	9
+7	NK	alten	ADJA	alt	word	alten	8
+8	NK	Namen	NN	Name	word	Namen	6
+9	RE	nennet	VVFIN	nennen	word	nennet	22
+10	--	,	$,	,	punctuation	,	9
+11	SB	Wer	PWS	wer	word	Wer	20
+12	MO	nur	ADV	nur	word	nur	13
+13	MO	Neu	ADJD	neu	word	Neu	20
+14	OA	Spanien	NE	Spanien	word	Spanien	20
+15	--	,	$,	,	punctuation	,	14
+16	PNC	Neu	ADJD	neu	word	Neu	17
+17	CJ	Holl	NE	Holl	word	Holl-	14
+18	CD	und	KON	und	word	und	17
+19	CJ	England	NE	England	word	England	18
+20	RE	kennet	VVFIN	kennen	word	kennet	22
+21	--	,	$,	,	punctuation	,	20
+22	DA	Dem	PDS	der	word	Dem	23
+23	--	dünkt	VVFIN	dünken	word	duͤnkt	0
+24	EP	es	PPER	es	word	es	23
+25	MO	gar	ADV	gar	word	gar	26
+26	NG	nicht	PTKNEG	nicht	word	nicht	23
+27	MO	fremd	ADJD	fremd	word	fremd	23
+28	--	.	SENT	.	punctuation	.	27
+
+1	NK	Die	ART	d	word	Die	2
+2	OA	Länder	NN	Land	word	Laͤnder	3
+3	--	kenne	VVFIN	kennen	word	kenn	0
+4	SB	ich	PPER	ich	word	ich	3
+5	MO	wohl	ADV	wohl	word	wohl	3
+6	--	,	$,	,	punctuation	,	5
+7	SB	Den	KON	denn	word	Den	8
+8	CJ	will	VMFIN	wollen	word	will	3
+9	SB	ich	PPER	ich	word	ich	8
+10	OC	sehen	VVINF	sehen	word	sehn	8
+11	--	,	$,	,	punctuation	,	10
+12	SB	der	PRELS	d	word	der	17
+13	DA	mir	PPER	ich	word	mir	16
+14	OA	das	PDS	d	word	das	16
+15	MO	streitig	ADJD	streitig	word	streitig	16
+16	OC	machen	VVINF	machen	word	machen	17
+17	RC	soll	VMFIN	sollen	word	soll	7
+18	--	;	SENT	;	punctuation	;	17
+
+1	JU	Doch	KON	doch	word	Doch	3
+2	SB	es	PPER	es	word	es	3
+3	--	mag	VMFIN	mögen	word	mag	0
+4	MO	immer	ADV	immer	word	immer	5
+5	OC	sein	VAINF	sein	word	seyn	3
+6	--	,	$,	,	punctuation	,	5
+7	SB	ich	PPER	ich	word	ich	8
+8	CJ	kann	VMFIN	können	word	kann	3
+9	NK	den	ART	d	word	den	10
+10	OA	Namen	NN	Name	word	Namen	11
+11	OC	leiden	VVINF	leiden	word	leiden	8
+12	--	,	$,	,	punctuation	,	11
+13	SB	Ich	PPER	ich	word	Ich	14
+14	CJ	war	VAFIN	sein	word	war	8
+15	MO	auch	ADV	auch	word	auch	14
+16	MO	gleich	ADV	gleich	word	gleich	17
+17	PD	bereit	ADJD	bereit	word	bereit	14
+18	--	,	$,	,	punctuation	,	17
+19	CP	als	KOKOM	als	word	als	31
+20	SB	Schäfer	NE	Schäfer	word	Schaͤfer	31
+21	OA	mich	PRF	ich	word	mich	23
+22	PM	zu	PTKZU	zu	word	zu	23
+23	PD	kleiden	VVINF	kleiden	word	kleiden	31
+24	--	,	$,	,	punctuation	,	23
+25	MO	So	ADV	so	word	So	23
+26	--	,	$,	,	punctuation	,	25
+27	MO	wie	KOUS	wie	word	wie	31
+28	SB	du	PPER	du	word	du	31
+29	OA	mich	PPER	ich	word	mich	31
+30	MO	hier	ADV	hier	word	hier	31
+31	CC	siehst	VVFIN	sehen	word	siehst	16
+32	--	.	SENT	.	punctuation	.	31
+
+1	JU	Doch	ADV	doch	word	Doch	11
+2	NK	dieser	PDAT	dies	word	dieser	3
+3	SB	Haarbusch	NN	Haarbusch	word	Haarbusch	11
+4	JU	hier	ADV	hier	word	hier	11
+5	JU	Und	KON	und	word	Und	11
+6	NK	dieses	PDAT	dies	word	dieses	8
+7	NK	große	ADJA	groß	word	große	8
+8	SB	Schwert	NN	Schwert	word	Schwerd	11
+9	--	,	$,	,	punctuation	,	8
+10	NK	was	PWREL	was	word	was	8
+11	--	soll	VMFIN	sollen	word	soll	0
+12	NK	der	ART	d	word	der	13
+13	SB	Anputz	NN	Anputz	word	Anputz	11
+14	CJ	dir	PPER	du	word	dir	5
+15	MO	In	APPR	in	word	In	11
+16	NK	deiner	PPOSAT	dein	word	deiner	17
+17	NK	Schäfer-Tracht	NN	Schäfer-Tracht	word	Schaͤfer-Tracht	15
+18	--	?	SENT	?	punctuation	?	17
+
+1	--	Wie	PWAV	wie	word	Wie	0
+2	--	?	SENT	?	punctuation	?	1
+
+1	--	ist	VAFIN	sein	word	ist	0
+2	SB	das	PDS	d	word	das	1
+3	MO	hier	ADV	hier	word	hier	1
+4	NG	nicht	PTKNEG	nicht	word	nicht	1
+5	PD	Mode	NN	Mode	word	Mode	1
+6	--	?	SENT	?	punctuation	?	5
+
+1	CP	Wenn	KOUS	wenn	word	Wenn	5
+2	SB	das	PDS	d	word	das	5
+3	NK	die	ART	d	word	die	4
+4	OA	Schäfer	NE	Schäfer	word	Schaͤfer	5
+5	MO	sehen	VVINF	sehen	word	sehn	8
+6	--	,	$,	,	punctuation	,	5
+7	SB	sie	PPER	Sie	word	sie	8
+8	--	fürchten	VVFIN	fürchten	word	fuͤrchten	0
+9	OA	sich	PRF	er|es|sie	word	sich	8
+10	OP	zu	APPR	zu	word	zu	8
+11	MO	tode	NN	Tod	word	tode	8
+12	--	.	SENT	.	punctuation	.	11
+
+1	JU	Doch	ADV	doch	word	Doch	3
+2	--	,	$,	,	punctuation	,	1
+3	--	weiß	VVFIN	wissen	word	weiß	0
+4	SB	ich	PPER	ich	word	ich	3
+5	MO	denn	ADV	denn	word	denn	3
+6	--	,	$,	,	punctuation	,	5
+7	CP	ob	KOUS	ob	word	ob	12
+8	SB	man	PIS	man	word	man	12
+9	MO	auch	ADV	auch	word	auch	10
+10	OA	Schelmen	NN	Schelmen	word	Schelmen	11
+11	OC	trauen	VVINF	trauen	word	trauen	12
+12	RE	kann	VMFIN	können	word	kann	5
+13	--	?	SENT	?	punctuation	?	12
+
+1	MO	Mit	APPR	mit	word	Mit	5
+2	NK	diesem	PDAT	dies	word	diesem	3
+3	NK	Säbel	NN	Säbel	word	Saͤbel	1
+4	MO	hier	ADV	hier	word	hier	5
+5	--	steh	VVFIN	steh	word	steh	0
+6	SB	ich	PPER	ich	word	ich	5
+7	MO	für	APPR	für	word	fuͤr	5
+8	NK	zwanzig	CARD	zwanzig	word	zwanzig	9
+9	NK	Mann	NN	Mann	word	Mann	7
+10	--	.	SENT	.	punctuation	.	9
+
+1	MO	Trau	NE	Trau	word	Trau	10
+2	DA	uns	PPER	wir	word	uns	10
+3	MO	nur	ADV	nur	word	nur	9
+4	--	,	$,	,	punctuation	,	3
+5	PAR	auf	APPR	auf	word	auf	3
+6	NK	mein	PPOSAT	mein	word	mein	7
+7	NK	Wort	NN	Wort	word	Wort	5
+8	--	,	$,	,	punctuation	,	7
+9	MO	hier	ADV	hier	word	hier	10
+10	--	weiß	VVFIN	wissen	word	weiß	0
+11	SB	man	PIS	man	word	man	10
+12	OA	nichts	PIS	nichts	word	nichts	10
+13	OP	von	APPR	von	word	von	10
+14	NK	Morden	NN	Mord	word	Morden	13
+15	--	,	$,	,	punctuation	,	14
+16	MO	In	APPR	in	word	In	23
+17	NK	diesem	PDAT	dies	word	diesem	18
+18	NK	Land	NN	Land	word	Land	16
+19	CJ	ist	VAFIN	sein	word	ist	10
+20	MO	noch	ADV	noch	word	noch	21
+21	NK	kein	PIAT	kein	word	kein	22
+22	SB	Mensch	NN	Mensch	word	Mensch	19
+23	OC	erwürget	VVPP	erwürget	word	erwuͤrget	24
+24	OC	worden	VAPP	werden	word	worden	19
+25	--	.	SENT	.	punctuation	.	24
+
+1	--	Zum	APPRART	zum	word	Zum	0
+2	NK	Element	NN	Element	word	Element	1
+3	--	!	SENT	!	punctuation	!	2
+
+1	MO	so	ADV	so	word	so	2
+2	--	werd	VVFIN	werden	word	werd	0
+3	SB	ich	PPER	ich	word	ich	2
+4	NG	nicht	PTKNEG	nicht	word	nicht	2
+5	NK	der	ART	d	word	der	6
+6	PD	erste	NA	Erste	word	erste	7
+7	OC	sein	VAINF	sein	word	seyn	2
+8	--	.	SENT	.	punctuation	.	7
+
+1	SB	Ich	PPER	ich	word	Ich	2
+2	--	ändre	VVFIN	ändre	word	aͤndre	0
+3	NK	meinen	PPOSAT	mein	word	meinen	4
+4	OA	Staat	NN	Staat	word	Staat	2
+5	CD	und	KON	und	word	und	2
+6	CJ	geh	XY	--	word	geh	5
+7	DA	dir	PPER	du	word	dir	2
+8	OA	alles	PIS	all	word	alles	2
+9	SVP	ein	PTKVZ	ein	word	ein	2
+10	--	;	SENT	;	punctuation	;	9
+
+1	JU	Doch	ADV	doch	word	Doch	2
+2	--	sage	VVFIN	sagen	word	sage	0
+3	SVP	mit	PTKVZ	mit	word	mit	2
+4	--	,	$,	,	punctuation	,	3
+5	MO	wie	KOUS	wie	word	wie	10
+6	SB	du	PPER	du	word	du	10
+7	MO	an	APPR	an	word	an	10
+8	NK	diesen	PDAT	dies	word	diesen	9
+9	NK	Ort	NN	Ort	word	Ort	7
+10	OC	gekommen	VVPP	kommen	word	gekommen	2
+11	--	.	SENT	.	punctuation	.	10
+
+1	NK	Ach	ITJ	ach	word	Ach	0
+2	--	!	SENT	!	punctuation	!	0
+
+1	--	-	$.	-	punctuation	-	5
+2	--	-	$.	-	punctuation	-	1
+3	--	-	$.	-	punctuation	-	2
+4	--	-	$.	-	punctuation	-	3
+5	MNR	Nun	ADV	nun	word	Nun	7
+6	--	,	$,	,	punctuation	,	5
+7	--	was	PWREL	was	word	was	0
+8	NK	ach	ITJ	ach	word	ach	7
+9	--	?	SENT	?	punctuation	?	8
+
+1	--	was	PWS	was	word	was	0
+2	MO	gibts	VVFIN	gibts	word	giebts	1
+3	--	?	SENT	?	punctuation	?	2
+
+1	SB	was	PWS	was	word	was	2
+2	--	hast	VAFIN	haben	word	hast	0
+3	SB	du	PPER	du	word	du	2
+4	OC	vorgenommen	VVPP	vornehmen	word	vorgenommen	2
+5	--	?	SENT	?	punctuation	?	4
+
+1	--	Ei	ITJ	Ei	word	Ey	0
+2	--	,	$,	,	punctuation	,	1
+3	CJ	Ei	ITJ	Ei	word	Ey	1
+4	--	!	SENT	!	punctuation	!	3
+
+1	NK	Das	ART	d	word	Das	2
+2	SB	Glück	NN	Glück	word	Gluͤck	3
+3	--	hat	VAFIN	haben	word	hat	0
+4	OA	mich	PPER	ich	word	mich	7
+5	MO	ins	APPRART	ins	word	ins	7
+6	NK	Elend	NN	Elend	word	Elend	5
+7	OC	hergeiagt	VVPP	hergeiagt	word	hergeiagt	3
+8	--	;	SENT	;	punctuation	;	7
+
+1	NK	Das	ART	d	word	Das	2
+2	--	Glück	NN	Glück	word	Gluͤck	0
+3	--	,	$,	,	punctuation	,	2
+4	SB	das	PRELS	d	word	das	10
+5	MO	bis	APPR	bis	word	bis	10
+6	NK	hieher	ADV	hierher	word	hieher	5
+7	DA	mir	PPER	ich	word	mir	10
+8	NK	seine	PPOSAT	sein	word	seine	9
+9	OA	Treu	NN	Treu	word	Treu	10
+10	RC	versagt	VVPP	versagen	word	versagt	2
+11	--	.	SENT	.	punctuation	.	10
+
+1	SB	Es	PPER	es	word	Es	2
+2	--	mußt	VMFIN	müssen	word	mußt	0
+3	NK	ein	ART	ein	word	ein	5
+4	NK	Finstrer	NN	Finstrer	word	finstrer	5
+5	SB	Turm	NN	Turm	word	Thurm	2
+6	MNR	an	APPR	an	word	an	5
+7	NK	mir	PPER	ich	word	mir	6
+8	NK	die	ART	d	word	die	9
+9	OA	Neider	NN	Neider	word	Neider	10
+10	OC	rächen	VVINF	rächen	word	raͤchen	2
+11	--	,	$,	,	punctuation	,	10
+12	CD	Und	KON	und	word	Und	2
+13	SB	ich	PPER	ich	word	ich	14
+14	CJ	ergrief	VVFIN	ergrief	word	ergrief	12
+15	NK	die	ART	d	word	die	16
+16	OA	Flucht	NN	Flucht	word	Flucht	14
+17	--	.	SENT	.	punctuation	.	16
+
+1	SB	Was	PWS	was	word	Was	2
+2	--	war	VAFIN	sein	word	war	0
+3	MO	denn	ADV	denn	word	denn	2
+4	NK	dein	PPOSAT	dein	word	dein	5
+5	PD	Verbrechen	NN	Verbrechen	word	Verbrechen	2
+6	--	?	SENT	?	punctuation	?	5
+
+1	NK	Der	ART	d	word	Der	4
+2	NK	schönsten	ADJA	schön	word	schoͤnsten	4
+3	NK	Liebe	NN	Liebe	word	Liebe	4
+4	--	Glück	NN	Glück	word	Gluͤck	0
+5	--	;	SENT	;	punctuation	;	4
+
+1	SB	man	PIS	man	word	man	2
+2	--	brachte	VVFIN	bringen	word	brachte	0
+3	OA	mich	PPER	ich	word	mich	2
+4	MO	darum	PAV	darum	word	darum	2
+5	--	,	$,	,	punctuation	,	4
+6	CD	Und	KON	und	word	Und	2
+7	CJ	nahm	VVFIN	nehmen	word	nahm	6
+8	OA	mich	PPER	ich	word	mich	7
+9	MO	in	APPR	in	word	in	7
+10	NK	Verhaft	NN	Verhaft	word	Verhaft	9
+11	--	.	SENT	.	punctuation	.	10
+
+1	--	Verflucht	VVPP	verfluchen	word	Verflucht	0
+2	--	!	SENT	!	punctuation	!	1
+
+1	NK	das	PRELS	d	word	das	2
+2	--	heiß	ADJD	heiß	word	heiß	0
+3	SB	ich	PPER	ich	word	ich	4
+4	PD	dumm	ADJD	dumm	word	dumm	2
+5	--	.	SENT	.	punctuation	.	4
+
+1	MO	Gleich	ADJD	gleich	word	Gleich	2
+2	MO	drauf	PAV	darauf	word	drauf	3
+3	--	starb	VVFIN	sterben	word	starb	0
+4	NK	meine	PPOSAT	mein	word	meine	5
+5	SB	Frau	NN	Frau	word	Frau	3
+6	--	.	SENT	.	punctuation	.	5
+
+1	MO	Wie	PWAV	wie	word	Wie	2
+2	--	hieß	VVFIN	heißen	word	hieß	0
+3	SB	sie	PPER	Sie	word	sie	2
+4	--	?	SENT	?	punctuation	?	3
+
+1	--	Célimène	NE	Célimène	word	Celimene	0
+2	--	.	SENT	.	punctuation	.	1
+
+1	--	Wie	PWAV	wie	word	Wie	0
+2	--	?	SENT	?	punctuation	?	1
+
+1	--	Célimène	NE	Célimène	word	Celimene	0
+2	--	?	SENT	?	punctuation	?	1
+
+1	--	-	$.	-	punctuation	–	3
+2	--	-	$.	-	punctuation	–	1
+3	--	halt	ADV	halt	word	halt	0
+4	--	!	SENT	!	punctuation	!	3
+
+1	--	-	$.	-	punctuation	–	3
+2	--	-	$.	-	punctuation	–	1
+3	SB	Ich	PPER	ich	word	Ich	4
+4	--	kannt	VVFIN	kannt	word	kannt	0
+5	MO	einst	ADV	einst	word	einst	4
+6	NK	eine	ART	ein	word	eine	7
+7	OA	Schöne	ADJA	schön	word	Schoͤne	4
+8	--	,	$,	,	punctuation	,	7
+
+1	NK	Die	PDS	d	word	Die	2
+2	--	hieß	VVFIN	heißen	word	hieß	0
+3	MO	gerade	ADV	gerade	word	gerade	2
+4	MO	so	ADV	so	word	so	2
+5	--	.	SENT	.	punctuation	.	4
+
+1	--	Potzstern	NE	Potzstern	word	Potzstern	0
+2	--	!	SENT	!	punctuation	!	1
+
+1	SB	wer	PWS	wer	word	wer	2
+2	--	war	VAFIN	sein	word	war	0
+3	SB	sie	PPER	Sie	word	sie	2
+4	MO	doch	ADV	doch	word	doch	2
+5	--	?	SENT	?	punctuation	?	4
+
+1	PD	Still	ADJD	still	word	Still	5
+2	--	-	$.	-	punctuation	–	1
+3	--	-	$.	-	punctuation	–	2
+4	MO	Izo	ADV	jetzt	word	ietzo	5
+5	--	fällt	VVFIN	fallen	word	faͤllt	0
+6	DA	mir	PPER	ich	word	mir	5
+7	DA	s	PPER	es	word	s	5
+8	SVP	ein	PTKVZ	ein	word	ein	5
+9	--	,	$,	,	punctuation	,	8
+10	MO	ja	ITJ	ja	word	ia	5
+11	--	,	$,	,	punctuation	,	10
+12	MO	ja	ITJ	ja	word	ia	5
+13	--	,	$,	,	punctuation	,	12
+14	SB	ich	PPER	ich	word	ich	15
+15	CJ	weiß	VVFIN	wissen	word	weiß	5
+16	OA	es	PPER	es	word	es	15
+17	MO	noch	ADV	noch	word	noch	15
+18	--	:	SENT	:	punctuation	:	17
+
+1	SB	Sie	PPER	Sie	word	Sie	2
+2	--	war	VAFIN	sein	word	war	0
+3	SBP	von	APPR	von	word	von	7
+4	NK	gutem	ADJA	gut	word	gutem	5
+5	NK	Stand	NN	Stand	word	Stand	3
+6	--	,	$,	,	punctuation	,	5
+7	PD	reich	ADJD	reich	word	reich	2
+8	--	,	$,	,	punctuation	,	7
+9	CJ	klug	ADJD	klug	word	klug	7
+10	--	,	$,	,	punctuation	,	9
+11	CJ	schön	ADJD	schön	word	schoͤn	9
+12	MO	vom	APPRART	vom	word	vom	11
+13	NK	Gesichte	NN	Gesicht	word	Gesichte	12
+14	--	,	$,	,	punctuation	,	13
+15	CD	Jedoch	KON	jedoch	word	Jedoch	2
+16	CJ	erzähle	VVFIN	erzählen	word	erzehle	15
+17	DA	mir	PPER	ich	word	mir	16
+18	MO	doch	ADV	doch	word	doch	16
+19	MO	ferner	ADV	fern	word	ferner	16
+20	NK	die	ART	d	word	die	21
+21	OA	Geschichte	NN	Geschichte	word	Geschichte	16
+22	--	.	SENT	.	punctuation	.	21
+
+1	SB	Ich	PPER	ich	word	Ich	2
+2	--	floh	VVFIN	fliehen	word	floh	0
+3	--	;	SENT	;	punctuation	;	2
+
+1	SB	es	PPER	es	word	es	2
+2	--	förderte	VVFIN	fördern	word	foͤrderte	0
+3	OA	Verzweiflung	NN	Verzweiflung	word	Verzweiflung	2
+4	NK	meinen	PPOSAT	mein	word	meinen	5
+5	OA	Schritt	NN	Schritt	word	Schritt	2
+6	--	.	SENT	.	punctuation	.	5
+
+1	SB	Ich	PPER	ich	word	Ich	2
+2	--	nahm	VVFIN	nehmen	word	nahm	0
+3	MO	nebst	APPR	nebst	word	nebst	2
+4	NK	einem	ART	ein	word	einem	5
+5	NK	Knecht	NN	Knecht	word	Knecht	3
+6	NK	drei	CARD	drei	word	drey	8
+7	NK	kleine	ADJA	klein	word	kleine	8
+8	OA	Kinder	NN	Kind	word	Kinder	2
+9	SVP	mit	PTKVZ	mit	word	mit	2
+10	--	.	SENT	.	punctuation	.	9
+
+1	SB	Zwei	CARD	zwei	word	Zwey	2
+2	--	waren	VAFIN	sein	word	waren	0
+3	MO	nur	ADV	nur	word	nur	4
+4	MO	von	APPR	von	word	von	2
+5	NK	mir	PPER	ich	word	mir	4
+6	--	,	$,	,	punctuation	,	5
+7	SB	eins	ADV	eins	word	eins	8
+8	CJ	war	VAFIN	sein	word	war	2
+9	MO	von	APPR	von	word	von	8
+10	NK	meinem	PPOSAT	mein	word	meinem	11
+11	NK	Freunde	NN	Freund	word	Freunde	9
+12	--	.	SENT	.	punctuation	.	11
+
+1	SB	Ich	PPER	ich	word	Ich	2
+2	--	floh	VVFIN	fliehen	word	floh	0
+3	--	,	$,	,	punctuation	,	2
+4	CD	und	KON	und	word	und	2
+5	CJ	kam	VVFIN	kommen	word	kam	4
+6	MO	hieher	ADV	hierher	word	hieher	5
+7	--	,	$,	,	punctuation	,	6
+8	MO	hier	ADV	hier	word	hier	9
+9	PAR	lebe	VVFIN	leben	word	leb	5
+10	SB	ich	PPER	ich	word	ich	9
+11	MO	ohne	APPR	ohne	word	ohne	9
+12	NK	Feinde	NN	Feind	word	Feinde	11
+13	--	.	SENT	.	punctuation	.	12
+
+1	JU	Doch	KON	doch	word	Doch	3
+2	MO	warum	PWAV	warum	word	warum	3
+3	--	nahmst	VVFIN	nahmst	word	nahmst	0
+4	SB	du	PPER	du	word	du	3
+5	MO	denn	ADV	denn	word	denn	3
+6	NK	des	ART	d	word	des	7
+7	OG	Freundes	NN	Freund	word	Freundes	3
+8	NK	Kind	NN	Kind	word	Kind	7
+9	MO	mit	APPR	mit	word	mit	3
+10	NK	dir	PPER	du	word	dir	9
+11	--	?	SENT	?	punctuation	?	10
+
+1	NK	O	ITJ	O	word	O	2
+2	--	!	SENT	!	punctuation	!	0
+
+1	NK	der	PDS	d	word	der	2
+2	--	zog	VVFIN	ziehen	word	zog	0
+3	MNR	in	APPR	in	word	in	2
+4	NK	die	ART	d	word	die	5
+5	NK	Welt	NN	Welt	word	Welt	3
+6	--	.	SENT	.	punctuation	.	5
+
+1	MO	Darinnen	PAV	darin	word	Darinnen	2
+2	--	gleicht	VVFIN	gleichen	word	gleicht	0
+3	SB	er	PPER	er	word	er	2
+4	DA	mir	PPER	ich	word	mir	2
+5	--	.	SENT	.	punctuation	.	4
+
+1	SB	Wir	PPER	wir	word	Wir	2
+2	--	hätten	VAFIN	haben	word	haͤtten	0
+3	OA	uns	PPER	wir	word	uns	7
+4	MO	recht	ADJD	recht	word	recht	7
+5	MO	gut	ADJD	gut	word	gut	7
+6	MO	zusammen	PTKVZ	zusammen	word	zusammen	7
+7	OC	schicken	VVINF	schicken	word	schicken	8
+8	OC	sollen	VMFIN	sollen	word	sollen	2
+9	--	,	$,	,	punctuation	,	8
+10	SB	Ich	PPER	ich	word	Ich	11
+11	CJ	hätte	VAFIN	haben	word	haͤtte	2
+12	MO	recht	ADJD	recht	word	recht	17
+13	MO	mit	APPR	mit	word	mit	17
+14	NK	ihm	PPER	er	word	ihm	13
+15	NK	die	ART	d	word	die	16
+16	OA	Welt	NN	Welt	word	Welt	17
+17	OC	durchstreichen	VVINF	durchstreichen	word	durchstreichen	18
+18	OC	wollen	VMFIN	wollen	word	wollen	11
+19	--	,	$,	,	punctuation	,	18
+20	SB	Ich	PPER	ich	word	Ich	21
+21	CJ	reist	VVFIN	reisen	word	reist	11
+22	--	,	$,	,	punctuation	,	21
+23	CD	und	KON	und	word	und	21
+24	CJ	überließ	VVFIN	überlassen	word	uͤberließ	23
+25	OA	mich	PRF	ich	word	mich	24
+26	OA	Wellen	NN	Welle	word	Wellen	24
+27	NK	Sturm	NN	Sturm	word	Sturm	26
+28	CD	und	KON	und	word	und	27
+29	CJ	Wind	NN	Wind	word	Wind	28
+30	--	.	SENT	.	punctuation	.	29
+
+1	MO	Befahl	VVFIN	befehlen	word	Befahl	3
+2	NK	dem	ART	d	word	dem	3
+3	CJ	Himmel	NN	Himmel	word	Himmel	14
+4	--	,	$,	,	punctuation	,	3
+5	CJ	Haus	TRUNC	Haus-	word	Haus	3
+6	CD	und	KON	und	word	und	5
+7	CJ	Hof	NN	Hof	word	Hof	6
+8	CD	und	KON	und	word	und	7
+9	CJ	Weib	NN	Weib	word	Weib	8
+10	CD	und	KON	und	word	und	9
+11	CJ	Kind	NN	Kind	word	Kind	10
+12	--	,	$,	,	punctuation	,	11
+13	JU	Und	KON	und	word	Und	14
+14	--	bin	VAFIN	sein	word	bin	0
+15	MO	fast	ADV	fast	word	fast	16
+16	NK	zwanzig	CARD	zwanzig	word	zwanzig	17
+17	MO	Jahr	NN	Jahr	word	Jahr	21
+18	NK	die	ART	d	word	die	20
+19	NK	ganze	ADJA	ganz	word	ganze	20
+20	OA	Welt	NN	Welt	word	Welt	21
+21	OC	durchkrochen	VVFIN	durchkrochen	word	durchkrochen	14
+22	--	,	$,	,	punctuation	,	21
+23	MO	Nur	ADV	nur	word	Nur	27
+24	CJ	bin	VAFIN	sein	word	bin	14
+25	SB	ich	PPER	ich	word	ich	24
+26	NG	nicht	PTKNEG	nicht	word	nicht	27
+27	OC	entflohen	VVPP	entfliehen	word	entflohn	24
+28	--	,	$,	,	punctuation	,	27
+29	CD	und	KON	und	word	und	24
+30	CJ	hab	VAFIN	haben	word	hab	29
+31	MO	auch	ADV	auch	word	auch	30
+32	OA	nichts	PIS	nichts	word	nichts	33
+33	MO	verbrochen	VVFIN	verbrochen	word	verbrochen	30
+34	--	,	$,	,	punctuation	,	33
+35	CD	Doch	KON	doch	word	Doch	30
+36	NK	meiner	PPOSAT	mein	word	meiner	37
+37	DA	Kinder	NN	Kind	word	Kinder	39
+38	OA	Glück	NN	Glück	word	Gluͤck	39
+39	CJ	empfahl	VVFIN	empfehlen	word	empfahl	35
+40	DA	mir	PPER	ich	word	mir	39
+41	NK	die	ART	d	word	die	42
+42	OA	Natur	NN	Natur	word	Natur	39
+43	--	.	SENT	.	punctuation	.	42
+
+1	SB	Wer	PWS	wer	word	Wer	2
+2	--	waren	VAFIN	sein	word	waren	0
+3	SB	sie	PPER	Sie	word	sie	2
+4	--	?	SENT	?	punctuation	?	3
+
+1	NK	Ein	ART	ein	word	Ein	2
+2	--	Sohn	NN	Sohn	word	Sohn	0
+3	CD	und	KON	und	word	und	2
+4	NK	eine	ART	ein	word	eine	5
+5	CJ	Tochter	NN	Tochter	word	Tochter	3
+6	MO	nur	ADV	nur	word	nur	5
+7	--	.	SENT	.	punctuation	.	6
+
+1	--	Zwei	CARD	zwei	word	Zwey	0
+2	--	?	SENT	?	punctuation	?	1
+
+1	MO	Wie	PWAV	wie	word	Wie	3
+2	MO	aber	ADV	aber	word	aber	3
+3	--	hieß	VVFIN	heißen	word	hieß	0
+4	NK	dein	PPOSAT	dein	word	dein	5
+5	SB	Sohn	NN	Sohn	word	Sohn	3
+6	--	?	SENT	?	punctuation	?	5
+
+1	--	Leander	NE	Leander	word	Leander	0
+2	--	.	SENT	.	punctuation	.	1
+
+1	--	-	$.	-	punctuation	-	4
+2	--	-	$.	-	punctuation	-	1
+3	--	-	$.	-	punctuation	-	2
+4	NK	Meinem	PPOSAT	mein	word	Meinem	5
+5	DA	Herzen	NN	Herz	word	Herzen	6
+6	--	Sagt	VVFIN	sagen	word	Sagt	0
+7	MO	hier	ADV	hier	word	hier	6
+8	NK	die	ART	d	word	die	9
+9	OA	Ahndung	NN	Ahndung	word	Ahndung	6
+10	SB	was	PWS	was	word	was	6
+11	MO	mit	APPR	mit	word	mit	6
+12	NK	Hoffnungs-vollen	NN	Hoffnungs-vollen	word	Hoffnungs-vollen	11
+13	NK	Schmerzen	NN	Schmerz	word	Schmerzen	12
+14	--	.	SENT	.	punctuation	.	13
+
+1	MO	Noch	ADV	noch	word	Noch	2
+2	--	eins	ADV	eins	word	eins	0
+3	--	.	SENT	.	punctuation	.	2
+
+1	NK	Mein	PPOSAT	mein	word	Mein	3
+2	NK	werter	ADJA	werter	word	werther	3
+3	--	Freund	NN	Freund	word	Freund	0
+4	--	!	SENT	!	punctuation	!	3
+
+1	--	verzeih	VVIMP	verzeihen	word	verzeih	0
+2	--	,	$,	,	punctuation	,	1
+3	MO	wie	KOKOM	wie	word	wie	4
+4	MO	nennst	VVFIN	nennst	word	nennst	1
+5	SB	du	PPER	du	word	du	4
+6	OA	dich	PPER	du	word	dich	1
+7	--	?	SENT	?	punctuation	?	6
+
+1	--	Ich	PPER	ich	word	Ich	0
+2	--	?	SENT	?	punctuation	?	1
+
+1	--	Organ	NN	Organ	word	Organ	0
+2	--	.	SENT	.	punctuation	.	1
+
+1	--	Organ	NN	Organ	word	Organ	0
+2	--	?	SENT	?	punctuation	?	1
+
+1	DM	Ja	PTKANT	ja	word	Ja	5
+2	--	,	$,	,	punctuation	,	1
+3	NK	der	ART	d	word	der	4
+4	SB	Teufel	NN	Teufel	word	Teufel	5
+5	--	hole	VVFIN	hole	word	hole	0
+6	OA	mich	PRF	ich	word	mich	5
+7	--	!	SENT	!	punctuation	!	6
+
+1	DM	Allein	ADV	allein	word	Allein	4
+2	--	,	$,	,	punctuation	,	1
+3	MO	wie	KOKOM	wie	word	wie	4
+4	--	heißest	VVFIN	heißest	word	heissest	0
+5	SB	du	PPER	du	word	du	4
+6	--	?	SENT	?	punctuation	?	5
+
+1	--	Oronte	NE	Oronte	word	Oronte	0
+2	--	.	SENT	.	punctuation	.	1
+
+1	--	Wie	PWAV	wie	word	Wie	0
+2	--	?	SENT	?	punctuation	?	1
+
+1	--	Oronte	NE	Oronte	word	Oronte	0
+2	--	?	SENT	?	punctuation	?	1
+
+1	NK	O	ITJ	O	word	O	2
+2	--	Zufall	NN	Zufall	word	Zufall	0
+3	--	!	SENT	!	punctuation	!	2
+
+1	SB	der	PRELS	d	word	der	6
+2	OA	mich	PPER	ich	word	mich	5
+3	MO	noch	ADV	noch	word	noch	4
+4	MO	allein	ADV	allein	word	allein	5
+5	OC	beglücken	VVINF	beglücken	word	begluͤcken	6
+6	--	konnte	VMFIN	können	word	konnte	0
+7	--	!	SENT	!	punctuation	!	6
+
+1	CC	Umarme	NN	Umarme	word	Umarme	2
+2	CC	mich	PRF	ich	word	mich	5
+3	--	,	$,	,	punctuation	,	2
+4	NK	mein	PPOSAT	mein	word	mein	5
+5	--	Freund	NN	Freund	word	Freund	0
+6	--	,	$,	,	punctuation	,	5
+
+1	--	Zum	APPRART	zum	word	Zum	0
+2	NK	Teufel	NN	Teufel	word	Teufel	1
+3	--	,	$,	,	punctuation	,	2
+4	CJ	Ists	VAFIN	sein	word	ists	2
+5	MO	denn	ADV	denn	word	denn	1
+6	PD	wahr	ADJD	wahr	word	wahr	1
+7	--	?	SENT	?	punctuation	?	6
+
+1	--	Bist	VAFIN	sein	word	Bist	0
+2	SB	du	PPER	du	word	du	1
+3	NK	mein	PPOSAT	mein	word	mein	4
+4	PD	Freund	NN	Freund	word	Freund	1
+5	--	,	$,	,	punctuation	,	4
+6	CJ	Oront	NN	Oront	word	Oront	4
+7	--	?	SENT	?	punctuation	?	6
+
+1	SB	Ich	PPER	ich	word	Ich	2
+2	--	bin	VAFIN	sein	word	bin	0
+3	SB	es	PPER	es	word	es	2
+4	--	,	$,	,	punctuation	,	3
+5	SB	es	PPER	es	word	es	6
+6	CJ	ist	VAFIN	sein	word	ist	2
+7	PD	klar	ADJD	klar	word	klar	6
+8	--	.	SENT	.	punctuation	.	7
+
+1	--	Ach	ITJ	ach	word	Ach	0
+2	NK	liebster	ADJA	lieb	word	liebster	3
+3	NK	Herzensfreund	NN	Herzensfreund	word	Herzensfreund	1
+4	--	!	SENT	!	punctuation	!	3
+
+1	SB	ich	PPER	ich	word	ich	2
+2	--	fresse	VVINF	fresse	word	fresse	0
+3	OA	dich	PPER	du	word	dich	2
+4	MO	für	APPR	für	word	fuͤr	2
+5	NK	Freuden	NN	Freude	word	Freuden	4
+6	--	.	SENT	.	punctuation	.	5
+
+1	NK	O	ITJ	O	word	O	2
+2	--	Himmel	NN	Himmel	word	Himmel	0
+3	--	!	SENT	!	punctuation	!	2
+
+1	NK	welche	PRELS	welch	word	welche	2
+2	SB	Lust	NN	Lust	word	Lust	3
+3	--	erweckt	VVFIN	erwecken	word	erweckt	0
+4	NK	das	ART	d	word	das	5
+5	OA	Glück	NN	Glück	word	Gluͤck	3
+6	DA	uns	PRF	wir	word	uns	3
+7	OA	Beiden	VVPP	Beiden	word	Beiden	3
+8	--	.	SENT	.	punctuation	.	7
+
+1	NK	Ach	ITJ	ach	word	Ach	2
+2	--	Organ	NN	Organ	word	Organ	0
+3	--	!	SENT	!	punctuation	!	2
+
+1	NK	Ach	ITJ	ach	word	Ach	2
+2	--	Oront	NE	Oront	word	Oront	0
+3	--	!	SENT	!	punctuation	!	2
+
+1	PNC	Ach	ITJ	ach	word	Ach	2
+2	--	Corydon	NE	Corydon	word	Corydon	0
+3	--	!	SENT	!	punctuation	!	2
+
+1	--	Montan	NE	Montan	word	Montan	0
+2	--	!	SENT	!	punctuation	!	1
+
+1	NK	Ach	ITJ	ach	word	Ach	0
+
+1	NK	Ach	ITJ	ach	word	Ach	0
+
+1	--	Ich	PPER	ich	word	Ich	0
+
+1	--	Ich	PPER	ich	word	Ich	0
+
+1	--	Bin	VAFIN	Bin	word	Bin	0
+
+1	--	Bin	VAFIN	Bin	word	Bin	0
+
+1	--	Entzückt	ADJD	Entzückt	word	Entzuͤckt	0
+
+1	--	Entzückt	VVFIN	Entzückt	word	Entzuͤckt	0
+
+1	SB	Ich	PPER	ich	word	Ich	2
+2	--	kann	VMFIN	können	word	kann	0
+3	--	,	$,	,	punctuation	,	2
+
+1	SB	Ich	PPER	ich	word	Ich	2
+2	--	kann	VMFIN	können	word	kann	0
+
+1	--	Kann	VMFIN	können	word	Kann	0
+
+1	--	Kann	VMFIN	können	word	Kann	0
+
+1	--	Nicht	PTKNEG	nicht	word	Nicht	0
+2	MO	mehr	ADV	mehr	word	mehr	1
+3	--	.	SENT	.	punctuation	.	2
+
+1	JU	O	ITJ	O	word	O	3
+2	NK	größtes	ADJA	groß	word	groͤßtes	3
+3	--	Glück	NN	Glück	word	Gluͤck	0
+4	NK	der	ART	d	word	der	5
+5	AG	Erden	NN	Erde	word	Erden	3
+6	--	!	SENT	!	punctuation	!	5
+
+1	MO	Für	APPR	für	word	Fuͤr	12
+2	NK	Freuden	NN	Freude	word	Freuden	1
+3	--	möchte	VMFIN	mögen	word	moͤcht	0
+4	SB	ich	PPER	ich	word	ich	3
+5	--	,	$,	,	punctuation	,	4
+6	MO	ja	ADV	ja	word	ia	3
+7	--	-	$-	-	punctuation	–	6
+8	CJ	möchte	VMFIN	mögen	word	moͤcht	3
+9	SB	ich	PPER	ich	word	ich	8
+10	NK	des	ART	d	word	des	11
+11	AG	Teufels	NE	Teufel	word	Teufels	2
+12	OC	werden	VAINF	werden	word	werden	8
+13	--	.	SENT	.	punctuation	.	12
+
+1	NK	Ja	PTKANT	ja	word	Ja	3
+2	--	,	$,	,	punctuation	,	1
+3	NK	ja	ITJ	ja	word	ia	5
+4	--	,	$,	,	punctuation	,	3
+5	--	du	PPER	du	word	du	0
+6	MO	bists	ADV	bists	word	bists	5
+7	--	.	SENT	.	punctuation	.	6
+
+1	--	Du	PPER	du	word	Du	0
+2	MO	auch	ADV	auch	word	auch	1
+3	--	.	SENT	.	punctuation	.	2
+
+1	JU	Doch	ADV	doch	word	Doch	6
+2	MO	noch	ADV	noch	word	noch	5
+3	NK	ein	ART	ein	word	ein	5
+4	NK	größer	ADJD	groß	word	groͤsser	5
+5	SB	Glück	NN	Glück	word	Gluͤck	6
+6	--	Muß	VMFIN	müssen	word	Muß	0
+7	DA	dir	PPER	du	word	dir	8
+8	OC	entdecket	VVPP	entdecken	word	entdecket	9
+9	OC	sein	VAINF	sein	word	seyn	6
+10	--	,	$,	,	punctuation	,	9
+11	CJ	komm	VVIMP	kommen	word	komm	6
+12	MO	nur	ADV	nur	word	nur	13
+13	MO	mit	APPR	mit	word	mit	11
+14	NK	mir	PPER	ich	word	mir	13
+15	SVP	zurück	PTKVZ	zurück	word	zuruͤck	11
+16	--	.	SENT	.	punctuation	.	15
+
+1	SB	Montan	NE	Montan	word	Montan	4
+2	--	,	$,	,	punctuation	,	1
+3	MO	nun	ADV	nun	word	nun	4
+4	--	muß	VMFIN	müssen	word	muß	0
+5	SB	ich	PPER	ich	word	ich	4
+6	MO	fort	PTKVZ	fort	word	fort	4
+7	--	!	SENT	!	punctuation	!	6
+
+1	--	-	$.	-	punctuation	-	4
+2	--	-	$.	-	punctuation	-	1
+3	--	-	$.	-	punctuation	-	2
+4	PNC	Hab	VAFIN	haben	word	Hab	5
+5	SB	ich's	PPER	ich	word	ichs	7
+6	NG	nicht	PTKNEG	nicht	word	nicht	7
+7	--	prophezeit	VVFIN	prophezeien	word	prophezeihet	0
+8	--	?	SENT	?	punctuation	?	7
+
+1	SB	Du	PPER	du	word	Du	2
+2	--	siehst	VVFIN	sehen	word	siehst	0
+3	MO	nun	ADV	nun	word	nun	2
+4	--	,	$,	,	punctuation	,	3
+5	CP	daß	KOUS	daß	word	daß	12
+6	NK	dein	PPOSAT	dein	word	dein	7
+7	SB	Schluß	NN	Schluß	word	Schluß	12
+8	OA	dich	PPER	du	word	dich	12
+9	MO	nur	ADV	nur	word	nur	11
+10	MO	zu	PTKA	zu	word	zu	11
+11	MO	früh	ADJD	früh	word	fruͤh	12
+12	OC	gereuet	VVPP	gereuet	word	gereuet	2
+13	--	.	SENT	.	punctuation	.	12
+
+1	--	Nimmt	VVFIN	nehmen	word	Nimmt	0
+2	OA	dich	PPER	du	word	dich	1
+3	MO	so	ADV	so	word	so	4
+4	MO	bald	ADV	bald	word	bald	1
+5	NK	der	ART	d	word	der	6
+6	SB	Trieb	NN	Trieb	word	Trieb	13
+7	MNR	zur	APPRART	zur	word	zur	6
+8	NK	Ehre	NN	Ehre	word	Ehre	7
+9	MO	wieder	ADV	wieder	word	wieder	1
+10	SVP	ein	PTKVZ	ein	word	ein	1
+11	--	,	$,	,	punctuation	,	10
+12	MO	So	ADV	so	word	So	25
+13	OC	würde	VAFIN	werden	word	wuͤrd	1
+14	--	'	$'	'	punctuation	'	13
+15	SB	st	NE	st	word	st	13
+16	SB	du	PPER	du	word	du	13
+17	CC	dir	PPER	du	word	dir	3
+18	CD	und	KON	und	word	und	17
+19	CJ	mir	PPER	ich	word	mir	18
+20	MO	zur	APPRART	zur	word	zur	25
+21	NK	Last	NN	Last	word	Last	20
+22	--	,	$,	,	punctuation	,	21
+23	NK	ein	ART	ein	word	ein	24
+24	PD	Schäfer	NE	Schäfer	word	Schaͤfer	25
+25	OC	sein	VAINF	sein	word	seyn	13
+26	--	.	SENT	.	punctuation	.	25
+
+1	SB	Das	PDS	d	word	Das	2
+2	--	ist	VAFIN	sein	word	ist	0
+3	SB	es	PPER	es	word	es	2
+4	NG	nicht	PTKNEG	nicht	word	nicht	2
+5	--	,	$,	,	punctuation	,	4
+6	PD	Montan	NE	Montan	word	Montan	2
+7	--	,	$,	,	punctuation	,	6
+8	SB	was	PWS	was	word	was	11
+9	NK	meinen	PPOSAT	mein	word	meinen	10
+10	OA	Schluß	NN	Schluß	word	Schluß	11
+11	RE	verhindert	VVPP	verhindern	word	verhindert	3
+12	--	;	SENT	;	punctuation	;	11
+
+1	SB	Ich	PPER	ich	word	Ich	2
+2	--	tu	PPER	du	word	thu	0
+3	OA	es	PPER	es	word	es	2
+4	--	,	$,	,	punctuation	,	3
+5	CP	daß	KOUS	daß	word	daß	11
+6	OA	sich	PRF	er|es|sie	word	sich	11
+7	OG	mein	PPOSAT	mein	word	mein	2
+8	CD	und	KON	und	word	und	6
+9	PNC	Doris	NN	Doris	word	Doris	10
+10	CJ	Schmerz	NN	Schmerz	word	Schmerz	8
+11	RE	vermindert	VVFIN	vermindern	word	vermindert	3
+12	--	;	SENT	;	punctuation	;	11
+
+1	NK	Das	ART	d	word	Das	3
+2	NK	arme	ADJA	arm	word	arme	3
+3	SB	Kind	NN	Kind	word	Kind	4
+4	--	schwört	VVFIN	schwören	word	schwoͤrt	0
+5	DA	mir	PPER	ich	word	mir	4
+6	MO	bei	APPR	bei	word	bey	4
+7	NK	der	ART	d	word	der	10
+8	DA	ihr	PPOSAT	ihr	word	ihr	9
+9	NK	heiligen	ADJA	heilig	word	heilgen	10
+10	NK	Flur	NN	Flur	word	Flur	6
+11	--	,	$,	,	punctuation	,	10
+12	CP	Dass	KOUS	Dass	word	Daß	16
+13	SB	sie	PPER	Sie	word	sie	16
+14	OA	mich	PRF	ich	word	mich	15
+15	OC	lieben	VVINF	lieben	word	lieben	16
+16	MO	muß	VMFIN	müssen	word	muß	4
+17	--	.	SENT	.	punctuation	.	16
+
+1	--	-	$.	-	punctuation	-	5
+2	--	-	$.	-	punctuation	-	1
+3	--	-	$.	-	punctuation	-	2
+4	--	-	$.	-	punctuation	-	3
+5	PNC	O	ITJ	O	word	O	6
+6	--	Unschuld	NN	Unschuld	word	Unschuld	0
+7	--	!	SENT	!	punctuation	!	6
+
+1	NK	O	ITJ	O	word	O	2
+2	--	Natur	NN	Natur	word	Natur	0
+3	--	!	SENT	!	punctuation	!	2
+
+1	SB	Du	PPER	du	word	Du	2
+2	--	siehst	VVFIN	sehen	word	siehst	0
+3	--	,	$,	,	punctuation	,	2
+4	NK	mein	PPOSAT	mein	word	mein	5
+5	OA	Schicksal	NN	Schicksal	word	Schicksal	6
+6	OC	will	VMFIN	wollen	word	will	2
+7	--	,	$,	,	punctuation	,	6
+8	SB	ich	PPER	ich	word	ich	9
+9	CJ	muß	VMFIN	müssen	word	muß	6
+10	NK	den	ART	d	word	den	11
+11	OA	Ort	NN	Ort	word	Ort	12
+12	OC	verlassen	VVINF	verlassen	word	verlassen	9
+13	--	;	SENT	;	punctuation	;	12
+
+1	CP	Eh	KOUS	Ehe	word	Eh	5
+2	SB	sie	PPER	Sie	word	sie	5
+3	MO	als	KOKOM	als	word	als	5
+4	NK	Schwester	NN	Schwester	word	Schwester	3
+5	--	liebt	VVFIN	lieben	word	liebt	0
+6	--	,	$,	,	punctuation	,	5
+7	OA	Ists	VAFIN	sein	word	ists	12
+8	MO	besser	ADJD	gut	word	besser	12
+9	--	,	$,	,	punctuation	,	8
+10	OA	mich	PPER	ich	word	mich	12
+11	PM	zu	PTKZU	zu	word	zu	12
+12	OC	hassen	VVINF	hassen	word	hassen	5
+13	--	.	SENT	.	punctuation	.	12
+
+1	MO	Drum	PAV	darum	word	Drum	2
+2	--	lebe	VVFIN	leben	word	lebe	0
+3	MO	wohl	ADV	wohl	word	wohl	2
+4	SB	Montan	NE	Montan	word	Montan	2
+5	--	-	$-	-	punctuation	–	4
+6	APP	Montan	NE	Montan	word	Montan	4
+7	--	-	$-	-	punctuation	–	6
+8	OA	Freund	NN	Freund	word	Freund	2
+9	--	,	$,	,	punctuation	,	8
+10	CJ	lebe	VVFIN	leben	word	lebe	2
+11	MO	wohl	ADV	wohl	word	wohl	10
+12	--	,	$,	,	punctuation	,	11
+13	SB	Es	PPER	es	word	Es	14
+14	OC	wartet	VVFIN	warten	word	wartet	10
+15	MO	schon	ADV	schon	word	schon	14
+16	NK	das	ART	d	word	das	17
+17	OA	Boot	NN	Boot	word	Boot	14
+18	--	,	$,	,	punctuation	,	17
+19	SB	das	PRELS	d	word	das	22
+20	OA	mich	PPER	ich	word	mich	21
+21	OC	entfernen	VVINF	entfernen	word	entfernen	22
+22	RC	soll	VMFIN	sollen	word	soll	17
+23	--	.	SENT	.	punctuation	.	22
+
+1	SB	Ich	PPER	ich	word	Ich	2
+2	--	will	VMFIN	wollen	word	will	0
+3	OA	dir	PPER	du	word	dir	2
+4	--	,	$,	,	punctuation	,	3
+5	MO	wo	PWAVREL	wo	word	wo	7
+6	SB	ich	PPER	ich	word	ich	7
+7	MO	bin	VAFIN	sein	word	bin	2
+8	--	,	$,	,	punctuation	,	7
+9	CJ	von	APPR	von	word	von	2
+10	NK	meinem	PPOSAT	mein	word	meinem	11
+11	NK	Glück	NN	Glück	word	Gluͤck	9
+12	CD	und	KON	und	word	und	11
+13	CJ	Leben	NN	Leben	word	Leben	12
+14	--	,	$,	,	punctuation	,	13
+
+1	NK	Ach	ITJ	ach	word	Ach	0
+2	--	!	SENT	!	punctuation	!	0
+
+1	--	könnt	VVFIN	können	word	koͤnnt	0
+2	MO	ich's	PPER	ich	word	ichs	1
+3	MO	mündlich	ADJD	mündlich	word	muͤndlich	4
+4	OC	tun	VVINF	tun	word	thun	1
+5	--	!	SENT	!	punctuation	!	4
+
+1	MO	zum	APPRART	zum	word	zum	4
+2	NK	öftern	ADJA	öftern	word	oͤftern	1
+3	OA	Nachricht	NN	Nachricht	word	Nachricht	4
+4	--	geben	VVINF	geben	word	geben	0
+5	--	.	SENT	.	punctuation	.	4
+
+1	CP	Wenn	KOUS	wenn	word	Wenn	11
+2	NK	meines	PPOSAT	mein	word	meines	3
+3	OG	Vaters	NN	Vater	word	Vaters	11
+4	NK	Bund	NN	Bund	word	Bund	3
+5	--	,	$,	,	punctuation	,	4
+6	CP	wenn	KOUS	wenn	word	wenn	11
+7	SB	dich	PPER	du	word	dich	11
+8	NK	sein	PPOSAT	sein	word	sein	9
+9	SB	Sohn	NN	Sohn	word	Sohn	11
+10	MO	noch	ADV	noch	word	noch	11
+11	--	rührt	VVFIN	rühren	word	ruͤhrt	0
+12	--	,	$,	,	punctuation	,	11
+13	MO	So	ADV	so	word	So	14
+14	MO	mach	VVFIN	machen	word	mach	11
+15	--	,	$,	,	punctuation	,	14
+16	CP	daß	KOUS	daß	word	daß	23
+17	OA	sich	PRF	er|es|sie	word	sich	23
+18	NK	der	ART	d	word	der	19
+19	SB	Schmerz	NN	Schmerz	word	Schmerz	23
+20	MNR	aus	APPR	aus	word	aus	19
+21	AG	Doris	NE	Doris	word	Doris	22
+22	NK	Brust	NN	Brust	word	Brust	20
+23	OC	verliert	VVFIN	verlieren	word	verliert	11
+24	--	;	SENT	;	punctuation	;	23
+
+1	CP	Eh	KOUS	Ehe	word	Eh	3
+2	SB	das	PDS	d	word	das	3
+3	MO	geschieht	VVFIN	geschehen	word	geschieht	5
+4	--	,	$,	,	punctuation	,	3
+5	--	find	ADJD	find	word	find	0
+6	SB	ich	PPER	ich	word	ich	5
+7	MO	nie	ADV	nie	word	nie	5
+8	NK	meine	PPOSAT	mein	word	meine	9
+9	PD	Ruhe	NN	Ruhe	word	Ruhe	5
+10	MO	wieder	ADV	wieder	word	wieder	9
+11	--	.	SENT	.	punctuation	.	10
+
+1	MO	Noch	ADV	noch	word	Noch	2
+2	MO	einmal	ADV	einmal	word	einmal	3
+3	--	lebe	VVFIN	leben	word	lebe	0
+4	MO	wohl	ADV	wohl	word	wohl	3
+5	--	!	SENT	!	punctuation	!	4
+
+1	NK	die	ART	d	word	die	2
+2	SB	Angst	NN	Angst	word	Angst	3
+3	--	schwächt	VVFIN	schwächen	word	schwaͤcht	0
+4	OA	Geist	NN	Geist	word	Geist	3
+5	CD	und	KON	und	word	und	4
+6	CJ	Glieder	NN	Glied	word	Glieder	5
+7	--	.	SENT	.	punctuation	.	6
+
+1	SB	Silvander	NE	Silvander	word	Silvander	2
+2	--	warte	VVFIN	warten	word	warte	0
+3	MO	noch	ADV	noch	word	noch	2
+4	--	,	$,	,	punctuation	,	3
+5	MO	sieh	VVIMP	sehen	word	sieh	2
+6	NK	deinen	PPOSAT	dein	word	deinen	7
+7	OA	Vater	NN	Vater	word	Vater	5
+8	MO	hier	ADV	hier	word	hier	5
+9	--	.	SENT	.	punctuation	.	8
+
+1	--	Wen	PWS	Wen	word	Wen	0
+2	--	?	SENT	?	punctuation	?	1
+
+1	--	Wie	PWAV	wie	word	Wie	0
+2	--	?	SENT	?	punctuation	?	1
+
+1	NK	Den	ART	d	word	Den	2
+2	--	Vater	NN	Vater	word	Vater	0
+3	--	,	$,	,	punctuation	,	2
+4	UC	ja	ADV	ja	word	ia	2
+5	--	;	SENT	;	punctuation	;	4
+
+1	NK	der	ART	d	word	der	2
+2	SB	Himmel	NN	Himmel	word	Himmel	3
+3	--	schenkt	VVFIN	schenken	word	schenkt	0
+4	OA	ihn	PPER	er	word	ihn	3
+5	DA	dir	PPER	du	word	dir	3
+6	--	.	SENT	.	punctuation	.	5
+
+1	NK	Mein	PPOSAT	mein	word	Mein	2
+2	--	Sohn	NN	Sohn	word	Sohn	0
+3	--	!	SENT	!	punctuation	!	2
+
+1	NK	Mein	PPOSAT	mein	word	Mein	2
+2	--	Vater	NN	Vater	word	Vater	0
+3	--	?	SENT	?	punctuation	?	2
+
+1	--	Ja	ITJ	ja	word	Ja	0
+2	--	.	SENT	.	punctuation	.	1
+
+1	SB	Pfui	NE	Pfui	word	Pfuy	3
+2	--	,	$,	,	punctuation	,	1
+3	--	hab	VAFIN	haben	word	hab	0
+4	DA	uns	PPER	wir	word	uns	3
+5	NG	nicht	PTKNEG	nicht	word	nicht	3
+6	OP	zum	APPRART	zum	word	zum	3
+7	NK	Narren	NN	Narr	word	Narren	6
+8	--	!	SENT	!	punctuation	!	7
+
+1	--	Muß	VMFIN	müssen	word	Muß	0
+2	MO	für	APPR	für	word	fuͤr	9
+3	NK	Erstaunen	NN	Erstaunen	word	Erstaunen	2
+4	NG	nicht	PTKNEG	nicht	word	nicht	1
+5	NK	das	ART	d	word	das	6
+6	OA	Blut	NN	Blut	word	Blut	9
+7	MO	in	APPR	in	word	in	9
+8	NK	mir	PPER	ich	word	mir	7
+9	OC	erstarren	VVFIN	erstarren	word	erstarren	1
+10	--	?	SENT	?	punctuation	?	9
+
+1	MO	Montan	NE	Montan	word	Montan	2
+2	--	belügt	VVFIN	belügt	word	beluͤgt	0
+3	OA	mich	PPER	ich	word	mich	2
+4	NG	nicht	PTKNEG	nicht	word	nicht	2
+5	--	.	SENT	.	punctuation	.	4
+
+1	SB	Das	PDS	d	word	Das	2
+2	--	soll	VMFIN	sollen	word	soll	0
+3	PD	Leander	NE	Leander	word	Leander	4
+4	OC	sein	VAINF	sein	word	seyn	2
+5	--	?	SENT	?	punctuation	?	4
+
+1	MO	Leander	NE	Leander	word	Leander	2
+2	--	bin	VAFIN	sein	word	bin	0
+3	SB	ich	PPER	ich	word	ich	2
+4	--	,	$,	,	punctuation	,	3
+5	DM	ja	ITJ	ja	word	ia	2
+6	--	.	SENT	.	punctuation	.	5
+
+1	SB	Entzückung	NN	Entzückung	word	Entzuͤckung	2
+2	--	nimmt	VVFIN	nehmen	word	nimmt	0
+3	OA	mich	PPER	ich	word	mich	2
+4	SVP	ein	PTKVZ	ein	word	ein	2
+5	--	.	SENT	.	punctuation	.	4
+
+1	NK	Mein	PPOSAT	mein	word	Mein	2
+2	SB	Herz	NN	Herz	word	Herz	3
+3	--	spricht	VVFIN	sprechen	word	spricht	0
+4	MO	ja	ADV	ja	word	ia	3
+5	--	,	$,	,	punctuation	,	4
+6	MO	so	ADV	so	word	so	7
+7	OA	viel	ADV	viel	word	viel	10
+8	MO	auch	ADV	auch	word	auch	9
+9	OA	Zweifel	NN	Zweifel	word	Zweifel	10
+10	OC	widersprechen	VVINF	widersprechen	word	widersprechen	3
+11	--	,	$,	,	punctuation	,	10
+12	MO	So	ADV	so	word	So	20
+13	RE	will	VMFIN	wollen	word	will	6
+14	NK	der	ART	d	word	der	15
+15	SB	Himmel	NN	Himmel	word	Himmel	13
+16	MO	noch	ADV	noch	word	noch	20
+17	NK	mein	PPOSAT	mein	word	mein	19
+18	NK	hartes	ADJA	hart	word	hartes	19
+19	OA	Schicksal	NN	Schicksal	word	Schicksal	20
+20	OC	rächen	VVINF	rächen	word	raͤchen	13
+21	--	?	SENT	?	punctuation	?	20
+
+1	NK	Wer	PWS	wer	word	Wer	2
+2	--	Henker	NN	Henker	word	Henker	0
+3	--	!	SENT	!	punctuation	!	2
+
+1	--	führt	VVFIN	führen	word	fuͤhrt	0
+2	OA	dich	PPER	du	word	dich	1
+3	MO	denn	ADV	denn	word	denn	1
+4	MO	in	APPR	in	word	in	1
+5	NK	dieses	PDAT	dies	word	dieses	7
+6	NK	leere	ADJA	leer	word	leere	7
+7	NK	Land	NN	Land	word	Land	4
+8	--	?	SENT	?	punctuation	?	7
+
+1	CP	Wenn	KOUS	wenn	word	Wenn	6
+2	SB	du	PPER	du	word	du	6
+3	NK	mein	PPOSAT	mein	word	mein	4
+4	SB	Sohn	NN	Sohn	word	Sohn	6
+5	MO	nun	ADV	nun	word	nun	6
+6	MO	bist	VVFIN	sein	word	bist	8
+7	--	,	$,	,	punctuation	,	6
+8	--	kennst	VVFIN	kennen	word	kennst	0
+9	SB	du	PPER	du	word	du	8
+10	MO	hier	ADV	hier	word	hier	8
+11	NK	diese	PDAT	dies	word	diese	12
+12	OA	Hand	NN	Hand	word	Hand	8
+13	--	?	SENT	?	punctuation	?	12
+
+1	NK	Gerechter	NN	gerechte	word	Gerechter	2
+2	--	Himmel	NN	Himmel	word	Himmel	0
+3	--	!	SENT	!	punctuation	!	2
+
+1	MO	ja	ADV	ja	word	ia	8
+2	--	-	$-	-	punctuation	–	1
+3	MO	ja	ADV	ja	word	ia	8
+4	--	-	$-	-	punctuation	–	3
+5	OA	das	PDS	d	word	das	6
+6	--	hab	VAFIN	haben	word	hab	0
+7	SB	ich	PPER	ich	word	ich	6
+8	MO	geschrieben	VVPP	schreiben	word	geschrieben	6
+9	--	.	SENT	.	punctuation	.	8
+
+1	NK	Dies	PDAT	dies	word	Dies	3
+2	NK	liebe	ADJA	lieb	word	liebe	3
+3	SB	Blatt	NN	Blatt	word	Blatt	4
+4	--	ist	VAFIN	sein	word	ist	0
+5	MO	nie	ADV	nie	word	nie	9
+6	SBP	von	APPR	von	word	von	9
+7	NK	meiner	PPOSAT	mein	word	meiner	8
+8	NK	Brust	NN	Brust	word	Brust	6
+9	OC	geblieben	VVPP	bleiben	word	geblieben	4
+10	--	.	SENT	.	punctuation	.	9
+
+1	NK	Ach	ITJ	ach	word	Ach	2
+2	--	Glück	NN	Glück	word	Gluͤck	0
+3	--	!	SENT	!	punctuation	!	2
+
+1	--	-	$-	-	punctuation	–	2
+2	--	ach	ITJ	ach	word	ach	0
+3	NK	Vater	NN	Vater	word	Vater	2
+4	--	!	SENT	!	punctuation	!	3
+
+1	--	-	$-	-	punctuation	–	2
+2	--	ach	ITJ	ach	word	ach	0
+3	--	!	SENT	!	punctuation	!	2
+
+1	--	gelangt	VVFIN	gelangen	word	gelangt	0
+2	SB	es	PPER	es	word	es	1
+3	MO	doch	ADV	doch	word	doch	1
+4	MO	an	APPR	an	word	an	1
+5	NK	euch	PPER	ihr	word	euch	4
+6	--	?	SENT	?	punctuation	?	5
+
+1	--	Bekamst	VVFIN	Bekamst	word	Bekamst	0
+2	SB	du	PPER	du	word	du	1
+3	OA	Antwort	NN	Antwort	word	Antwort	1
+4	--	?	SENT	?	punctuation	?	3
+
+1	--	-	$.	-	punctuation	-	4
+2	--	-	$.	-	punctuation	-	1
+3	--	-	$.	-	punctuation	-	2
+4	--	Nein	PTKANT	nein	word	Nein	0
+5	--	!	SENT	!	punctuation	!	4
+
+1	--	-	$.	-	punctuation	-	5
+2	--	-	$.	-	punctuation	-	1
+3	--	-	$.	-	punctuation	-	2
+4	--	-	$.	-	punctuation	-	3
+5	SB	Das	PDS	d	word	Das	6
+6	--	ist	VAFIN	sein	word	ist	0
+7	NK	ein	ART	ein	word	ein	8
+8	PD	Teufels-Streich	NN	Teufels-Streich	word	Teufels-Streich	6
+9	--	.	SENT	.	punctuation	.	8
+
+1	SB	Ich	PPER	ich	word	Ich	2
+2	--	schrieb	VVFIN	schreiben	word	schrieb	0
+3	DA	dir	PPER	du	word	dir	2
+4	MO	mit	APPR	mit	word	mit	2
+5	NK	dem	ART	d	word	dem	6
+6	NK	Fuchs	NE	Fuchs	word	Fuchs	4
+7	--	.	SENT	.	punctuation	.	6
+
+1	--	-	$.	-	punctuation	-	4
+2	--	-	$.	-	punctuation	-	1
+3	--	-	$.	-	punctuation	-	2
+4	NK	Dies	PDAT	dies	word	Dies	5
+5	SB	Schiff	NN	Schiff	word	Schiff	6
+6	--	ist	VAFIN	sein	word	ist	0
+7	PD	untergangen	VVPP	untergehen	word	untergangen	6
+8	--	.	SENT	.	punctuation	.	7
+
+1	DM	Ja	PTKANT	ja	word	Ja	4
+2	--	,	$,	,	punctuation	,	1
+3	MO	so	ADV	so	word	so	4
+4	--	kömmt	VVFIN	kommen	word	koͤmmt	0
+5	SB	es	PPER	es	word	es	4
+6	SVP	heraus	PTKVZ	heraus	word	heraus	4
+7	--	,	$,	,	punctuation	,	6
+8	CP	daß	KOUS	daß	word	daß	12
+9	SB	du	PPER	du	word	du	12
+10	OA	sie	PPER	Sie	word	sie	12
+11	NG	nicht	PTKNEG	nicht	word	nicht	12
+12	RE	empfangen	VVPP	empfangen	word	empfangen	5
+13	--	.	SENT	.	punctuation	.	12
+
+1	--	Umarme	NN	Umarme	word	Umarme	0
+2	VO	mich	PRF	ich	word	mich	4
+3	NK	mein	PPOSAT	mein	word	mein	4
+4	NK	Sohn	NN	Sohn	word	Sohn	1
+5	--	.	SENT	.	punctuation	.	4
+
+1	--	-	$.	-	punctuation	-	4
+2	--	-	$.	-	punctuation	-	1
+3	--	-	$.	-	punctuation	-	2
+4	NK	Mein	PPOSAT	mein	word	Mein	5
+5	--	Vater	NN	Vater	word	Vater	0
+6	--	!	SENT	!	punctuation	!	5
+
+1	NK	Welche	PRELS	welch	word	Welche	2
+2	--	Lust	NN	Lust	word	Lust	0
+3	--	!	SENT	!	punctuation	!	2
+
+1	--	Seht	VVIMP	sehen	word	Seht	0
+2	MO	hier	ADV	hier	word	hier	1
+3	NK	des	ART	d	word	des	5
+4	NK	besten	ADJA	best	word	besten	5
+5	SB	Sohns	NN	Sohn	word	Sohns	1
+6	--	,	$,	,	punctuation	,	5
+7	NK	des	ART	d	word	des	9
+8	NK	besten	ADJA	best	word	besten	9
+9	CJ	Vaters	NN	Vater	word	Vaters	5
+10	NK	Brust	NN	Brust	word	Brust	9
+11	--	!	SENT	!	punctuation	!	10
+
+1	JU	Doch	KON	doch	word	Doch	3
+2	SB	ich	PPER	ich	word	ich	3
+3	--	seh	VVFIN	sehen	word	seh	0
+4	OA	Doris	NE	Doris	word	Doris	3
+5	MO	dort	ADV	dort	word	dort	3
+6	--	,	$,	,	punctuation	,	5
+7	SB	ich	PPER	ich	word	ich	8
+8	CJ	muß	VMFIN	müssen	word	muß	3
+9	MO	gleich	ADV	gleich	word	gleich	8
+10	MO	zu	APPR	zu	word	zu	12
+11	NK	ihr	PPER	Ihr	word	ihr	10
+12	OC	eilen	VVFIN	eilen	word	eilen	8
+13	--	,	$,	,	punctuation	,	12
+14	CD	Und	KON	und	word	Und	12
+15	CJ	machen	VVINF	machen	word	machen	14
+16	--	,	$,	,	punctuation	,	15
+17	CP	daß	KOUS	daß	word	daß	22
+18	SB	sie	PPER	Sie	word	sie	22
+19	OA	sich	PRF	er|es|sie	word	sich	23
+20	MO	noch	ADV	noch	word	noch	21
+21	SB	etwas	PIS	etwas	word	etwas	22
+22	OC	muß	VMFIN	müssen	word	muß	15
+23	OC	verweilen	VVINF	verweilen	word	verweilen	22
+24	--	;	SENT	;	punctuation	;	23
+
+1	--	Bleibt	VVFIN	bleiben	word	Bleibt	0
+2	--	,	$,	,	punctuation	,	1
+3	PD	Freunde	NN	Freund	word	Freunde	1
+4	--	,	$,	,	punctuation	,	3
+5	MO	hier	ADV	hier	word	hier	6
+6	MO	allein	ADV	allein	word	allein	1
+7	--	;	SENT	;	punctuation	;	6
+
+1	SB	ich	PPER	ich	word	ich	2
+2	--	halte	VVFIN	halten	word	halte	0
+3	OA	sie	PPER	Sie	word	sie	2
+4	MO	dort	ADV	dort	word	dort	2
+5	SVP	auf	PTKVZ	auf	word	auf	2
+6	--	,	$,	,	punctuation	,	5
+7	CJ	Laßt	VVIMP	lassen	word	Laßt	2
+8	NK	eurer	PPOSAT	euer	word	eurer	9
+9	DA	Zärtlichkeit	NN	Zärtlichkeit	word	Zaͤrtlichkeit	2
+10	CD	und	KON	und	word	und	9
+11	CJ	Freude	NN	Freude	word	Freude	10
+12	NK	vollen	ADJA	voll	word	vollen	13
+13	OA	Lauf	NN	Lauf	word	Lauf	2
+14	--	.	SENT	.	punctuation	.	13
+
+1	SB	Ich	PPER	ich	word	Ich	2
+2	--	komme	VVFIN	kommen	word	komme	0
+3	MO	bald	ADV	bald	word	bald	2
+4	SVP	zurück	PTKVZ	zurück	word	zuruͤck	2
+5	--	.	SENT	.	punctuation	.	4
+
+1	--	-	$.	-	punctuation	-	5
+2	--	-	$.	-	punctuation	-	1
+3	--	-	$.	-	punctuation	-	2
+4	--	-	$.	-	punctuation	-	3
+5	SB	Ich	PPER	ich	word	Ich	6
+6	--	bin	VAFIN	sein	word	bin	0
+7	MO	noch	ADV	noch	word	noch	6
+8	CM	wie	KOKOM	wie	word	wie	9
+9	MO	im	APPRART	im	word	im	6
+10	NK	Schlafe	NN	Schlaf	word	Schlafe	9
+11	--	.	SENT	.	punctuation	.	10
+
+1	JU	Und	KON	und	word	Und	3
+2	SB	ich	PPER	ich	word	ich	3
+3	--	bin	VAFIN	sein	word	bin	0
+4	MO	ganz	ADV	ganz	word	ganz	5
+5	OC	vernarrt	VVFIN	vernarrt	word	vernarrt	3
+6	--	.	SENT	.	punctuation	.	5
+
+1	AG	Hüte	VVPP	Hüte	word	Huͤt	3
+2	--	'	$'	'	punctuation	'	1
+3	--	st	XY	--	word	st	0
+4	SB	du	PPER	du	word	du	3
+5	MO	denn	ADV	denn	word	denn	3
+6	MO	hier	ADV	hier	word	hier	3
+7	MO	auch	ADV	auch	word	auch	8
+8	OA	Schafe	NN	Schaf	word	Schaafe	3
+9	--	?	SENT	?	punctuation	?	8
+
+1	DM	Nein	PTKANT	nein	word	Nein	24
+2	--	,	$,	,	punctuation	,	1
+3	MO	nur	ADV	nur	word	nur	4
+4	--	um	APPR	um	word	um	0
+5	NK	den	ART	d	word	den	6
+6	NK	Oront	NN	Oront	word	Oront	4
+7	--	,	$,	,	punctuation	,	6
+8	SB	der	PRELS	d	word	der	12
+9	OA	sich	PRF	er|es|sie	word	sich	12
+10	SB	Montan	NE	Montan	word	Montan	12
+11	MO	jetzt	ADV	jetzt	word	jetzt	12
+12	RC	nennt	VVFIN	nennen	word	nennt	6
+13	--	,	$,	,	punctuation	,	12
+14	CM	Zog	NE	Zog	word	Zog	12
+15	SB	ich	PPER	ich	word	ich	12
+16	NK	die	ART	d	word	die	17
+17	OA	Kleidung	NN	Kleidung	word	Kleidung	12
+18	SVP	an	PTKVZ	an	word	an	12
+19	--	,	$,	,	punctuation	,	18
+20	MO	in	APPR	in	word	in	24
+21	NK	der	PRELS	d	word	der	20
+22	SB	man	PIS	man	word	man	24
+23	OA	mich	PPER	ich	word	mich	24
+24	RC	verkennt	VVFIN	verkennen	word	verkennt	17
+25	--	.	SENT	.	punctuation	.	24
+
+1	SB	Ich	PPER	ich	word	Ich	2
+2	--	bin	VAFIN	sein	word	bin	0
+3	MO	am	APPRART	am	word	am	12
+4	NK	Hofe	NN	Hof	word	Hofe	3
+5	MO	groß	ADJD	groß	word	groß	12
+6	--	,	$,	,	punctuation	,	5
+7	CM	als	KOKOM	als	word	als	10
+8	CM	wie	KOUS	wie	word	wie	10
+9	NK	ein	ART	ein	word	ein	10
+10	CC	Prinz	NN	Prinz	word	Prinz	5
+11	--	,	$,	,	punctuation	,	10
+12	OC	erzogen	VVPP	erziehen	word	erzogen	2
+13	--	;	SENT	;	punctuation	;	12
+
+1	NK	Mein	PPOSAT	mein	word	Mein	3
+2	NK	anderer	ADJA	ander	word	andrer	3
+3	PD	Vater	NN	Vater	word	Vater	4
+4	--	ist	VAFIN	sein	word	ist	0
+5	DA	mir	PPER	ich	word	mir	4
+6	--	,	$,	,	punctuation	,	5
+7	MO	so	ADV	so	word	so	11
+8	CM	wie	KOUS	wie	word	wie	9
+9	CC	ihr	PPER	Ihr	word	ihr	7
+10	--	,	$,	,	punctuation	,	9
+11	PD	gewogen	VVPP	wiegen	word	gewogen	4
+12	--	,	$,	,	punctuation	,	11
+13	CD	Und	KON	und	word	Und	4
+14	CJ	hat	VAFIN	haben	word	hat	13
+15	OA	mich	PPER	ich	word	mich	19
+16	MO	unverdient	ADJD	unverdient	word	unverdient	19
+17	MO	zum	APPRART	zum	word	zum	19
+18	NK	Schiffshauptmann	NN	Schiffshauptmann	word	Schiffshauptmann	17
+19	OC	gemacht	VVPP	gemacht	word	gemacht	14
+20	--	;	SENT	;	punctuation	;	19
+
+1	NK	Ein	ART	ein	word	Ein	2
+2	SB	Sturm	NN	Sturm	word	Sturm	3
+3	--	hat	VAFIN	haben	word	hat	0
+4	MO	heute	ADV	heute	word	heute	9
+5	OA	mich	PPER	ich	word	mich	9
+6	MO	an	APPR	an	word	an	9
+7	NK	dieses	PDAT	dies	word	dieses	8
+8	NK	Land	NN	Land	word	Land	6
+9	OC	gebracht	VVPP	bringen	word	gebracht	3
+10	--	.	SENT	.	punctuation	.	9
+
+1	OA	Was	PWS	was	word	Was	2
+2	--	höre	VVFIN	hören	word	hoͤr	0
+3	SB	ich	PPER	ich	word	ich	2
+4	--	?	SENT	?	punctuation	?	3
+
+1	--	Ist	VAFIN	sein	word	Ist	0
+2	SB	das	PDS	d	word	das	1
+3	PD	wahr	ADJD	wahr	word	wahr	1
+4	--	?	SENT	?	punctuation	?	3
+
+1	--	Wie	PWAV	wie	word	Wie	0
+2	--	?	SENT	?	punctuation	?	1
+
+1	--	sollt	VMFIN	sollen	word	sollt	0
+2	SB	ich	PPER	ich	word	ich	1
+3	DA	euch	PPER	ihr	word	euch	4
+4	OC	belügen	VVFIN	belügen	word	beluͤgen	1
+5	--	?	SENT	?	punctuation	?	4
+
+1	NK	Mein	PPOSAT	mein	word	Mein	2
+2	CJ	Sohn	NN	Sohn	word	Sohn	5
+3	--	,	$,	,	punctuation	,	2
+4	SB	ich	PPER	ich	word	ich	5
+5	--	glaube	VVFIN	glauben	word	glaube	0
+6	DA	dir	PPER	du	word	dir	5
+7	--	,	$,	,	punctuation	,	6
+8	CD	und	KON	und	word	und	5
+9	CJ	zweifle	VVFIN	zweifeln	word	zweifle	8
+10	MNR	für	APPR	für	word	fuͤr	9
+11	NK	Vergnügen	NN	Vergnügen	word	Vergnuͤgen	10
+12	--	.	SENT	.	punctuation	.	11
+
+1	JU	Doch	ADV	doch	word	Doch	3
+2	--	,	$,	,	punctuation	,	1
+3	--	kommst	VVFIN	kommst	word	kommst	0
+4	SB	du	PPER	du	word	du	3
+5	MO	denn	ADV	denn	word	denn	3
+6	MO	hieher	ADV	hierher	word	hieher	3
+7	MO	allein	ADV	allein	word	allein	8
+8	MO	auf	APPR	auf	word	auf	3
+9	NK	deinem	PPOSAT	dein	word	deinem	10
+10	NK	Schiff	NN	Schiff	word	Schiff	8
+11	--	?	SENT	?	punctuation	?	10
+
+1	DM	Nein	PTKANT	nein	word	Nein	3
+2	--	,	$,	,	punctuation	,	1
+3	--	mit	APPR	mit	word	mit	0
+4	NK	der	ART	d	word	der	5
+5	NK	Flotte	NN	Flotte	word	Flotte	3
+6	MNR	selbst	PRF	selbst	word	selbst	5
+7	--	.	SENT	.	punctuation	.	6
+
+1	NK	Der	ART	d	word	Der	2
+2	SB	Sturm	NN	Sturm	word	Sturm	8
+3	--	,	$,	,	punctuation	,	2
+4	SB	der	PRELS	d	word	der	6
+5	OA	sie	PPER	Sie	word	sie	6
+6	RC	ergrief	VVFIN	ergrief	word	ergrief	2
+7	--	,	$,	,	punctuation	,	6
+8	--	Hat	VAFIN	haben	word	Hat	0
+9	OA	mich	PPER	ich	word	mich	12
+10	OP	von	APPR	von	word	von	12
+11	NK	ihr	PPER	Ihr	word	ihr	10
+12	OC	getrennt	VVPP	trennen	word	getrennt	8
+13	--	,	$,	,	punctuation	,	12
+14	CD	und	KON	und	word	und	12
+15	MO	an	APPR	an	word	an	18
+16	NK	dies	PDAT	dies	word	dies	17
+17	NK	Land	NN	Land	word	Land	15
+18	CJ	verschlagen	VVPP	verschlagen	word	verschlagen	14
+19	--	.	SENT	.	punctuation	.	18
+
+1	NK	Das	ART	d	word	Das	2
+2	SB	Unglück	NN	Unglück	word	Ungluͤck	3
+3	--	ist	VAFIN	sein	word	ist	0
+4	MO	zwar	ADV	zwar	word	zwar	3
+5	PD	groß	ADJD	groß	word	groß	3
+6	--	;	SENT	;	punctuation	;	5
+
+1	JU	doch	ADV	doch	word	doch	5
+2	OA	Must	VMFIN	müssen	word	must	5
+3	SB	du	PPER	du	word	du	5
+4	NG	nicht	PTKNEG	nicht	word	nicht	5
+5	--	verzagen	VVINF	verzagen	word	verzagen	0
+6	--	.	SENT	.	punctuation	.	5
+
+1	NK	Der	ART	d	word	Der	2
+2	SB	Sturm	NN	Sturm	word	Sturm	3
+3	--	verschlug	VVFIN	verschlagen	word	verschlug	0
+4	OA	mich	PPER	ich	word	mich	3
+5	MO	oft	ADV	oft	word	oft	3
+6	--	,	$,	,	punctuation	,	5
+7	SB	ich	PPER	ich	word	ich	8
+8	CJ	Stunt	VVFIN	stehen	word	stund	3
+9	MO	auch	ADV	auch	word	auch	10
+10	OA	Schiffbruch	NN	Schiffbruch	word	Schiffbruch	8
+11	SVP	aus	PTKVZ	aus	word	aus	8
+12	--	;	SENT	;	punctuation	;	11
+
+1	MO	Jedoch	KON	jedoch	word	Jedoch	4
+2	SB	ich	PPER	ich	word	ich	3
+3	--	bin	VAFIN	sein	word	bins	0
+4	OC	gewohnt	ADJD	gewohnt	word	gewohnt	3
+5	--	,	$,	,	punctuation	,	4
+6	SB	ich	PPER	ich	word	ich	7
+7	CJ	machte	VVFIN	machen	word	machte	3
+8	DA	mir	PPER	ich	word	mir	7
+9	OA	nichts	PIS	nichts	word	nichts	7
+10	SVP	draus	PAV	daraus	word	draus	7
+11	--	.	SENT	.	punctuation	.	10
+
+1	--	Bin	VAFIN	Bin	word	Bin	0
+2	SB	ich	PPER	ich	word	ich	1
+3	NK	dein	PPOSAT	dein	word	dein	4
+4	OA	Tode	NN	Tod	word	Tode	8
+5	MO	schon	ADV	schon	word	schon	7
+6	MO	so	ADV	so	word	so	7
+7	MO	manchesmal	ADV	manchesmal	word	manchesmal	8
+8	OC	entlaufen	VVFIN	entlaufen	word	entlauffen	1
+9	--	,	$,	,	punctuation	,	8
+10	MO	So	ADV	so	word	So	18
+11	CJ	werd	VVFIN	werden	word	werd	1
+12	SB	ich	PPER	ich	word	ich	11
+13	MO	hoffentlich	ADV	hoffentlich	word	hoffentlich	18
+14	MO	noch	ADV	noch	word	noch	15
+15	NG	nicht	PTKNEG	nicht	word	nicht	18
+16	MO	so	ADV	so	word	so	17
+17	MO	bald	ADV	bald	word	bald	18
+18	OC	ersaufen	ADV	ersaufen	word	ersauffen	11
+19	--	.	SENT	.	punctuation	.	18
+
+1	MO	Allein	ADV	allein	word	Allein	4
+2	--	,	$,	,	punctuation	,	1
+3	CJ	genug	ADV	genug	word	genug	1
+4	--	hiervon	PAV	hiervon	word	hiervon	0
+5	--	!	SENT	!	punctuation	!	4
+
+1	NK	mein	PPOSAT	mein	word	mein	2
+2	--	Sohn	NN	Sohn	word	Sohn	0
+3	--	,	$,	,	punctuation	,	2
+4	NK	ach	ITJ	ach	word	ach	0
+5	--	!	SENT	!	punctuation	!	1
+
+1	MO	sage	VVFIN	sagen	word	sage	11
+2	MO	doch	ADV	doch	word	doch	1
+3	--	,	$,	,	punctuation	,	2
+4	--	(	$(	(	punctuation	(	3
+5	MO	Vermutlich	ADV	vermutlich	word	Vermutlich	6
+6	--	weist	VVFIN	weisen	word	weist	0
+7	SB	du	PPER	du	word	du	6
+8	SVP	drum	PAV	darum	word	drum	6
+9	--	,	$,	,	punctuation	,	8
+10	--	)	$)	)	punctuation	)	9
+11	OC	lebt	VVFIN	leben	word	lebt	6
+12	NK	deine	PPOSAT	dein	word	deine	13
+13	SB	Schwester	NN	Schwester	word	Schwester	11
+14	MO	noch	ADV	noch	word	noch	11
+15	--	?	SENT	?	punctuation	?	14
+
+1	MO	Bald	ADV	bald	word	Bald	5
+2	--	werdet	VAFIN	werden	word	werdet	0
+3	DA	ihr	PPER	Ihr	word	ihr	5
+4	SB	sie	PPER	Sie	word	sie	2
+5	OC	sehen	VVINF	sehen	word	sehn	2
+6	--	!	SENT	!	punctuation	!	5
+
+1	MO	Wo	PWAV	wo	word	Wo	2
+2	--	ist	VAFIN	sein	word	ist	0
+3	SB	sie	PPER	Sie	word	sie	2
+4	--	?	SENT	?	punctuation	?	3
+
+1	--	-	$-	-	punctuation	–	2
+2	--	Mach	VVFIN	machen	word	Mach	0
+3	NK	ein	ART	ein	word	ein	4
+4	NK	Ende	NN	Ende	word	Ende	2
+5	--	!	SENT	!	punctuation	!	4
+
+1	NK	O	ITJ	O	word	O	2
+2	--	!	SENT	!	punctuation	!	0
+
+1	--	Glück	NN	Glück	word	Gluͤck	0
+2	--	,	$,	,	punctuation	,	1
+3	CP	wenn	KOUS	wenn	word	wenn	10
+4	SB	ich	PPER	ich	word	ich	10
+5	MO	zugleich	ADV	zugleich	word	zugleich	6
+6	MO	hier	ADV	hier	word	hier	10
+7	OA	Sohn	NN	Sohn	word	Sohn	10
+8	CD	und	KON	und	word	und	7
+9	CJ	Tochter	NN	Tochter	word	Tochter	8
+10	MNR	fände	VVFIN	finden	word	faͤnde	1
+11	--	!	SENT	!	punctuation	!	10
+
+1	NK	Das	ART	d	word	Das	2
+2	SB	Schicksal	NN	Schicksal	word	Schicksal	3
+3	--	nahm	VVFIN	nehmen	word	nahm	0
+4	DA	euch	PPER	ihr	word	euch	9
+5	DA	uns	PRF	wir	word	uns	3
+6	--	,	$,	,	punctuation	,	5
+7	NK	ein	ART	ein	word	ein	8
+8	SB	Zufall	NN	Zufall	word	Zufall	9
+9	OC	gibt	VVFIN	geben	word	giebt	3
+10	DA	uns	PPER	wir	word	uns	9
+11	SVP	euch	PPER	ihr	word	euch	9
+12	--	.	SENT	.	punctuation	.	11
+
+1	MO	So	ADV	so	word	So	2
+2	--	ist	VAFIN	sein	word	ist	0
+3	SB	sie	PPER	Sie	word	sie	2
+4	MO	hier	ADV	hier	word	hier	2
+5	--	?	SENT	?	punctuation	?	4
+
+1	NK	fort	ADV	fort	word	fort	3
+2	--	,	$,	,	punctuation	,	1
+3	MO	fort	ADV	fort	word	fort	6
+4	--	,	$,	,	punctuation	,	3
+5	CJ	komm	VVIMP	kommen	word	komm	3
+6	--	zeige	VVFIN	zeigen	word	zeige	0
+7	DA	mir	PPER	ich	word	mir	6
+8	OA	sie	PPER	Sie	word	sie	6
+9	MO	gleich	ADJD	gleich	word	gleich	6
+10	--	!	SENT	!	punctuation	!	9
+
+1	MO	Allein	ADV	allein	word	Allein	6
+2	--	,	$,	,	punctuation	,	1
+3	CP	wenn	KOUS	wenn	word	wenn	6
+4	SB	ihr	PPER	Ihr	word	ihr	6
+5	OA	sie	PPER	Sie	word	sie	6
+6	RE	seht	VVFIN	sehen	word	seht	8
+7	--	,	$,	,	punctuation	,	6
+8	MO	so	ADV	so	word	so	12
+9	--	wird	VAFIN	werden	word	wird	0
+10	SB	sie	PPER	Sie	word	sie	9
+11	DA	euch	PPER	ihr	word	euch	12
+12	OC	betrieben	VVPP	betreiben	word	betrieben	9
+13	--	.	SENT	.	punctuation	.	12
+
+1	--	Wie	PWAV	wie	word	Wie	0
+2	MO	so	ADV	so	word	so	1
+3	--	?	SENT	?	punctuation	?	2
+
+1	SB	Ihr	PPER	Sie	word	Ihr	2
+2	--	werdet	VAFIN	werden	word	werdet	0
+3	OC	sehen	VVINF	sehen	word	sehn	2
+4	--	-	$.	-	punctuation	-	3
+5	--	-	$.	-	punctuation	-	4
+
+1	--	Was	PWS	was	word	Was	0
+2	MO	denn	ADV	denn	word	denn	1
+3	--	?	SENT	?	punctuation	?	2
+
+1	SB	Sie	PPER	Sie	word	Sie	2
+2	--	wird	VAFIN	werden	word	wird	0
+3	OA	mich	PPER	ich	word	mich	4
+4	OC	lieben	VVINF	lieben	word	lieben	2
+5	--	.	SENT	.	punctuation	.	4
+
+1	--	Nichts	PIS	nichts	word	Nichts	0
+2	MO	mehr	ADV	mehr	word	mehr	1
+3	--	?	SENT	?	punctuation	?	2
+
+1	MO	ei	VVFIN	ei	word	ey	10
+2	--	,	$,	,	punctuation	,	1
+3	--	wird	VAFIN	werden	word	wird	0
+4	SB	das	PDS	d	word	das	3
+5	NG	nicht	PTKNEG	nicht	word	nicht	10
+6	MO	für	APPR	für	word	fuͤr	10
+7	NK	mich	PRF	ich	word	mich	6
+8	NK	ein	ART	ein	word	ein	9
+9	PD	Unglück	NN	Unglück	word	Ungluͤck	10
+10	OC	sein	VAINF	sein	word	seyn	3
+11	--	!	SENT	!	punctuation	!	10
+
+1	--	Muß	VMFIN	müssen	word	Muß	0
+2	NK	eine	ART	ein	word	eine	3
+3	SB	Schwester	NN	Schwester	word	Schwester	1
+4	MO	denn	KON	denn	word	denn	1
+5	NK	den	ART	d	word	den	6
+6	OA	Bruder	NN	Bruder	word	Bruder	7
+7	OC	hassen	VVINF	hassen	word	hassen	1
+8	--	?	SENT	?	punctuation	?	7
+
+1	--	-	$.	-	punctuation	-	5
+2	--	-	$.	-	punctuation	-	1
+3	--	-	$.	-	punctuation	-	2
+4	--	-	$.	-	punctuation	-	3
+5	--	Nein	PTKANT	nein	word	Nein	0
+6	--	.	SENT	.	punctuation	.	5
+
+1	CJ	Allein	ADV	allein	word	Allein	4
+2	--	,	$,	,	punctuation	,	1
+3	SB	sie	PPER	Sie	word	sie	4
+4	--	liebt	VVFIN	lieben	word	liebt	0
+5	OA	mich	PPER	ich	word	mich	4
+6	NG	nicht	PTKNEG	nicht	word	nicht	4
+7	MO	mit	APPR	mit	word	mit	4
+8	NK	Schwesterlichen	ADJA	Schwesterlichen	word	Schwesterlichen	9
+9	NK	Herzen	NN	Herz	word	Herzen	7
+10	--	;	SENT	;	punctuation	;	9
+
+1	MO	Als	KOUS	als	word	Als	3
+2	NK	Liebste	NN	Liebste	word	Liebste	1
+3	--	liebt	VVFIN	lieben	word	liebt	0
+4	SB	sie	PPER	Sie	word	sie	3
+5	OA	mich	PRF	ich	word	mich	3
+6	--	,	$,	,	punctuation	,	5
+7	CD	und	KON	und	word	und	3
+8	SB	dieses	PDS	dies	word	dieses	9
+9	CJ	macht	VVFIN	machen	word	macht	7
+10	DA	mir	PPER	ich	word	mir	9
+11	OA	Schmerzen	NN	Schmerz	word	Schmerzen	9
+12	--	.	SENT	.	punctuation	.	11
+
+1	--	Als	KOKOM	als	word	Als	0
+2	NK	Liebste	NN	Liebste	word	Liebste	1
+3	--	?	SENT	?	punctuation	?	2
+
+1	--	pfui	NE	pfui	word	pfuy	0
+2	MO	doch	ADV	doch	word	doch	1
+3	--	!	SENT	!	punctuation	!	2
+
+1	--	wie	PWAV	wie	word	wie	0
+2	--	?	SENT	?	punctuation	?	1
+
+1	--	kennt	VVFIN	kennen	word	kennt	0
+2	SB	sie	PPER	Sie	word	sie	1
+3	OA	dich	PPER	du	word	dich	1
+4	MO	denn	ADV	denn	word	denn	1
+5	MO	noch	ADV	noch	word	noch	6
+6	NG	nicht	PTKNEG	nicht	word	nicht	1
+7	--	?	SENT	?	punctuation	?	6
+
+1	SB	Sie	PPER	Sie	word	Sie	2
+2	--	kennt	VVFIN	kennen	word	kennt	0
+3	OA	mich	PRF	ich	word	mich	2
+4	--	,	$,	,	punctuation	,	3
+5	CD	und	KON	und	word	und	2
+6	CJ	weiß	VVFIN	wissen	word	weiß	5
+7	OA	nichts	PIS	nichts	word	nichts	6
+8	OP	von	APPR	von	word	von	6
+9	NK	der	ART	d	word	der	10
+10	NK	Verwandschafts-Pflicht	NN	Verwandschafts-Pflicht	word	Verwandschafts-Pflicht	8
+11	--	.	SENT	.	punctuation	.	10
+
+1	SB	Es	PPER	es	word	Es	2
+2	--	sind	VAFIN	sein	word	sind	0
+3	NK	ihr	PPOSAT	ihr	word	ihr	4
+4	PD	Vater	NN	Vater	word	Vater	2
+5	--	,	$,	,	punctuation	,	4
+6	CJ	Mutter	NN	Mutter	word	Mutter	4
+7	--	,	$,	,	punctuation	,	6
+8	CJ	Sohn	NN	Sohn	word	Sohn	6
+9	CD	und	KON	und	word	und	8
+10	CJ	Tochter	NN	Tochter	word	Tochter	9
+11	NK	fremde	ADJA	fremd	word	fremde	12
+12	PD	Sachen	NN	Sache	word	Sachen	2
+13	--	.	SENT	.	punctuation	.	12
+
+1	PD	Sprecht	VVFIN	Sprecht	word	Sprecht	8
+2	NK	ihr	PPER	Ihr	word	ihr	5
+3	MO	mit	APPR	mit	word	mit	11
+4	NK	ihr	PPOSAT	ihr	word	ihr	3
+5	MO	davon	PAV	davon	word	davon	1
+6	--	,	$,	,	punctuation	,	5
+7	SB	sie	PPER	Sie	word	sie	8
+8	--	wird	VAFIN	werden	word	wird	0
+9	MO	euch	PPER	ihr	word	euch	11
+10	MO	nur	ADV	nur	word	nur	11
+11	OC	verlachen	VVINF	verlachen	word	verlachen	8
+12	--	.	SENT	.	punctuation	.	11
+
+1	SB	Wer	PWS	wer	word	Wer	8
+2	SB	Teufel	NN	Teufel	word	Teufel	3
+3	--	hat	VAFIN	haben	word	hat	0
+4	DA	ihr	PPER	Ihr	word	ihr	8
+5	MO	denn	ADV	denn	word	denn	8
+6	NK	die	ART	d	word	die	7
+7	OA	Possen	NN	Posse	word	Possen	8
+8	OC	weißgemacht	VVFIN	weißgemacht	word	weißgemacht	3
+9	--	?	SENT	?	punctuation	?	8
+
+1	--	Weiß	VVFIN	wissen	word	Weiß	0
+2	SB	sie	PPER	Sie	word	sie	1
+3	MO	denn	ADV	denn	word	denn	1
+4	NG	nicht	PTKNEG	nicht	word	nicht	1
+5	--	,	$,	,	punctuation	,	4
+6	SB	wer	PWS	wer	word	wer	11
+7	OA	sie	PPER	Sie	word	sie	11
+8	MO	in	APPR	in	word	in	11
+9	NK	diese	PDAT	dies	word	diese	10
+10	NK	Welt	NN	Welt	word	Welt	8
+11	OC	gebracht	VVPP	bringen	word	gebracht	1
+12	--	?	SENT	?	punctuation	?	11
+
+1	DM	Nein	PTKANT	nein	word	Nein	4
+2	--	,	$,	,	punctuation	,	1
+3	OP	daran	PAV	daran	word	daran	4
+4	--	denkt	VVFIN	denken	word	denkt	0
+5	SB	sie	PPER	Sie	word	sie	4
+6	MO	nie	ADV	nie	word	nie	4
+7	--	.	SENT	.	punctuation	.	6
+
+1	SB	Montan	NE	Montan	word	Montan	2
+2	--	hat	VAFIN	haben	word	hat	0
+3	OA	sie	PPER	Sie	word	sie	4
+4	OC	erzogen	VVPP	erziehen	word	erzogen	2
+5	--	,	$,	,	punctuation	,	4
+
+1	CD	Und	KON	und	word	Und	2
+2	--	ihr	PPOSAT	ihr	word	ihr	0
+3	--	-	$.	-	punctuation	-	2
+4	--	-	$.	-	punctuation	-	3
+
+1	JU	Und	KON	und	word	Und	7
+2	DA	ihr	PPER	Ihr	word	ihr	7
+3	NK	solch	PIAT	solch	word	solch	4
+4	OA	Zeug	NN	Zeug	word	Zeug	7
+5	MNR	aus	APPR	aus	word	aus	4
+6	NK	Narrheit	NN	Narrheit	word	Narrheit	5
+7	--	vorgelogen	VVPP	vorgelogen	word	vorgelogen	0
+8	--	.	SENT	.	punctuation	.	7
+
+1	MO	Vielleicht	ADV	vielleicht	word	Vielleicht	3
+2	NG	nicht	PTKNEG	nicht	word	nicht	4
+3	--	ohne	APPR	ohne	word	ohne	0
+4	NK	Grund	NN	Grund	word	Grund	3
+5	--	.	SENT	.	punctuation	.	4
+
+1	JU	Doch	KON	doch	word	Doch	3
+2	SB	sie	PPER	Sie	word	sie	3
+3	--	ist	VAFIN	sein	word	ist	0
+4	MO	selbst	PRF	selbst	word	selbst	3
+5	MO	sehr	ADV	sehr	word	sehr	6
+6	PD	klug	ADJD	klug	word	klug	3
+7	--	;	SENT	;	punctuation	;	6
+
+1	SB	Sie	PPER	Sie	word	Sie	2
+2	--	hat	VAFIN	haben	word	hat	0
+3	PG	von	APPR	von	word	von	9
+4	NK	der	ART	d	word	der	5
+5	NK	Natur	NN	Natur	word	Natur	3
+6	CD	und	KON	und	word	und	5
+7	CJ	Liebe	NN	Liebe	word	Liebe	6
+8	NK	Licht	NN	Licht	word	Licht	5
+9	OC	genug	ADV	genug	word	genug	2
+10	--	:	SENT	:	punctuation	:	9
+
+1	SB	Sie	PPER	Sie	word	Sie	2
+2	--	sah	VVFIN	sehen	word	sah	0
+3	OA	mich	PRF	ich	word	mich	2
+4	--	,	$,	,	punctuation	,	3
+5	CP	als	KOUS	als	word	als	7
+6	SB	ich	PPER	ich	word	ich	7
+7	MO	kam	VVFIN	kommen	word	kam	2
+8	--	,	$,	,	punctuation	,	7
+9	CD	und	KON	und	word	und	2
+10	MO	wie	KOUS	wie	word	wie	13
+11	SB	sie	PPER	Sie	word	sie	13
+12	OA	mich	PRF	ich	word	mich	13
+13	PAR	entzücket	VVFIN	entzücket	word	entzuͤcket	19
+14	--	,	$,	,	punctuation	,	13
+15	MO	So	ADV	so	word	So	19
+16	CJ	wurde	VAFIN	werden	word	ward	9
+17	MO	auch	ADV	auch	word	auch	18
+18	SB	sie	PPER	Sie	word	sie	16
+19	OC	verliebt	VVPP	verlieben	word	verliebt	16
+20	--	,	$,	,	punctuation	,	19
+21	MO	so	ADV	so	word	so	22
+22	MO	bald	ADV	bald	word	bald	25
+23	SB	sie	PPER	Sie	word	sie	25
+24	OA	mich	PRF	ich	word	mich	25
+25	SB	erblicket	VVFIN	erblicket	word	erblicket	16
+26	--	.	SENT	.	punctuation	.	25
+
+1	MO	So	ADV	so	word	So	2
+2	--	liebst	VVFIN	liebst	word	liebst	0
+3	SB	du	PPER	du	word	du	2
+4	OA	sie	PPER	Sie	word	sie	2
+5	MO	denn	ADV	denn	word	denn	2
+6	MO	auch	ADV	auch	word	auch	2
+7	--	?	SENT	?	punctuation	?	6
+
+1	MO	Als	KOKOM	als	word	Als	3
+2	NK	Bruder	NN	Bruder	word	Bruder	1
+3	--	lieb	ADJD	lieb	word	lieb	0
+4	SB	ich	PPER	ich	word	ich	3
+5	OA	sie	PPER	Sie	word	sie	3
+6	--	;	SENT	;	punctuation	;	5
+
+1	JU	Doch	KON	doch	word	Doch	3
+2	SB	sie	PPER	Sie	word	sie	3
+3	--	Getröste	NN	Getröste	word	getroͤste	0
+4	OA	sich	PRF	er|es|sie	word	sich	3
+5	MO	nur	ADV	nur	word	nur	7
+6	NK	anderer	ADJA	ander	word	andrer	7
+7	OG	Liebe	NN	Liebe	word	Liebe	3
+8	MO	nie	ADV	nie	word	nie	3
+9	--	.	SENT	.	punctuation	.	8
+
+1	MO	Wie	PWAV	wie	word	Wie	2
+2	MO	schwer	ADJD	schwer	word	schwer	3
+3	--	dämpft	VVFIN	dämpfen	word	daͤmpft	0
+4	SB	ich	PPER	ich	word	ich	3
+5	NK	die	ART	d	word	die	6
+6	OA	Glut	NN	Glut	word	Glut	3
+7	--	,	$,	,	punctuation	,	6
+8	SB	die	PRELS	d	word	die	13
+9	MO	für	APPR	für	word	fuͤr	13
+10	NK	sie	PPER	Sie	word	sie	9
+11	MO	in	APPR	in	word	in	13
+12	NK	mir	PPER	ich	word	mir	11
+13	RC	brannte	VVFIN	brennen	word	brannte	6
+14	--	,	$,	,	punctuation	,	13
+15	CP	Als	KOUS	als	word	Als	24
+16	SB	ich	PPER	ich	word	ich	24
+17	MO	bestürzt	ADJD	bestürzt	word	bestuͤrzt	24
+18	CD	und	KON	und	word	und	17
+19	CJ	froh	ADJD	froh	word	froh	18
+20	MO	in	APPR	in	word	in	24
+21	NK	ihr	PPER	Ihr	word	ihr	20
+22	NK	mein	PPOSAT	mein	word	mein	23
+23	OA	Blut	NN	Blut	word	Blut	24
+24	MO	erkannte	VVFIN	erkennen	word	erkannte	13
+25	--	!	SENT	!	punctuation	!	24
+
+1	DM	Ja	PTKANT	ja	word	Ja	10
+2	--	,	$,	,	punctuation	,	1
+3	--	laß	VVIMP	lassen	word	laß	0
+4	DA	dir	PPER	du	word	dir	3
+5	OA	s	PPER	es	word	s	7
+6	MO	nur	ADV	nur	word	nur	7
+7	OC	vergehen	VVINF	vergehen	word	vergehn	3
+8	--	,	$,	,	punctuation	,	7
+9	EP	es	PPER	es	word	es	10
+10	CJ	geht	VVFIN	gehen	word	geht	3
+11	NG	nicht	PTKNEG	nicht	word	nicht	10
+12	MO	anders	ADV	ander	word	anders	10
+13	SVP	an	PTKVZ	an	word	an	10
+14	--	.	SENT	.	punctuation	.	13
+
+1	MO	Je	ITJ	je	word	Je	3
+2	--	,	$,	,	punctuation	,	1
+3	--	liebe	ADJA	lieb	word	liebe	0
+4	MO	doch	ADV	doch	word	doch	3
+5	--	,	$,	,	punctuation	,	4
+6	PNC	du	PPER	du	word	du	7
+7	OA	Narr	NN	Narr	word	Narr	3
+8	--	,	$,	,	punctuation	,	7
+9	NK	die	ART	d	word	die	10
+10	APP	Tochter	NN	Tochter	word	Tochter	7
+11	NK	des	ART	d	word	des	12
+12	AG	Montan	NE	Montan	word	Montan	10
+13	--	,	$,	,	punctuation	,	12
+14	CD	Und	KON	und	word	Und	3
+15	CP	wenn	KOUS	wenn	word	wenn	22
+16	NK	ihr	PPOSAT	ihr	word	ihr	17
+17	SB	Bruder	NN	Bruder	word	Bruder	22
+18	MO	dann	ADV	dann	word	dann	22
+19	MO	auch	ADV	auch	word	auch	22
+20	NK	deine	PPOSAT	dein	word	deine	21
+21	SB	Schwester	NN	Schwester	word	Schwester	22
+22	CJ	liebte	VVFIN	lieben	word	liebte	14
+23	--	,	$,	,	punctuation	,	22
+24	PD	Was	PWS	was	word	Was	25
+25	OC	wär	VAFIN	sein	word	waͤr	22
+26	SB	das	PDS	d	word	das	25
+27	MNR	für	APPR	für	word	fuͤr	24
+28	NK	ein	ART	ein	word	ein	29
+29	NK	Glück	NN	Glück	word	Gluͤck	27
+30	--	!	SENT	!	punctuation	!	29
+
+1	NK	Ein	ART	ein	word	Ein	2
+2	--	Glück	NN	Glück	word	Gluͤck	0
+3	--	,	$,	,	punctuation	,	2
+4	SB	das	PRELS	d	word	das	6
+5	OA	mich	PPER	ich	word	mich	6
+6	RC	betrübte	ADJA	betrübt	word	betruͤbte	2
+7	--	.	SENT	.	punctuation	.	6
+
+1	JU	Denn	KON	denn	word	Denn	3
+2	--	(	$(	(	punctuation	(	1
+3	--	darf	VMFIN	dürfen	word	darf	0
+4	SB	ich's	PPER	ich	word	ichs	3
+5	OC	sagen	VVINF	sagen	word	sagen	3
+6	--	?	SENT	?	punctuation	?	5
+
+1	--	ach	ITJ	ach	word	ach	0
+2	--	!	SENT	!	punctuation	!	1
+3	--	)	$)	)	punctuation	)	2
+
+1	--	ach	ITJ	ach	word	ach	0
+2	--	!	SENT	!	punctuation	!	1
+
+1	SB	ich	PPER	ich	word	ich	2
+2	--	empfinde	VVFIN	empfinden	word	empfind	0
+3	EP	es	PPER	es	word	es	2
+4	MO	schon	ADV	schon	word	schon	2
+5	--	.	SENT	.	punctuation	.	4
+
+1	MO	Nun	ADV	nun	word	Nun	5
+2	SB	Doris	NE	Doris	word	Doris	3
+3	--	konnt	APPR	konnt	word	konnt	0
+4	SB	es	PPER	es	word	es	3
+5	OC	sein	VAINF	sein	word	seyn	3
+6	--	.	SENT	.	punctuation	.	5
+
+1	SB	Was	PWS	was	word	Was	2
+2	--	träumt	VVFIN	träumen	word	traͤumt	0
+3	DA	dir	PPER	du	word	dir	2
+4	MO	denn	ADV	denn	word	denn	2
+5	--	,	$,	,	punctuation	,	4
+6	NK	mein	PPOSAT	mein	word	mein	7
+7	VO	Sohn	NN	Sohn	word	Sohn	2
+8	--	?	SENT	?	punctuation	?	7
+
+1	NK	Mein	PPOSAT	mein	word	Mein	2
+2	--	Vater	NN	Vater	word	Vater	0
+3	--	!	SENT	!	punctuation	!	2
+
+1	--	Schäme	VVFIN	Schäme	word	Schaͤme	0
+2	DA	dich	PPER	du	word	dich	1
+3	--	,	$,	,	punctuation	,	2
+4	SB	du	PPER	du	word	du	5
+5	OC	willst	VMFIN	wollen	word	willst	1
+6	NK	die	ART	d	word	die	7
+7	OA	Schwester	NN	Schwester	word	Schwester	8
+8	OC	lieben	VVINF	lieben	word	lieben	5
+9	--	?	SENT	?	punctuation	?	8
+
+1	NK	Des	ART	d	word	Des	2
+2	SB	Schicksals	NN	Schicksal	word	Schicksals	4
+3	NK	Grausamkeit	NN	Grausamkeit	word	Grausamkeit	2
+4	--	verfolgt	VVFIN	verfolgen	word	verfolgt	0
+5	MO	mit	APPR	mit	word	mit	4
+6	NK	gleichen	ADJA	gleich	word	gleichen	7
+7	NK	Trieben	NN	Trieben	word	Trieben	5
+8	--	,	$,	,	punctuation	,	7
+
+1	NK	Die	ART	d	word	Die	2
+2	--	Kinder	NN	Kind	word	Kinder	0
+3	NK	des	ART	d	word	des	4
+4	AG	Montan	NE	Montan	word	Montan	2
+5	--	.	SENT	.	punctuation	.	4
+
+1	PNC	Ach	ITJ	ach	word	Ach	2
+2	--	pfui	NE	pfui	word	pfuy	0
+3	--	!	SENT	!	punctuation	!	2
+
+1	SB	das	PDS	d	word	das	2
+2	--	ist	VAFIN	sein	word	ist	0
+3	MO	zu	APPR	zu	word	zu	4
+4	PD	arg	ADJD	arg	word	arg	2
+5	--	.	SENT	.	punctuation	.	4
+
+1	MO	Damöt	ADV	Damöt	word	Damoͤt	2
+2	--	liebt	VVFIN	lieben	word	liebt	0
+3	OA	Sylvien	NE	Sylvien	word	Sylvien	2
+4	CD	und	KON	und	word	und	2
+5	SB	sie	PPER	Sie	word	sie	6
+6	CJ	liebt	VVFIN	lieben	word	liebt	4
+7	OA	ihn	PPER	er	word	ihn	6
+8	MO	gleich	ADV	gleich	word	gleich	9
+9	MO	stark	ADJD	stark	word	stark	6
+10	--	.	SENT	.	punctuation	.	9
+
+1	NK	Ach	ITJ	ach	word	Ach	0
+2	--	!	SENT	!	punctuation	!	0
+
+1	--	rede	VVFIN	reden	word	rede	0
+2	MO	deutlicher	ADJD	deutlich	word	deutlicher	1
+3	MO	mit	APPR	mit	word	mit	1
+4	NK	meinen	PPOSAT	mein	word	meinen	6
+5	NK	fremden	ADJA	fremd	word	fremden	6
+6	NK	Ohren	NN	Ohr	word	Ohren	3
+7	--	.	SENT	.	punctuation	.	6
+
+1	SB	Lénor	NE	Lénor	word	Lenor	2
+2	--	liebt	VVFIN	lieben	word	liebt	0
+3	NK	den	ART	d	word	den	4
+4	OA	Dorant	NE	Dorant	word	Dorant	2
+5	NK	Dorante	NE	Dorante	word	Dorante	4
+6	CJ	liebt	VVFIN	lieben	word	liebt	2
+7	OA	Lenoren	NE	Lenoren	word	Lenoren	6
+8	--	.	SENT	.	punctuation	.	7
+
+1	SB	Was	PWS	was	word	Was	2
+2	--	rede	VVFIN	reden	word	red	0
+3	--	'	$'	'	punctuation	'	2
+4	UC	st	NE	st	word	st	2
+5	SB	du	PPER	du	word	du	2
+6	MO	da	ADV	da	word	da	2
+7	MO	für	APPR	für	word	fuͤr	2
+8	NK	Zeug	NN	Zeug	word	Zeug	7
+9	--	,	$,	,	punctuation	,	8
+10	SB	das	PRELS	d	word	das	14
+11	OA	sich	PRF	er|es|sie	word	sich	14
+12	MO	hieher	ADV	hierher	word	hieher	14
+13	NG	nicht	PTKNEG	nicht	word	nicht	14
+14	RC	schickt	VVFIN	schicken	word	schickt	8
+15	--	?	SENT	?	punctuation	?	14
+
+1	--	Hat	VAFIN	haben	word	Hat	0
+2	SB	dir	PPER	du	word	dir	1
+3	NK	die	ART	d	word	die	4
+4	OA	Liebe	NN	Liebe	word	Liebe	1
+5	CD	denn	KON	denn	word	denn	4
+6	NK	den	ART	d	word	den	7
+7	CJ	Kopf	NN	Kopf	word	Kopf	5
+8	MO	schon	ADV	schon	word	schon	9
+9	MO	so	ADV	so	word	so	10
+10	PD	verrückt	ADJD	verrückt	word	verruͤckt	7
+11	--	?	SENT	?	punctuation	?	10
+
+1	SB	Wer	PWS	wer	word	Wer	2
+2	--	ist	VAFIN	sein	word	ist	0
+3	SB	Lenore	NE	Lenore	word	Lenore	2
+4	MO	denn	ADV	denn	word	denn	2
+5	--	?	SENT	?	punctuation	?	4
+
+1	NK	Die	ART	d	word	Die	2
+2	--	Stillste	NN	Stillste	word	Stillste	0
+3	PG	von	APPR	von	word	von	2
+4	NK	den	ART	d	word	den	5
+5	NK	Schönen	NN	Schöne	word	Schoͤnen	3
+6	--	,	$,	,	punctuation	,	5
+
+1	NK	Die	ART	d	word	Die	2
+2	--	Tochter	NN	Tochter	word	Tochter	0
+3	NK	des	ART	d	word	des	4
+4	AG	Montan	NE	Montan	word	Montan	2
+5	--	,	$,	,	punctuation	,	4
+6	NK	ein	ART	ein	word	ein	7
+7	APP	Kind	NN	Kind	word	Kind	2
+8	PG	von	APPR	von	word	von	7
+9	NK	Celimenen	NN	Celimenen	word	Celimenen	8
+10	--	.	SENT	.	punctuation	.	9
+
+1	MO	Nun	ADV	nun	word	Nun	2
+2	--	sage	VVFIN	sagen	word	sage	0
+3	DA	mir	PPER	ich	word	mir	2
+4	MO	doch	ADV	doch	word	doch	2
+5	MO	auch	ADV	auch	word	auch	2
+6	--	,	$,	,	punctuation	,	5
+7	MO	wie	KOUS	wie	word	wie	10
+8	NK	deine	PPOSAT	dein	word	deine	9
+9	SB	Schwester	NN	Schwester	word	Schwester	10
+10	OC	heißt	VVFIN	heißen	word	heißt	2
+11	--	?	SENT	?	punctuation	?	10
+
+1	--	Luise	NE	Luise	word	Luise	0
+2	--	.	SENT	.	punctuation	.	1
+
+1	--	Doris	NE	Doris	word	Doris	0
+2	--	?	SENT	?	punctuation	?	1
+
+1	--	Ja	ITJ	ja	word	Ja	0
+2	--	.	SENT	.	punctuation	.	1
+
+1	--	Ha	ITJ	Ha	word	Ha	0
+2	--	,	$,	,	punctuation	,	1
+3	CJ	ha	ITJ	ha	word	ha	1
+4	--	,	$,	,	punctuation	,	3
+5	SB	der	ART	d	word	der	7
+6	OA	Knoten	NN	Knoten	word	Knoten	7
+7	RC	reißt	VVFIN	reißen	word	reißt	3
+8	--	;	SENT	;	punctuation	;	7
+
+1	SB	Ich	PPER	ich	word	Ich	2
+2	--	seh	VVFIN	sehen	word	seh	0
+3	NK	den	ART	d	word	den	5
+4	NK	ganzen	ADJA	ganz	word	ganzen	5
+5	OA	Kram	NN	Kram	word	Krahm	2
+6	--	,	$,	,	punctuation	,	5
+7	NK	ihr	PPOSAT	ihr	word	ihr	8
+8	OA	Bursche	NN	Bursche	word	Pursche	2
+9	MO	seit	VAFIN	sein	word	seyd	2
+10	NK	betrogen	VVPP	betrügen	word	betrogen	9
+11	--	,	$,	,	punctuation	,	10
+12	NK	Die	ART	d	word	Die	14
+13	NK	alte	ADJA	alt	word	alte	14
+14	SB	Wärterin	NN	Wärterin	word	Waͤrterinn	15
+15	CJ	hat	VAFIN	haben	word	hat	2
+16	DA	euch	PRF	ihr	word	euch	18
+17	OA	was	PWREL	was	word	was	18
+18	OC	vorgelogen	VVPP	vorgelogen	word	vorgelogen	15
+19	--	.	SENT	.	punctuation	.	18
+
+1	NK	Die	ART	d	word	Die	3
+2	NK	alte	ADJA	alt	word	alte	3
+3	--	Hexe	NN	Hexe	word	Hexe	0
+4	--	!	SENT	!	punctuation	!	3
+
+1	--	(	$(	(	punctuation	(	2
+2	MO	doch	ADV	doch	word	doch	6
+3	MO	in	APPR	in	word	in	6
+4	NK	Ehren	NN	Ehre	word	Ehren	3
+5	MO	so	ADV	so	word	so	6
+6	--	gesagt	VVPP	sagen	word	gesagt	0
+7	--	!	SENT	!	punctuation	!	6
+
+					punctuation	)	
+
+1	--	Hat	VAFIN	haben	word	Hat	0
+2	MO	nach	APPR	nach	word	nach	9
+3	NK	der	ART	d	word	der	5
+4	PNC	Weiber	NN	Weib	word	Weiber	5
+5	NK	Art	NN	Art	abbr	Art,	2
+6	NK	die	ART	d	word	die	8
+7	NK	schlimmste	ADJA	schlimm	word	schlimmste	8
+8	SB	List	NN	List	word	List	1
+9	OC	gewagt	VVPP	wagen	word	gewagt	1
+10	--	.	SENT	.	punctuation	.	9
+
+1	MO	Aus	APPR	aus	word	Aus	20
+2	NK	Liebe	NN	Liebe	word	Liebe	1
+3	MNR	für	APPR	für	word	fuͤr	2
+4	NK	mein	PPOSAT	mein	word	mein	5
+5	NK	Kind	NN	Kind	word	Kind	3
+6	--	,	$,	,	punctuation	,	5
+7	OA	das	PRELS	d	word	das	10
+8	SB	sie	PPER	Sie	word	sie	11
+9	NG	nicht	PTKNEG	nicht	word	nicht	11
+10	OC	ziehen	VVINF	ziehen	word	ziehen	11
+11	RC	konnte	VMFIN	können	word	konnte	5
+12	--	,	$,	,	punctuation	,	11
+13	CP	Weil	KOUS	weil	word	Weil	18
+14	SB	sie	PPER	Sie	word	sie	18
+15	PM	zu	PTKA	zu	word	zu	16
+16	PD	alt	ADJD	alt	word	alt	18
+17	MO	schon	ADV	schon	word	schon	18
+18	MO	war	VAFIN	sein	word	war	11
+19	--	,	$,	,	punctuation	,	18
+20	--	verschwieg	VVFIN	verschweigen	word	verschwieg	0
+21	SB	sie	PPER	Sie	word	sie	20
+22	NK	dem	ART	d	word	dem	23
+23	DA	Oronte	NE	Oronte	word	Oronte	20
+24	--	,	$,	,	punctuation	,	23
+25	NK	welch	PIAT	welch	word	Welchs	15
+26	NK	seine	PPOSAT	sein	word	seine	27
+27	PD	Tochter	NN	Tochter	word	Tochter	28
+28	OC	war	VAFIN	sein	word	war	23
+29	--	!	SENT	!	punctuation	!	28
+
+1	NK	ihr	PPOSAT	ihr	word	ihr	2
+2	SB	Anschlag	NN	Anschlag	word	Anschlag	3
+3	--	war	VAFIN	sein	word	war	0
+4	NG	nicht	PTKNEG	nicht	word	nicht	3
+5	PD	dumm	ADJD	dumm	word	dumm	3
+6	--	,	$,	,	punctuation	,	5
+7	MO	Aus	APPR	aus	word	Aus	9
+8	NK	Vorsicht	NN	Vorsicht	word	Vorsicht	7
+9	CJ	tauschte	VVFIN	tauschen	word	tauschte	3
+10	SB	sie	PPER	Sie	word	sie	9
+11	MO	auch	ADV	auch	word	auch	13
+12	NK	beide	PIAT	beide	word	beide	13
+13	OA	Namen	NN	Name	word	Namen	9
+14	SVP	um	PTKVZ	um	word	um	9
+15	--	.	SENT	.	punctuation	.	14
+
+1	SB	Lénor	NE	Lénor	word	Lenor	2
+2	--	ist	VAFIN	sein	word	ist	0
+3	NK	des	ART	d	word	des	4
+4	PD	Orants	NN	Orants	word	Orants	2
+5	--	,	$,	,	punctuation	,	4
+6	CD	und	KON	und	word	und	2
+7	NK	mein	PPOSAT	mein	word	mein	8
+8	SB	Kind	NN	Kind	word	Kind	9
+9	CJ	ist	VAFIN	sein	word	ist	6
+10	PD	Luise	NE	Luise	word	Luise	9
+11	--	.	SENT	.	punctuation	.	10
+
+1	NK	O	ITJ	O	word	O	2
+2	--	Himmel	NN	Himmel	word	Himmel	0
+3	--	!	SENT	!	punctuation	!	2
+
+1	--	-	$.	-	punctuation	-	0
+2	--	-	$.	-	punctuation	-	1
+
+1	JU	Und	KON	und	word	Und	9
+2	CP	daß	KOUS	daß	word	daß	7
+3	SB	sie	PPER	Sie	word	sie	7
+4	DA	mir	PPER	ich	word	mir	7
+5	NK	ihre	PPOSAT	ihr	word	ihre	6
+6	OA	Treu	NN	Treu	word	Treu	7
+7	MO	bewiese	VVPP	bewiese	word	bewiese	28
+8	--	,	$,	,	punctuation	,	7
+9	--	Hat	VAFIN	haben	word	Hat	0
+10	SB	sie	PPER	Sie	word	sie	9
+11	--	,	$,	,	punctuation	,	10
+12	CP	als	KOUS	als	word	als	19
+13	OA	mich	PPER	ich	word	mich	19
+14	NK	das	ART	d	word	das	15
+15	SB	Schiff	NN	Schiff	word	Schiff	19
+16	MO	noch	ADV	noch	word	noch	17
+17	NG	nicht	PTKNEG	nicht	word	nicht	19
+18	MO	weit	ADJD	weit	word	weit	19
+19	OC	weggebracht	VVPP	weggebracht	word	weggebracht	9
+20	--	,	$,	,	punctuation	,	19
+21	DA	Mir	PPER	ich	word	Mir	28
+22	MO	sterbend	ADJD	sterbend	word	sterbend	28
+23	MO	schriftlich	ADJD	schriftlich	word	schriftlich	28
+24	MO	noch	ADV	noch	word	noch	25
+25	OA	dies	PDS	dies	word	dieß	28
+26	MNR	alles	PIS	all	word	alles	25
+27	MO	kund	PTKVZ	kund	word	kund	28
+28	CJ	gemacht	VVPP	gemacht	word	gemacht	19
+29	--	.	SENT	.	punctuation	.	28
+
+1	SB	Ich	PPER	ich	word	Ich	2
+2	--	zeige	VVFIN	zeigen	word	zeige	0
+3	DA	dir	PPER	du	word	dir	2
+4	NK	den	ART	d	word	den	5
+5	OA	Brief	NN	Brief	word	Brief	2
+6	--	,	$,	,	punctuation	,	5
+7	SB	er	PPER	er	word	er	8
+8	CJ	liegt	VVFIN	liegen	word	liegt	2
+9	MO	bei	APPR	bei	word	bey	8
+10	NK	meinen	PPOSAT	mein	word	meinen	11
+11	NK	Sachen	NN	Sache	word	Sachen	9
+12	--	.	SENT	.	punctuation	.	11
+
+1	MO	So	ADV	so	word	So	2
+2	--	will	VMFIN	wollen	word	will	0
+3	MO	doch	ADV	doch	word	doch	2
+4	MO	abermals	ADV	abermals	word	abermals	2
+5	NK	mein	PPOSAT	mein	word	mein	7
+6	MO	schlafend	ADJA	schlafend	word	schlafend	8
+7	OA	Glück	NN	Glück	word	Gluͤck	8
+8	OC	erwachen	VVFIN	erwachen	word	erwachen	2
+9	--	?	SENT	?	punctuation	?	8
+
+1	DM	Ja	PTKANT	ja	word	Ja	6
+2	--	,	$,	,	punctuation	,	1
+3	DM	ja	ITJ	ja	word	ia	6
+4	--	,	$,	,	punctuation	,	3
+5	SB	es	PPER	es	word	es	6
+6	--	ist	VAFIN	sein	word	ist	0
+7	PD	gewiß	ADJD	gewiß	word	gewiß	6
+8	--	.	SENT	.	punctuation	.	7
+
+1	CP	Wenn	KOUS	wenn	word	Wenn	4
+2	SB	du	PPER	du	word	du	4
+3	OA	Lenoren	NN	Lenoren	word	Lenoren	4
+4	RE	liebst	ADJD	liebst	word	liebst	6
+5	--	,	$,	,	punctuation	,	4
+6	MO	So	ADV	so	word	So	7
+7	--	tust	VVFIN	tun	word	thust	0
+8	SB	du	PPER	du	word	du	7
+9	MO	unrecht	ADJD	unrecht	word	unrecht	7
+10	MO	dran	PAV	daran	word	dran	7
+11	--	,	$,	,	punctuation	,	10
+12	CP	wenn	KOUS	wenn	word	wenn	16
+13	SB	du	PPER	du	word	du	16
+14	OA	dich	PPER	du	word	dich	16
+15	MO	drum	PAV	darum	word	drum	16
+16	MO	betrübst	VVFIN	betrübst	word	betruͤbst	7
+17	--	;	SENT	;	punctuation	;	16
+
+1	SB	Du	PPER	du	word	Du	2
+2	--	kannst	VMFIN	können	word	kannst	0
+3	OA	sie	PPER	Sie	word	sie	9
+4	MO	heute	ADV	heute	word	heute	9
+5	MO	noch	ADV	noch	word	noch	4
+6	MO	zu	APPR	zu	word	zu	9
+7	NK	deiner	PPOSAT	dein	word	deiner	8
+8	NK	Frau	NN	Frau	word	Frau	6
+9	OC	bekommen	VVPP	bekommen	word	bekommen	2
+10	--	,	$,	,	punctuation	,	9
+11	CD	Und	KON	und	word	Und	2
+12	NK	dem	ART	d	word	dem	13
+13	DA	Dorante	NE	Dorante	word	Dorante	14
+14	CJ	wird	NE	Wirt	word	wird	11
+15	SB	Luise	NE	Luise	word	Luise	14
+16	NG	nicht	PTKNEG	nicht	word	nicht	17
+17	OC	genommen	VVPP	nehmen	word	genommen	14
+18	--	.	SENT	.	punctuation	.	17
+
+1	MO	Zum	APPRART	zum	word	Zum	9
+2	NK	Henker	NN	Henker	word	Henker	1
+3	--	,	$,	,	punctuation	,	2
+4	--	hätt	VAFIN	haben	word	haͤtt	0
+5	SB	ich	PPER	ich	word	ich	4
+6	OA	es	PPER	es	word	es	9
+7	MO	doch	ADV	doch	word	doch	9
+8	MO	nimmermehr	ADV	nimmermehr	word	nimmermehr	9
+9	OC	gedacht	VVPP	denken	word	gedacht	4
+10	--	,	$,	,	punctuation	,	9
+11	CP	Dass	KOUS	Dass	word	Daß	19
+12	DA	euch	PPER	ihr	word	euch	19
+13	NK	das	ART	d	word	das	15
+14	NK	alte	ADJA	alt	word	alte	15
+15	OA	Weib	NN	Weib	word	Weib	19
+16	MO	so	ADV	so	word	so	18
+17	MO	gar	ADV	gar	word	gar	18
+18	MO	verwirrt	ADJD	verwirrt	word	verwirrt	19
+19	MO	gemacht	VVPP	gemacht	word	gemacht	9
+20	--	.	SENT	.	punctuation	.	19
+
+1	SB	Sie	PPER	Sie	word	Sie	2
+2	--	hat	VAFIN	haben	word	hat	0
+3	OA	mich	PPER	ich	word	mich	9
+4	--	,	$,	,	punctuation	,	3
+5	CP	eh	ADV	eh	word	eh	7
+6	SB	sie	PPER	Sie	word	sie	7
+7	MO	starb	VVFIN	sterben	word	starb	9
+8	MO	schriftlich	ADJD	schriftlich	word	schriftlich	9
+9	OC	hintergangen	VVFIN	hintergangen	word	hintergangen	2
+10	--	.	SENT	.	punctuation	.	9
+
+1	MO	Wie	PWAV	wie	word	Wie	5
+2	--	wird	VAFIN	werden	word	wird	0
+3	SB	Montan	NE	Montan	word	Montan	2
+4	OA	sich	PRF	er|es|sie	word	sich	5
+5	OC	freuen	VVINF	freuen	word	freun	2
+6	--	,	$,	,	punctuation	,	5
+7	CP	wenn	KOUS	wenn	word	wenn	9
+8	SB	er	PPER	er	word	er	9
+9	CJ	wird	VAFIN	werden	word	wird	2
+10	OA	Licht	NN	Licht	word	Licht	11
+11	OC	empfangen	VVPP	empfangen	word	empfangen	9
+12	--	!	SENT	!	punctuation	!	11
+
+1	MO	Wie	PWAV	wie	word	Wie	17
+2	--	wird	VAFIN	werden	word	wird	0
+3	--	-	$.	-	punctuation	–	2
+4	--	-	$.	-	punctuation	–	3
+5	CD	Doch	KON	doch	word	Doch	2
+6	SB	Sylvia	NE	Sylvia	word	Sylvia	7
+7	CJ	kömmt	VVFIN	kommen	word	koͤmmt	5
+8	MO	dort	ADV	dort	word	dort	7
+9	MO	mit	APPR	mit	word	mit	7
+10	NK	dem	ART	d	word	dem	11
+11	NK	Damöt	ADJA	Damöt	word	Damoͤt	9
+12	--	,	$,	,	punctuation	,	11
+13	SB	Der	PRELS	d	word	Der	21
+14	DA	ihr	PPER	Ihr	word	ihr	21
+15	MO	aus	APPR	aus	word	aus	21
+16	NK	Zärtlichkeit	NN	Zärtlichkeit	word	Zaͤrtlichkeit	15
+17	MO	nie	ADV	nie	word	nie	21
+18	MO	von	APPR	von	word	von	21
+19	NK	der	ART	d	word	der	20
+20	NK	Seite	NN	Seite	word	Seite	18
+21	RC	geht	VVFIN	gehen	word	geht	11
+22	--	.	SENT	.	punctuation	.	21
+
+1	SB	Wir	PPER	wir	word	Wir	2
+2	--	wollen	VMFIN	wollen	word	wollen	0
+3	SB	sie	PPER	Sie	word	sie	2
+4	MO	doch	ADV	doch	word	doch	2
+5	NG	nicht	PTKNEG	nicht	word	nicht	2
+6	MO	in	APPR	in	word	in	9
+7	NK	ihrer	PPOSAT	ihr	word	ihrer	8
+8	NK	Unschuld	NN	Unschuld	word	Unschuld	6
+9	OC	stören	VVINF	stören	word	stoͤren	2
+10	--	;	SENT	;	punctuation	;	9
+
+1	SB	Montan	NE	Montan	word	Montan	2
+2	--	muß	VMFIN	müssen	word	muß	0
+3	SB	alles	PIS	all	word	alles	2
+4	MO	erst	ADV	erst	word	erst	5
+5	MO	aus	APPR	aus	word	aus	8
+6	NK	unserm	PPOSAT	unser	word	unserm	7
+7	NK	Munde	NN	Mund	word	Munde	5
+8	OC	hören	VVINF	hören	word	hoͤren	2
+9	--	.	SENT	.	punctuation	.	8
+

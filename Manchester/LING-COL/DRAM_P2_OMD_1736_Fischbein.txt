@@ -1,0 +1,2609 @@
+
+
+1	Ich	Ich	PPER	ich	nom|sg|*|1	SB	2
+2	hoͤre	höre	VVFIN	hören	sg|1|pres|ind	--	0
+3	,	,	$,	,	_	--	2
+4	daß	daß	KOUS	daß	_	CP	10
+5	meine	meine	PPOSAT	mein	nom|sg|fem	NK	6
+6	Tochter	Tochter	NN	Tochter	nom|sg|fem	SB	10
+7	Dorchen	Dorchen	NE	Dorchen	nom|sg|neut	NK	6
+8	etwas	etwas	ADV	etwas	_	MO	10
+9	kranck	krank	ADJD	krank	pos	PD	10
+10	ist	ist	VAFIN	sein	sg|3|pres|ind	OC	2
+11	;	;	SENT	;	_	--	10
+
+1	aber	aber	KON	aber	_	JU	3
+2	es	es	PPER	es	nom|sg|neut|3	SB	3
+3	sind	sind	VAFIN	sein	pl|3|pres|ind	--	0
+4	nur	nur	ADV	nur	_	MO	5
+5	Kopf-Schmertzen	Kopfschmerzen	NN	Kopfschmerz	nom|pl|fem	PD	3
+6	.	.	SENT	.	_	--	5
+
+1	Luischen	Luischen	NN	Luischen	_	OC	2
+2	hat	hat	VAFIN	haben	sg|3|pres|ind	--	0
+3	auch	auch	ADV	auch	_	MO	4
+4	etwas	etwas	PIS	etwas	*|*|neut	SB	2
+5	zu	zu	PTKZU	zu	_	PM	6
+6	thun	tun	VVINF	tun	_	OC	2
+7	.	.	SENT	.	_	--	6
+
+1	Wir	Wir	PPER	wir	nom|pl|*|1	SB	2
+2	wollen	wollen	VMFIN	wollen	pl|1|pres|ind	--	0
+3	uns	uns	PPER	wir	acc|pl|1	OA	7
+4	aber	aber	ADV	aber	_	MO	2
+5	deßwegen	deswegen	PAV	deswegen	_	MO	8
+6	nicht	nicht	PTKNEG	nicht	_	NG	2
+7	stoͤhren	stören	VVINF	stören	_	OC	8
+8	lassen	lassen	VVINF	lassen	_	OC	2
+9	,	,	$,	,	_	--	8
+10	sondern	sondern	KON	sondern	_	CD	8
+11	mit	mit	APPR	mit	_	MO	17
+12	unsern	unseren	PPOSAT	unser	dat|pl|masc	NK	14
+13	gottseligen	gottseligen	ADJA	gottselig	dat|pl|neut|pos	NK	14
+14	Gespraͤchen	Gesprächen	NN	Gespräch	dat|pl|neut	NK	11
+15	den	den	ART	d	acc|sg|masc	NK	16
+16	Anfang	Anfang	NN	Anfang	acc|sg|masc	OA	17
+17	machen	machen	VVINF	machen	_	CJ	10
+18	.	.	SENT	.	_	--	17
+
+1	Es	Es	PPER	es	nom|sg|neut|3	SB	2
+2	ist	ist	VAFIN	sein	sg|3|pres|ind	--	0
+3	mir	mir	PPER	ich	dat|sg|*|1	DA	5
+4	was	was	PIS	was	nom|sg|neut	SB	2
+5	eingefallen	eingefallen	VVPP	einfallen	_	OC	2
+6	.	.	SENT	.	_	--	5
+
+1	Ich	Ich	PPER	ich	nom|sg|*|1	SB	2
+2	meyne	meine	VVFIN	meinen	sg|1|pres|ind	--	0
+3	,	,	$,	,	_	--	2
+4	wir	wir	PPER	wir	nom|pl|*|1	SB	5
+5	koͤnnten	könnten	VMFIN	können	pl|3|past|subj	OC	2
+6	uns	uns	PPER	wir	dat|pl|*|1	DA	9
+7	einen	einen	ART	ein	acc|sg|masc	NK	8
+8	Menschen	Menschen	NN	Mensch	acc|sg|masc	OA	9
+9	halten	halten	VVINF	halten	_	OC	5
+10	,	,	$,	,	_	--	9
+11	der	der	PRELS	d	nom|sg|masc	SB	17
+12	unsere	unsere	PPOSAT	unser	acc|pl|fem	NK	13
+13	Unterredungen	Unterredungen	NN	Unterredung	acc|pl|fem	OA	17
+14	in	in	APPR	in	_	MO	17
+15	ein	ein	ART	ein	acc|sg|neut	NK	16
+16	Buch	Buch	NN	Buch	acc|sg|neut	NK	14
+17	truͤge	trüge	VVFIN	tragen	sg|3|past|subj	RC	8
+18	.	.	SENT	.	_	--	17
+
+1	Das	Das	PDS	d	nom|sg|neut	SB	2
+2	wuͤrde	würde	VAFIN	werden	sg|3|past|subj	--	0
+3	der	der	ART	d	nom|sg|masc	NK	4
+4	Kirche	Kirche	NN	Kirche	dat|sg|fem	DA	8
+5	ein	ein	ART	ein	nom|sg|neut	NK	7
+6	nuͤtzliches	Nützliches	NA	Nützliche	nom|sg|neut|pos	NK	7
+7	Werck	Werck	NN	Werk	nom|sg|neut	PD	8
+8	seyn	sein	VAINF	sein	_	OC	2
+9	;	;	SENT	;	_	--	8
+
+1	daraus	daraus	PAV	daraus	_	MO	2
+2	koͤnnten	könnten	VMFIN	können	pl|3|past|subj	--	0
+3	die	die	ART	d	nom|pl|masc	NK	6
+4	dunckelsten	dunkelsten	ADJA	dunkelsten	nom|pl|masc|sup	NK	6
+5	Theologischen	Theologischen	ADJA	theologisch	nom|pl|fem|pos	NK	6
+6	Streitigkeiten	Streitigkeiten	NN	Streitigkeit	nom|pl|fem	SB	2
+7	entschieden	entschieden	VVPP	entscheiden	_	OC	8
+8	werden	werden	VAINF	werden	_	OC	2
+9	.	.	SENT	.	_	--	8
+
+1	Das	Das	PDS	d	nom|sg|neut	SB	2
+2	ist	ist	VAFIN	sein	sg|3|pres|ind	--	0
+3	ein	ein	ART	ein	nom|sg|masc	NK	5
+4	unvergleichlicher	unvergleichlicher	ADJA	unvergleichlich	nom|sg|masc|pos	NK	5
+5	Einfall	Einfall	NN	Einfall	nom|sg|masc	PD	2
+6	!	!	SENT	!	_	--	5
+
+1	Das	Das	PDS	d	nom|sg|neut	SB	2
+2	waͤre	wäre	VAFIN	sein	sg|3|past|subj	--	0
+3	freylich	freilich	ADV	freilich	_	MO	2
+4	schoͤn	schön	ADJD	schön	pos	PD	2
+5	!	!	SENT	!	_	--	4
+
+1	Die	Die	ART	d	nom|sg|fem	NK	2
+2	Kirche	Kirche	NN	Kirche	nom|sg|fem	SB	3
+3	wuͤrde	würde	VAFIN	werden	sg|3|past|subj	--	0
+4	nicht	nicht	PTKNEG	nicht	_	NG	5
+5	nur	nur	ADV	nur	_	MO	7
+6	viel	viel	PIAT	viel	*|*|*	NK	7
+7	Nutzen	Nutzen	NN	Nutzen	acc|sg|masc	OA	3
+8	;	;	SENT	;	_	--	7
+
+1	sondern	sondern	KON	sondern	_	CD	6
+2	auch	auch	ADV	auch	_	MO	4
+3	viel	viel	PIAT	viel	*|*|*	NK	4
+4	Ehre	Ehre	NN	Ehre	acc|sg|fem	OA	6
+5	davon	davon	PAV	davon	_	MNR	4
+6	haben	haben	VAINF	haben	pl|3|pres|ind	--	0
+7	:	:	SENT	:	_	--	6
+
+1	Denn	Denn	KON	denn	_	JU	3
+2	wir	wir	PPER	wir	nom|pl|*|1	SB	3
+3	muͤsten	müssten	VMFIN	müssen	pl|1|pres|ind	--	0
+4	unsere	unsere	PPOSAT	unser	acc|pl|fem	NK	5
+5	Namen	Namen	NN	Name	acc|pl|masc	OA	7
+6	darunter	darunter	PAV	darunter	_	CVC	7
+7	setzen	setzen	VVINF	setzen	_	OC	3
+8	.	.	SENT	.	_	--	7
+
+1	Freylich	Freilich	ADV	freilich	_	--	0
+2	.	.	SENT	.	_	--	1
+
+1	Ich	Ich	PPER	ich	nom|sg|*|1	SB	2
+2	habe	habe	VAFIN	haben	sg|1|pres|ind	--	0
+3	den	den	ART	d	acc|sg|masc	NK	4
+4	Titul	Titul	NN	Titel	acc|sg|masc	OA	7
+5	darzu	darzu	ADV	darzu	_	MO	7
+6	schon	schon	ADV	schon	_	MO	7
+7	fertig	fertig	ADJD	fertig	pos	OC	2
+8	.	.	SENT	.	_	--	7
+
+1	Er	Er	PPER	Er	nom|sg|masc|3	SB	2
+2	soll	soll	VMFIN	sollen	sg|3|pres|ind	--	0
+3	heissen	heißen	VVINF	heißen	_	OC	2
+4	:	:	SENT	:	_	--	3
+
+1	Sam̄lung	Sammlung	NN	Sammlung	nom|sg|fem	--	0
+2	auserlesener	auserlesener	ADJA	auserlesener	gen|pl|fem|pos	NK	3
+3	Streitigkeiten	Streitigkeiten	NN	Streitigkeit	gen|pl|fem	AG	1
+4	uͤber	über	APPR	über	_	MNR	1
+5	die	die	ART	d	acc|pl|neut	NK	7
+6	schwersten	schwersten	ADJA	schwer	acc|pl|masc|sup	NK	7
+7	Religions	Religion	NN	Religion	acc|sg|fem	NK	4
+8	Artickel	Artikel	NN	Artikel	nom|pl|masc	NK	7
+9	,	,	$,	,	_	--	8
+10	den	den	ART	d	dat|pl|masc	NK	11
+11	Doctoren	Doktoren	NN	Doktoren	dat|pl|masc	APP	8
+12	der	der	ART	d	gen|sg|fem	NK	14
+13	heiligen	heiligen	ADJA	heilig	gen|sg|fem|pos	NK	14
+14	Schrifft	Schrift	NN	Schrift	gen|sg|fem	AG	11
+15	,	,	$,	,	_	--	14
+16	und	und	KON	und	_	CD	11
+17	den	den	ART	d	acc|sg|masc	NK	19
+18	Theologischen	Theologischen	ADJA	theologisch	dat|pl|fem|pos	NK	19
+19	Facultaͤten	Fakultäten	NN	Fakultät	dat|pl|fem	DA	25
+20	zum	zum	APPRART	zum	dat|sg|masc	CVC	25
+21	Nutzen	Nutzen	NN	Nutzen	dat|sg|masc	NK	20
+22	und	und	KON	und	_	CD	21
+23	Unterricht	Unterricht	NN	Unterricht	dat|sg|masc	CJ	22
+24	heraus	heraus	PTKVZ	heraus	_	MO	20
+25	gegeben	gegeben	VVPP	geben	_	PAR	1
+26	,	,	$,	,	_	--	25
+27	von	von	APPR	von	_	PG	29
+28	denen	denen	ART	d	dat|pl|fem	NK	27
+29	Frauen	Frauen	NN	Frau	dat|pl|fem	CJ	16
+30	:	:	SENT	:	_	--	29
+
+1	Glaubeleichtin	Glaubeleichtin	NN	Glaubeleichtin	nom|pl|masc	--	0
+2	,	,	$,	,	_	--	1
+3	Seufzerin	Seufzerin	NN	Seufzerin	nom|sg|fem	CJ	1
+4	und	und	KON	und	_	CD	3
+5	Zanckenheimin	Zanckenheimin	NN	Zanckenheimin	nom|sg|fem	CJ	4
+6	.	.	SENT	.	_	--	5
+
+1	Das	Das	PDS	d	nom|sg|neut	SB	2
+2	ist	ist	VAFIN	sein	sg|3|pres|ind	--	0
+3	allerliebst	allerliebst	ADJD	allerliebst	_	MO	2
+4	!	!	SENT	!	_	--	3
+
+1	Aber	Aber	KON	aber	_	JU	4
+2	unsere	unsere	PPOSAT	unser	nom|pl|masc	NK	3
+3	Herren	Herren	NN	Herr	nom|pl|masc	SB	4
+4	muͤsten	müssten	VMFIN	müssen	pl|3|pres|ind	--	0
+5	das	das	ART	d	acc|sg|neut	NK	6
+6	Werck	Werck	NN	Werk	acc|sg|neut	OA	8
+7	erst	erst	ADV	erst	_	MO	8
+8	durchlesen	durchlesen	VVFIN	durchlesen	_	OC	4
+9	.	.	SENT	.	_	--	8
+
+1	Freylich	Freilich	ADV	freilich	_	--	0
+2	;	;	SENT	;	_	--	1
+
+1	aber	aber	ADV	aber	_	MO	6
+2	nur	nur	ADV	nur	_	MO	6
+3	die	die	ART	d	nom|pl|fem	NK	6
+4	rechten	rechten	ADJA	rechen	acc|pl|*|pos	NK	6
+5	eifferigen	eifferigen	ADJA	eifferigen	acc|sg|masc|pos	NK	6
+6	Prediger	Prediger	NN	Prediger	acc|pl|masc	--	0
+7	:	:	SENT	:	_	--	6
+
+1	Denn	Denn	KON	denn	_	JU	4
+2	die	die	ART	d	nom|pl|*	NK	3
+3	andern	anderen	PIS	ander	nom|pl|*	SB	4
+4	sind	sind	VAFIN	sein	pl|3|pres|ind	--	0
+5	Dumm-Koͤpffe	Dummköpfe	NN	Dummköpfe	nom|pl|masc	PD	4
+6	;	;	SENT	;	_	--	5
+
+1	die	die	PDS	d	nom|pl|*	SB	2
+2	wissen	wissen	VVFIN	wissen	pl|3|pres|ind	--	0
+3	nichts	nichts	PIS	nichts	*|*|neut	OA	2
+4	von	von	APPR	von	_	OP	2
+5	hohen	hohen	ADJA	hoch	dat|pl|fem|pos	NK	6
+6	Sachen	Sachen	NN	Sache	dat|pl|fem	NK	4
+7	.	.	SENT	.	_	--	6
+
+1	Das	Das	PDS	d	nom|sg|neut	SB	2
+2	ist	ist	VAFIN	sein	sg|3|pres|ind	--	0
+3	gewiß	gewiß	ADJD	gewiß	_	MO	2
+4	ein	ein	ART	ein	nom|sg|masc	NK	6
+5	schoͤner	schöner	ADJA	schön	nom|sg|masc|pos	NK	6
+6	Vorschlag	Vorschlag	NN	Vorschlag	nom|sg|masc	PD	2
+7	:	:	SENT	:	_	--	6
+
+1	Wir	Wir	PPER	wir	nom|pl|*|1	SB	2
+2	muͤssen	müssen	VMFIN	müssen	pl|1|pres|ind	--	0
+3	ihn	ihn	PPER	er	acc|sg|masc|3	OA	8
+4	noch	noch	ADV	noch	_	MO	5
+5	heute	heute	ADV	heute	_	MO	8
+6	ins	ins	APPRART	ins	acc|sg|neut	MO	8
+7	Werck	Werck	NN	Werk	acc|sg|neut	NK	6
+8	richten	richten	VVINF	richten	_	OC	2
+9	.	.	SENT	.	_	--	8
+
+1	Aber	Aber	KON	aber	_	JU	4
+2	welchen	welchen	PIAT	welch	acc|sg|masc	NK	3
+3	Punct	Punkt	NN	Punkt	acc|sg|masc	OA	7
+4	wollen	wollen	VMFIN	wollen	pl|1|pres|ind	--	0
+5	wir	wir	PPER	wir	nom|pl|*|1	SB	4
+6	zuerst	zuerst	ADV	zuerst	_	MO	4
+7	vornehmen	vornehmen	VVINF	vornehmen	_	OC	4
+8	?	?	SENT	?	_	--	7
+
+1	Die	Die	ART	d	nom|pl|masc	NK	2
+2	Wittenberger	Wittenberger	NN	Wittenberger	nom|pl|masc	OA	10
+3	haben	haben	VAFIN	haben	pl|1|pres|ind	--	0
+4	wir	wir	PPER	wir	nom|pl|*|1	SB	3
+5	schon	schon	ADV	schon	_	MO	6
+6	laͤngst	längst	ADV	längst	_	MO	10
+7	unter	unter	APPR	unter	_	MO	10
+8	die	die	ART	d	acc|sg|fem	NK	9
+9	Banck	Bank	NN	Bank	acc|sg|fem	NK	7
+10	disputirt	disputiert	VVFIN	disputiert	_	OC	3
+11	.	.	SENT	.	_	--	10
+
+1	Die	Die	ART	d	nom|sg|fem	NK	2
+2	Gewalt	Gewalt	NN	Gewalt	nom|sg|fem	SB	8
+3	der	der	ART	d	gen|pl|*	NK	4
+4	Geistlichen	Geistlichen	NN	Geistliche	gen|pl|*	AG	2
+5	und	und	KON	und	_	CD	2
+6	die	die	ART	d	nom|pl|fem	NK	7
+7	Kirchen-Ordnungen	Kirchen-Ordnungen	NN	Kirchen-Ordnungen	acc|pl|fem	CJ	5
+8	haben	haben	VAFIN	haben	pl|1|pres|ind	--	0
+9	wir	wir	PPER	wir	nom|pl|*|1	SB	8
+10	auch	auch	ADV	auch	_	MO	12
+11	schon	schon	ADV	schon	_	MO	12
+12	ausgemacht	ausgemacht	VVPP	ausmachen	_	OC	8
+13	.	.	SENT	.	_	--	12
+
+1	Mich	Mich	PPER	ich	acc|sg|*|1	OA	2
+2	duͤnckt	dünkt	VVFIN	dünken	sg|3|pres|ind	--	0
+3	,	,	$,	,	_	--	2
+4	wir	wir	PPER	wir	nom|pl|*|1	SB	5
+5	sind	sind	VAFIN	sein	pl|1|pres|ind	CJ	2
+6	jetzo	jetzt	ADV	jetzt	_	MO	5
+7	bey	bei	APPR	bei	_	MO	5
+8	dem	dem	ART	d	dat|sg|masc	NK	9
+9	Artickel	Artikel	NN	Artikel	dat|sg|masc	NK	7
+10	von	von	APPR	von	_	MNR	9
+11	der	der	ART	d	dat|sg|fem	NK	12
+12	Wiedergeburt	Wiedergeburt	NN	Wiedergeburt	dat|sg|fem	NK	10
+13	.	.	SENT	.	_	--	12
+
+1	Ja	Ja	ITJ	ja	_	--	0
+2	!	!	SENT	!	_	--	1
+
+1	da	da	ADV	da	_	MO	4
+2	sind	sind	VAFIN	sein	pl|1|pres|ind	--	0
+3	wir	wir	PPER	wir	nom|pl|*|1	SB	2
+4	geblieben	geblieben	VVPP	bleiben	_	OC	2
+5	.	.	SENT	.	_	--	4
+
+1	Nun	Nun	ADV	nun	_	MO	4
+2	,	,	$,	,	_	--	1
+3	ich	ich	PPER	ich	nom|sg|*|1	SB	4
+4	muß	muß	VMFIN	müssen	sg|1|pres|ind	--	0
+5	ihnen	ihnen	PPER	sie	dat|pl|*|3	DA	9
+6	auch	auch	ADV	auch	_	MO	8
+7	meine	meine	PPOSAT	mein	acc|pl|masc	NK	8
+8	Gedancken	Gedanken	NN	Gedanke	acc|pl|masc	OA	9
+9	sagen	sagen	VVINF	sagen	_	OC	4
+10	.	.	SENT	.	_	--	9
+
+1	Ich	Ich	PPER	ich	nom|sg|*|1	SB	2
+2	habe	habe	VAFIN	haben	sg|1|pres|ind	--	0
+3	gehoͤret	gehöret	VVPP	gehören	_	OC	2
+4	,	,	$,	,	_	--	3
+5	daß	daß	KOUS	daß	_	CP	14
+6	noch	noch	ADV	noch	_	MO	9
+7	kein	kein	PIAT	kein	nom|sg|masc	NK	9
+8	eintziger	einziger	ADJA	einzig	nom|sg|masc|pos	NK	9
+9	Theologus	Theologus	NN	Theologus	nom|sg|masc	SB	14
+10	die	die	ART	d	acc|sg|fem	NK	11
+11	Wiedergeburth	Wiedergeburt	NN	Wiedergeburt	acc|sg|fem	OA	13
+12	recht	recht	ADJD	recht	_	MO	13
+13	erklaͤret	erkläret	VVPP	erklären	_	OC	14
+14	habe	habe	VAFIN	haben	sg|3|pres|subj	OC	3
+15	:	:	SENT	:	_	--	14
+
+1	Und	Und	KON	und	_	JU	2
+2	geben	geben	VVFIN	geben	pl|3|pres|ind	--	0
+3	dieses	dieses	PDS	dies	acc|sg|neut	DA	2
+4	fuͤr	für	APPR	für	_	MO	2
+5	einen	einen	ART	ein	acc|sg|masc	NK	8
+6	sehr	sehr	ADV	sehr	_	MO	7
+7	schweren	schweren	ADJA	schwer	acc|sg|masc|pos	NK	8
+8	Artickel	Artikel	NN	Artikel	acc|sg|masc	NK	4
+9	aus	aus	PTKVZ	aus	_	SVP	2
+10	.	.	SENT	.	_	--	9
+
+1	Wir	Wir	PPER	wir	nom|pl|*|1	SB	2
+2	wollen	wollen	VMFIN	wollen	pl|1|pres|ind	--	0
+3	uns	uns	PPER	wir	acc|pl|*|1	OA	6
+4	also	also	ADV	also	_	MO	2
+5	druͤber	drüber	PAV	drüber	_	MO	6
+6	machen	machen	VVINF	machen	_	OC	2
+7	,	,	$,	,	_	--	6
+8	und	und	KON	und	_	CD	2
+9	diesen	diesen	PDAT	dies	dat|pl|masc	NK	10
+10	Herren	Herren	NN	Herr	dat|pl|masc	DA	11
+11	zeigen	zeigen	VVINF	zeigen	_	CJ	8
+12	,	,	$,	,	_	--	11
+13	daß	daß	KOUS	daß	_	CP	16
+14	wir	wir	PPER	wir	nom|pl|*|1	SB	16
+15	kluͤger	klüger	ADJD	klug	comp	PD	16
+16	sind	sind	VAFIN	sein	pl|1|pres|ind	RE	5
+17	,	,	$,	,	_	--	16
+18	als	als	KOUS	als	_	CM	19
+19	sie	sie	PPER	Sie	nom|pl|masc|3	CC	15
+20	.	.	SENT	.	_	--	19
+
+1	O	O	ITJ	O	_	NK	2
+2	!	!	SENT	!	_	--	0
+
+1	das	das	PDS	d	nom|sg|neut	SB	2
+2	ist	ist	VAFIN	sein	sg|3|pres|ind	--	0
+3	sehr	sehr	ADV	sehr	_	MO	4
+4	schoͤne	schöne	ADJD	schön	pos	PD	2
+5	.	.	SENT	.	_	--	4
+
+1	Da	Da	ADV	da	_	MO	10
+2	werden	werden	VAFIN	werden	pl|1|pres|ind	--	0
+3	wir	wir	PPER	wir	nom|pl|*|1	SB	2
+4	die	die	ART	d	acc|sg|fem	NK	5
+5	Sache	Sache	NN	Sache	acc|sg|fem	OA	10
+6	in	in	APPR	in	_	MO	10
+7	sein	sein	PPOSAT	sein	acc|sg|neut	NK	9
+8	rechtes	rechtes	ADJA	rechtes	acc|sg|neut|pos	NK	9
+9	Licht	Licht	NN	Licht	acc|sg|neut	NK	6
+10	setzen	setzen	VVINF	setzen	_	OC	2
+11	.	.	SENT	.	_	--	10
+
+1	Was	Was	PWS	was	acc|sg|neut	OA	2
+2	sagen	sagen	VVFIN	sagen	pl|3|pres|ind	--	0
+3	sie	sie	PPER	Sie	nom|pl|*|3	SB	2
+4	darzu	darzu	PAV	dazu	_	MO	2
+5	,	,	$,	,	_	--	4
+6	Madame	Madame	FM	--	_	OC	2
+7	?	?	SENT	?	_	--	6
+
+1	Ich	Ich	PPER	ich	nom|sg|*|1	SB	2
+2	lasse	lasse	VVFIN	lassen	sg|3|pres|subj	--	0
+3	es	es	PPER	es	acc|sg|neut|3	OA	2
+4	mir	mir	PPER	ich	dat|sg|*|1	DA	5
+5	gefallen	gefallen	VVPP	fallen	_	OC	2
+6	.	.	SENT	.	_	--	5
+
+1	Das	Das	PDS	d	nom|sg|neut	SB	2
+2	wird	wird	VAFIN	werden	sg|3|pres|ind	--	0
+3	uns	uns	PPER	wir	dat|pl|*|1	DA	7
+4	einen	einen	ART	ein	acc|sg|masc	NK	6
+5	unsterblichen	unsterblichen	ADJA	unsterblichen	acc|sg|masc|pos	NK	6
+6	Namen	Namen	NN	Name	acc|sg|masc	OA	7
+7	machen	machen	VVINF	machen	_	OC	2
+8	.	.	SENT	.	_	--	7
+
+1	Wir	Wir	PPER	wir	nom|pl|*|1	SB	2
+2	muͤssen	müssen	VMFIN	müssen	pl|1|pres|ind	--	0
+3	also	also	ADV	also	_	MO	2
+4	uͤber	über	APPR	über	_	MO	2
+5	eine	eine	ART	ein	acc|sg|fem	NK	6
+6	Erklaͤrung	Erklärung	NN	Erklärung	acc|sg|fem	NK	4
+7	eins	eins	ADV	eins	nom|sg|neut	PD	8
+8	werden	werden	VAINF	werden	_	OC	2
+9	.	.	SENT	.	_	--	8
+
+1	Wollen	Wollen	VMFIN	wollen	pl|3|pres|ind	--	0
+2	sie	sie	PPER	Sie	nom|pl|*|3	SB	1
+3	ihre	ihre	PPOSAT	ihr	acc|pl|fem	NK	4
+4	Meynungen	Meinungen	NN	Meinung	acc|pl|fem	OA	7
+5	zu	zu	APPR	zu	_	MNR	4
+6	erst	erst	ADV	erst	_	NK	5
+7	sagen	sagen	VVINF	sagen	_	OC	1
+8	;	;	SENT	;	_	--	7
+
+1	oder	oder	KON	oder	_	JU	2
+2	soll	soll	VMFIN	sollen	sg|1|pres|ind	--	0
+3	ich	ich	PPER	ich	nom|sg|*|1	SB	2
+4	anfangen	anfangen	VVINF	anfangen	_	OC	2
+5	?	?	SENT	?	_	--	4
+
+1	Fangen	Fangen	VVFIN	fangen	pl|3|pres|ind	--	0
+2	sie	sie	PPER	Sie	nom|pl|*|3	SB	1
+3	nur	nur	ADV	nur	_	MO	1
+4	an	an	PTKVZ	an	_	SVP	1
+5	,	,	$,	,	_	--	4
+6	Madame	Madame	FM	--	_	OC	1
+7	.	.	SENT	.	_	--	6
+
+1	Wir	Wir	PPER	wir	nom|pl|*|1	SB	2
+2	wollen	wollen	VMFIN	wollen	pl|1|pres|ind	--	0
+3	warten	warten	VVINF	warten	_	OC	2
+4	.	.	SENT	.	_	--	3
+
+1	Weil	Weil	KOUS	weil	_	CP	5
+2	sie	sie	PPER	Sie	nom|pl|*|3	SB	5
+3	es	es	PPER	es	acc|sg|neut|3	OA	5
+4	denn	denn	ADV	denn	_	MO	5
+5	begehren	begehren	VVINF	begehren	_	--	0
+6	;	;	SENT	;	_	--	5
+
+1	so	so	ADV	so	_	MO	2
+2	habe	habe	VAFIN	haben	sg|1|pres|ind	MO	16
+3	ich	ich	PPER	ich	nom|sg|*|1	SB	2
+4	die	die	ART	d	acc|sg|fem	NK	5
+5	Ehre	Ehre	NN	Ehre	acc|sg|fem	OA	8
+6	ihnen	ihnen	PPER	sie	dat|pl|*|3	DA	8
+7	zu	zu	PTKZU	zu	_	PM	8
+8	sagen	sagen	VVINF	sagen	_	OC	2
+9	,	,	$,	,	_	--	8
+10	daß	daß	KOUS	daß	_	CP	14
+11	ich	ich	PPER	ich	nom|sg|*|1	SB	14
+12	die	die	ART	d	nom|sg|fem	NK	13
+13	Wiedergeburth	Wiedergeburt	NN	Wiedergeburt	acc|sg|fem	OA	14
+14	halte	halte	VVFIN	halten	sg|3|pres|subj	OC	8
+15	,	,	$,	,	_	--	14
+16	geben	geben	VVFIN	geben	pl|3|pres|ind	--	0
+17	sie	sie	PPER	Sie	nom|pl|*|3	SB	16
+18	wohl	wohl	ADV	wohl	_	MO	16
+19	Achtung	Achtung	NN	Achtung	acc|sg|fem	OA	16
+20	!	!	SENT	!	_	--	19
+
+1	ich	ich	PPER	ich	nom|sg|*|1	SB	2
+2	halte	halte	VVFIN	halten	sg|3|pres|subj	--	0
+3	sie	sie	PPER	Sie	nom|sg|fem|3	OA	2
+4	vor	vor	APPR	vor	_	OP	2
+5	das	das	ART	d	acc|sg|neut	NK	7
+6	suͤsse	süße	ADJA	süß	acc|sg|neut|pos	NK	7
+7	Quell-Wasser	Quell-Wasser	NN	Quellwasser	acc|sg|neut	NK	4
+8	des	des	ART	d	gen|sg|neut	NK	9
+9	Hertzens	Herzens	NN	Herz	gen|sg|neut	AG	7
+10	,	,	$,	,	_	--	9
+11	welches	welches	PRELS	welch	nom|sg|neut	SB	15
+12	aus	aus	APPR	aus	_	MO	15
+13	der	der	ART	d	dat|sg|fem	NK	14
+14	Sophia	Sophia	NE	Sophia	dat|sg|fem	NK	12
+15	urstaͤndet	urständet	VVPP	urständet	sg|3|pres|ind	RC	7
+16	,	,	$,	,	_	--	15
+17	und	und	KON	und	_	CD	7
+18	das	das	ART	d	acc|sg|neut	NK	20
+19	himmlische	himmlische	ADJA	himmlisch	acc|sg|neut|pos	NK	20
+20	Wesen	Wesen	NN	Wesen	acc|sg|neut	CJ	17
+21	gebiehret	gebiert	VVFIN	gebären	_	OC	20
+22	.	.	SENT	.	_	--	21
+
+1	Wie	Wie	PWAV	wie	_	PD	2
+2	war	war	VAFIN	sein	sg|3|past|ind	--	0
+3	das	das	PDS	d	nom|sg|neut	SB	2
+4	?	?	SENT	?	_	--	3
+
+1	das	das	ART	d	nom|sg|neut	NK	2
+2	Grund-Wasser	Grund-Wasser	NN	Grund-Wasser	nom|sg|neut	--	0
+3	?	?	SENT	?	_	--	2
+
+1	–	-	$.	-	_	--	4
+2	–	-	$.	-	_	--	1
+3	–	-	$.	-	_	--	2
+4	Nein	Nein	PTKANT	nein	_	--	0
+5	!	!	SENT	!	_	--	4
+
+1	ich	ich	PPER	ich	nom|sg|*|1	SB	2
+2	sage	sage	VVFIN	sagen	sg|1|pres|ind	--	0
+3	:	:	SENT	:	_	--	2
+
+1	das	das	ART	d	nom|sg|neut	NK	3
+2	suͤsse	süße	ADJA	süß	nom|sg|neut|pos	NK	3
+3	Quell-Wasser	Quell-Wasser	NN	Quellwasser	nom|sg|neut	--	0
+4	des	des	ART	d	gen|sg|neut	NK	5
+5	Hertzens	Herzens	NN	Herz	gen|sg|neut	AG	3
+6	!	!	SENT	!	_	--	5
+
+1	Verstehn	Verstehn	VVFIN	Verstehn	sg|3|past|subj	--	0
+2	sie	sie	PPER	Sie	nom|sg|fem|3	SB	1
+3	denn	denn	ADV	denn	_	MO	1
+4	das	das	PDS	d	nom|sg|neut	SB	1
+5	nicht	nicht	PTKNEG	nicht	_	NG	1
+6	?	?	SENT	?	_	--	5
+
+1	Verzeihen	Verzeihen	VVINF	verzeihen	pl|3|pres|ind	--	0
+2	sie	sie	PPER	Sie	nom|pl|*|3	SB	1
+3	;	;	SENT	;	_	--	2
+
+1	was	was	PWS	was	nom|sg|neut	SB	2
+2	ist	ist	VAFIN	sein	sg|3|pres|ind	--	0
+3	das	das	ART	d	nom|sg|neut	NK	5
+4	suͤsse	süße	ADJA	süß	nom|sg|neut|pos	NK	5
+5	Quell-Wasser	Quell-Wasser	NN	Quellwasser	nom|sg|neut	PD	2
+6	des	des	ART	d	gen|sg|neut	NK	7
+7	Hertzens	Herzens	NN	Herz	gen|sg|neut	AG	5
+8	.	.	SENT	.	_	--	7
+
+1	Quell-Wasser	Quell-Wasser	NN	Quellwasser	nom|*|*	--	0
+2	?	?	SENT	?	_	--	1
+
+1	was	was	PWS	was	nom|sg|neut	PD	3
+2	das	das	ART	d	nom|sg|neut	SB	3
+3	ist	ist	VAFIN	sein	sg|3|pres|ind	--	0
+4	?	?	SENT	?	_	--	3
+
+1	Je	Je	ITJ	je	_	--	0
+2	!	!	SENT	!	_	--	1
+
+1	das	das	PDS	d	acc|sg|neut	OA	2
+2	versteht	versteht	VVFIN	verstehen	sg|3|pres|ind	--	0
+3	die	die	ART	d	nom|sg|fem	NK	5
+4	gantze	ganze	ADJA	ganz	nom|sg|fem|pos	NK	5
+5	Welt	Welt	NN	Welt	nom|sg|fem	SB	2
+6	!	!	SENT	!	_	--	5
+
+1	Das	Das	ART	d	nom|sg|neut	NK	2
+2	Wasser-Bad	Wasser-Bad	NN	Wasser-Bad	nom|sg|neut	OA	5
+3	wollen	wollen	VMFIN	wollen	pl|3|pres|ind	--	0
+4	sie	sie	PPER	Sie	nom|pl|*|3	SB	3
+5	sagen	sagen	VVINF	sagen	_	OC	3
+6	?	?	SENT	?	_	--	5
+
+1	Nein	Nein	PTKANT	nein	_	--	0
+2	,	,	$,	,	_	--	1
+3	Madame	Madame	FM	--	_	--	0
+4	!	!	SENT	!	_	--	3
+
+1	Es	Es	PPER	es	nom|sg|neut|3	SB	2
+2	ist	ist	VAFIN	sein	sg|3|pres|ind	--	0
+3	kein	kein	PIAT	kein	nom|sg|neut	NK	4
+4	Wasser-Bad	Wasser-Bad	NN	Wasser-Bad	nom|sg|neut	PD	2
+5	.	.	SENT	.	_	--	4
+
+1	Zum	Zum	APPRART	zum	dat|sg|masc	--	0
+2	Hencker	Henker	NN	Henker	dat|sg|masc	NK	1
+3	!	!	SENT	!	_	--	2
+
+1	ich	ich	PPER	ich	nom|sg|*|1	SB	2
+2	werde	werde	VAFIN	werden	sg|1|pres|ind	--	0
+3	doch	doch	ADV	doch	_	MO	4
+4	wissen	wissen	VVINF	wissen	_	OC	2
+5	,	,	$,	,	_	--	4
+6	was	was	PWREL	was	acc|sg|neut	OA	8
+7	ich	ich	PPER	ich	nom|sg|*|1	SB	8
+8	rede	rede	VVFIN	reden	sg|1|pres|ind	OC	4
+9	.	.	SENT	.	_	--	8
+
+1	Was	Was	PWS	was	acc|sg|neut	OA	2
+2	sagen	sagen	VVFIN	sagen	pl|3|pres|ind	--	0
+3	sie	sie	PPER	Sie	nom|pl|*|3	SB	2
+4	denn	denn	ADV	denn	_	MO	2
+5	davon	davon	PAV	davon	_	SVP	2
+6	?	?	SENT	?	_	--	5
+
+1	Ich	Ich	PPER	ich	nom|sg|*|1	SB	2
+2	moͤchts	möchts	VMFIN	möchts	sg|1|pres|ind	--	0
+3	doch	doch	ADV	doch	_	MO	2
+4	wol	wohl	ADV	wohl	_	MO	6
+5	gerne	gerne	ADV	gern	_	MO	6
+6	wissen	wissen	VVINF	wissen	_	OC	2
+7	.	.	SENT	.	_	--	6
+
+1	Nach	Nach	APPR	Nach	_	MO	4
+2	meiner	meiner	PPOSAT	mein	dat|sg|fem	NK	3
+3	Meynung	Meinung	NN	Meinung	dat|sg|fem	NK	1
+4	ists	Ists	VAFIN	sein	gen|sg|masc	--	0
+5	:	:	SENT	:	_	--	4
+
+1	Die	Die	ART	d	nom|sg|fem	NK	2
+2	Erbohrenwerdung	Erbohrenwerdung	NN	Erborenwerdung	nom|sg|fem	--	0
+3	der	der	ART	d	gen|sg|fem	NK	5
+4	himmlischen	himmlischen	ADJA	himmlisch	gen|sg|fem|pos	NK	5
+5	Wesenheit	Wesenheit	NN	Wesenheit	gen|sg|fem	AG	2
+6	,	,	$,	,	_	--	5
+7	aus	aus	APPR	aus	_	MNR	2
+8	der	der	ART	d	dat|sg|fem	NK	9
+9	Selbstheit	Selbsteid	NN	Selbsteid	dat|sg|fem	NK	7
+10	der	der	ART	d	gen|sg|fem	NK	12
+11	Animalischen	Animalischen	NN	Animalischen	gen|sg|fem|pos	NK	12
+12	Seele	Seele	NN	Seele	gen|sg|fem	AG	9
+13	,	,	$,	,	_	--	12
+14	in	in	APPR	in	_	MNR	9
+15	dem	dem	ART	d	dat|sg|neut	NK	16
+16	Centro	Centro	NE	Centro	dat|sg|neut	NK	14
+17	des	des	ART	d	gen|sg|masc	NK	19
+18	irdischen	irdischen	ADJA	irdisch	gen|sg|masc|pos	NK	19
+19	Menschen	Menschen	NN	Mensch	gen|sg|masc	AG	16
+20	;	;	SENT	;	_	--	19
+
+1	und	und	KON	und	_	JU	2
+2	windet	windet	VVFIN	winden	sg|3|pres|ind	--	0
+3	sich	sich	PRF	er|es|sie	dat|sg|3	OA	2
+4	einwaͤrts	einwärts	ADV	einwärts	_	MO	2
+5	wie	wie	KOKOM	wie	_	CM	7
+6	ein	ein	ART	ein	nom|sg|masc	NK	7
+7	Rad	Rad	NN	Rad	nom|sg|masc	MO	2
+8	.	.	SENT	.	_	--	7
+
+1	Ach	Ach	ITJ	ach	_	NK	0
+2	!	!	SENT	!	_	--	0
+
+1	die	die	ART	d	nom|sg|fem	NK	2
+2	Erbohrenwerdung	Erbohrenwerdung	NN	Erborenwerdung	acc|sg|fem	--	0
+3	!	!	SENT	!	_	--	2
+
+1	ah	ah	NE	ah	_	--	0
+2	!	!	SENT	!	_	--	1
+
+1	ha	ha	ITJ	ha	_	--	0
+2	!	!	SENT	!	_	--	1
+
+1	ha	ha	ITJ	ha	_	--	0
+2	!	!	SENT	!	_	--	1
+
+1	ha	ha	ITJ	ha	_	--	0
+2	!	!	SENT	!	_	--	1
+
+1	Ja	Ja	ITJ	ja	_	--	0
+2	!	!	SENT	!	_	--	1
+
+1	freylich	freilich	ADV	freilich	_	--	0
+2	!	!	SENT	!	_	--	1
+
+1	Verstehen	Verstehen	VVFIN	verstehen	sg|3|pres|ind	--	0
+2	sie	sie	PPER	Sie	nom|sg|fem|3	SB	1
+3	das	das	PDS	d	acc|sg|neut	OA	1
+4	nicht	nicht	PTKNEG	nicht	_	NG	1
+5	?	?	SENT	?	_	--	4
+
+1	Das	Das	PDS	d	nom|sg|neut	SB	2
+2	ist	ist	VAFIN	sein	sg|3|pres|ind	--	0
+3	ja	ja	ADV	ja	_	MO	2
+4	Sonnen-klar	Sonnen-klar	ADJD	Sonnen-klar	nom|sg|masc	PD	2
+5	!	!	SENT	!	_	--	4
+
+1	Ich	Ich	PPER	ich	nom|sg|*|1	SB	2
+2	versteh	versteh	VVFIN	verstehen	sg|1|pres|ind	--	0
+3	es	es	PPER	es	acc|sg|neut|3	OA	2
+4	nicht	nicht	PTKNEG	nicht	_	NG	2
+5	.	.	SENT	.	_	--	4
+
+1	Das	Das	PDS	d	nom|sg|neut	SB	2
+2	wundert	wundert	VVFIN	wundern	sg|3|pres|ind	--	0
+3	mich	mich	PRF	ich	acc|sg|*|1	OA	2
+4	!	!	SENT	!	_	--	3
+
+1	Da	Da	KOUS	da	_	CP	4
+2	sie	sie	PPER	Sie	nom|pl|*|3	SB	4
+3	doch	doch	ADV	doch	_	MO	4
+4	wissen	wissen	VVINF	wissen	pl|3|pres|ind	--	0
+5	,	,	$,	,	_	--	4
+6	was	was	PWREL	was	acc|sg|neut	PD	12
+7	das	das	ART	d	acc|sg|neut	NK	9
+8	suͤsse	süße	ADJA	süß	nom|sg|neut|pos	NK	9
+9	Quell-Wasser	Quell-Wasser	NN	Quellwasser	nom|sg|neut	PD	12
+10	des	des	ART	d	gen|sg|neut	NK	11
+11	Hertzens	Herzens	NN	Herz	gen|sg|neut	AG	9
+12	ist	ist	VAFIN	sein	sg|3|pres|ind	OC	4
+13	.	.	SENT	.	_	--	12
+
+1	Alle	Alle	PIAT	all	nom|pl|masc	NK	2
+2	Menschen	Menschen	NN	Mensch	nom|pl|masc	SB	3
+3	verstehen	verstehen	VVINF	verstehen	pl|3|pres|ind	--	0
+4	das	das	PDS	d	acc|sg|neut	OA	3
+5	.	.	SENT	.	_	--	4
+
+1	Aber	Aber	KON	aber	_	JU	3
+2	die	die	ART	d	nom|sg|fem	NK	3
+3	Erbohrenwerdung	Erbohrenwerdung	NN	Erborenwerdung	nom|sg|fem	--	0
+4	?	?	SENT	?	_	--	3
+
+1	Das	Das	PDS	d	nom|sg|neut	SB	2
+2	ist	ist	VAFIN	sein	sg|3|pres|ind	--	0
+3	Phantastisch	Phantastisch	NN	Phantastisch	pos	PD	2
+4	!	!	SENT	!	_	--	3
+
+1	Das	Das	ART	d	nom|sg|neut	NK	3
+2	suͤsse	süße	ADJA	süß	nom|sg|neut|pos	NK	3
+3	Quell-Wasser	Quell-Wasser	NN	Quellwasser	nom|sg|neut	--	0
+4	?	?	SENT	?	_	--	3
+
+1	Thorheit	Torheit	NN	Torheit	nom|sg|fem	--	0
+2	!	!	SENT	!	_	--	1
+
+1	Thorheit	Torheit	NN	Torheit	nom|sg|fem	SB	2
+2	sagen	sagen	VVFIN	sagen	pl|3|pres|ind	--	0
+3	sie	sie	PPER	Sie	nom|pl|*|3	SB	2
+4	?	?	SENT	?	_	--	3
+
+1	Phantastisch	Phantastisch	ADJD	phantastisch	pos	MO	2
+2	sagen	sagen	VVFIN	sagen	pl|3|pres|ind	--	0
+3	sie	sie	PPER	Sie	nom|pl|*|3	SB	2
+4	?	?	SENT	?	_	--	3
+
+1	Ey	Ei	ITJ	Ei	_	--	0
+2	!	!	SENT	!	_	--	1
+
+1	ey	ei	NE	ei	_	--	0
+2	!	!	SENT	!	_	--	1
+
+1	erzuͤrnen	erzürnen	VVINF	erzürnen	pl|3|pres|ind	--	0
+2	sie	sie	PPER	Sie	nom|pl|*|3	SB	1
+3	sich	sich	PRF	er|es|sie	acc|pl|3	OA	1
+4	nicht	nicht	PTKNEG	nicht	_	NG	1
+5	!	!	SENT	!	_	--	4
+
+1	Ach	Ach	ITJ	ach	_	NK	0
+2	!	!	SENT	!	_	--	0
+
+1	das	das	PDS	d	nom|sg|neut	SB	2
+2	ist	ist	VAFIN	sein	sg|3|pres|ind	--	0
+3	ein	ein	ART	ein	nom|sg|masc	NK	5
+4	grosser	großer	ADJA	groß	nom|sg|masc|pos	NK	5
+5	Unterscheid	Unterscheid	NN	Unterschied	nom|sg|masc	PD	2
+6	!	!	SENT	!	_	--	5
+
+1	Phantastisch	Phantastisch	ADJD	phantastisch	pos	PD	2
+2	ist	ist	VAFIN	sein	sg|3|pres|ind	--	0
+3	Phantastisch	Phantastisch	NN	Phantastisch	pos	PD	2
+4	;	;	SENT	;	_	--	3
+
+1	aber	aber	ADV	aber	_	MO	2
+2	Thorheit	Torheit	NN	Torheit	nom|sg|fem	--	0
+3	?	?	SENT	?	_	--	2
+
+1	Umgekehrt	Umgekehrt	ADJD	umgekehrt	pos	MO	2
+2	Madame	Madame	FM	--	_	--	0
+3	!	!	SENT	!	_	--	2
+
+1	Thorheit	Torheit	NN	Torheit	nom|sg|fem	SB	2
+2	ist	ist	VAFIN	sein	sg|3|pres|ind	--	0
+3	Thorheit	Torheit	NN	Torheit	nom|sg|fem	PD	2
+4	;	;	SENT	;	_	--	3
+
+1	aber	aber	ADV	aber	_	JU	2
+2	Phantastisch	Phantastisch	NN	Phantastisch	acc|sg|masc	--	0
+3	?	?	SENT	?	_	--	2
+
+1	Ach	Ach	ITJ	ach	_	NK	3
+2	liebe	liebe	ADJA	lieb	nom|pl|masc|pos	NK	3
+3	Schwestern	Schwestern	NN	Schwester	acc|pl|fem	--	0
+4	!	!	SENT	!	_	--	3
+
+1	was	was	PWS	was	*|*|neut	OA	2
+2	wollen	wollen	VMFIN	wollen	pl|3|pres|ind	--	0
+3	sie	sie	PPER	Sie	nom|pl|*|3	SB	2
+4	denn	denn	ADV	denn	_	MO	2
+5	?	?	SENT	?	_	--	4
+
+1	Mich	Mich	PPER	ich	acc|sg|*|1	OA	4
+2	so	so	ADV	so	_	MO	4
+3	zu	zu	PTKZU	zu	_	PM	4
+4	schimpffen	schimpfen	VVINF	schimpfen	_	--	0
+5	?	?	SENT	?	_	--	4
+
+1	Sie	Sie	PPER	Sie	nom|pl|*|3	SB	2
+2	haben	haben	VAFIN	haben	pl|3|pres|ind	--	0
+3	angefangen	angefangen	VVPP	anfangen	_	OC	2
+4	.	.	SENT	.	_	--	3
+
+1	In	In	APPR	in	_	--	0
+2	meinem	meinem	PPOSAT	mein	dat|sg|neut	NK	3
+3	Hause	Hause	NN	Haus	dat|sg|neut	NK	1
+4	?	?	SENT	?	_	--	3
+
+1	Ey	Ei	ITJ	Ei	_	--	0
+2	!	!	SENT	!	_	--	1
+
+1	versoͤhnen	versöhnen	VVINF	versöhnen	pl|3|pres|ind	--	0
+2	sie	sie	PPER	Sie	nom|pl|*|3	SB	1
+3	sich	sich	PRF	er|es|sie	acc|pl|3	OA	1
+4	doch	doch	ADV	doch	_	MO	1
+5	!	!	SENT	!	_	--	4
+
+1	Warum	Warum	PWAV	warum	_	MO	2
+2	soll	soll	VMFIN	sollen	sg|3|pres|ind	--	0
+3	ich	ich	PPER	ich	nom|sg|*|1	SB	2
+4	Phantastisch	Phantastisch	NN	Phantastisch	acc|sg|masc	OA	5
+5	reden	reden	VVINF	reden	_	OC	2
+6	?	?	SENT	?	_	--	5
+
+1	Sie	Sie	PPER	Sie	nom|sg|fem|3	SB	2
+2	hat	hat	VAFIN	haben	sg|3|pres|ind	--	0
+3	recht	recht	ADJD	recht	acc|sg|neut	OA	2
+4	.	.	SENT	.	_	--	3
+
+1	Sie	Sie	PPER	Sie	nom|pl|*|3	SB	2
+2	wissen	wissen	VVFIN	wissen	pl|3|pres|ind	--	0
+3	daß	daß	KOUS	daß	_	CP	8
+4	es	es	PPER	es	nom|sg|neut|3	SB	8
+5	ein	ein	ART	ein	nom|sg|masc	NK	7
+6	wunderlich	wunderlich	ADJD	wunderlich	pos	MO	7
+7	Weib	Weib	NN	Weib	nom|sg|masc	PD	8
+8	ist	ist	VAFIN	sein	sg|3|pres|ind	OC	2
+9	.	.	SENT	.	_	--	8
+
+1	Thorheit	Torheit	NN	Torheit	nom|sg|fem	--	0
+2	?	?	SENT	?	_	--	1
+
+1	Sie	Sie	PPER	Sie	nom|sg|fem|3	SB	2
+2	hat	hat	VAFIN	haben	sg|3|pres|ind	--	0
+3	unrecht	unrecht	ADJD	unrecht	pos	OC	2
+4	.	.	SENT	.	_	--	3
+
+1	Man	Man	PIS	man	nom|sg|*	SB	2
+2	muß	muß	VMFIN	müssen	sg|3|pres|ind	--	0
+3	von	von	APPR	von	_	OP	8
+4	solchen	solchen	PIAT	solch	dat|pl|neut	NK	5
+5	Dingen	Dingen	NN	Ding	dat|pl|neut	NK	3
+6	lieber	lieber	ADV	gern	_	MO	2
+7	nicht	nicht	PTKNEG	nicht	_	NG	2
+8	reden	reden	VVINF	reden	_	OC	2
+9	.	.	SENT	.	_	--	8
+
+1	O	O	ITJ	O	_	NK	2
+2	!	!	SENT	!	_	--	0
+
+1	ich	ich	PPER	ich	nom|sg|*|1	SB	2
+2	weiß	weiß	VVFIN	wissen	sg|1|pres|ind	--	0
+3	schon	schon	ADV	schon	_	MO	2
+4	,	,	$,	,	_	--	3
+5	was	was	PWREL	was	acc|sg|neut	OA	7
+6	ich	ich	PPER	ich	nom|sg|*|1	SB	8
+7	thun	tun	VVINF	tun	_	OC	8
+8	will	will	VMFIN	wollen	sg|3|pres|ind	OC	2
+9	.	.	SENT	.	_	--	8
+
+1	Ach	Ach	ITJ	ach	_	NK	0
+2	!	!	SENT	!	_	--	0
+
+1	ich	ich	PPER	ich	nom|sg|*|1	SB	2
+2	bitte	bitte	VVFIN	bitten	sg|1|pres|ind	--	0
+3	sie	sie	PPER	Sie	acc|*|*|3	OA	2
+4	drum	drum	PAV	darum	_	MO	2
+5	.	.	SENT	.	_	--	4
+
+1	Man	Man	PIS	man	nom|sg|*	SB	2
+2	muß	muß	VMFIN	müssen	sg|3|pres|ind	--	0
+3	seinem	seinem	PPOSAT	sein	dat|sg|masc	NK	7
+4	Nechsten	nächsten	ADJA	nächster	sup	NK	7
+5	etwas	etwas	ADV	etwas	_	OA	8
+6	zu	zu	PTKA	zu	_	PM	7
+7	gute	gute	NA	Gute	acc|pl|fem|pos	OA	8
+8	halten	halten	VVINF	halten	_	OC	2
+9	.	.	SENT	.	_	--	8
+
+1	Verzeihen	Verzeihen	VVINF	verzeihen	pl|3|pres|ind	--	0
+2	sie	sie	PPER	Sie	nom|pl|*|3	SB	1
+3	ihr	ihr	PPER	Ihr	dat|sg|fem|3	DA	1
+4	die	die	ART	d	acc|sg|fem	NK	5
+5	Thorheit	Torheit	NN	Torheit	acc|sg|fem	OA	1
+6	;	;	SENT	;	_	--	5
+
+1	sie	sie	PPER	Sie	nom|sg|fem|3	SB	2
+2	wird	wird	VAFIN	werden	sg|3|pres|ind	--	0
+3	ihnen	ihnen	PPER	sie	dat|pl|*|3	DA	6
+4	die	die	ART	d	acc|sg|fem	NK	5
+5	Phantasterey	Phantasterei	NN	Phantasterei	acc|sg|fem	OA	6
+6	verzeihen	verzeihen	VVINF	verzeihen	_	OC	2
+7	.	.	SENT	.	_	--	6
+
+1	Gut	Gut	ADJD	gut	pos	MO	5
+2	,	,	$,	,	_	--	1
+3	ich	ich	PPER	ich	nom|sg|*|1	SB	5
+4	wills	will's	NE	will's	pos	MO	5
+5	thun	tun	VVINF	tun	_	--	0
+6	.	.	SENT	.	_	--	5
+
+1	Nein	Nein	PTKANT	nein	_	OC	6
+2	,	,	$,	,	_	--	1
+3	ich	ich	PPER	ich	nom|sg|*|1	SB	6
+4	kans	Kahns	NN	Kahns	gen|sg|masc	OA	6
+5	nicht	nicht	PTKNEG	nicht	_	NG	6
+6	vergessen	vergessen	VVINF	vergessen	_	--	0
+7	!	!	SENT	!	_	--	6
+
+1	Ey	Ei	ITJ	Ei	_	--	0
+2	!	!	SENT	!	_	--	1
+
+1	thun	tun	VVFIN	tun	pl|3|pres|ind	--	0
+2	sie	sie	PPER	Sie	nom|pl|*|3	SB	1
+3	doch	doch	ADV	doch	_	MO	1
+4	nur	nur	ADV	nur	_	MO	5
+5	so	so	ADV	so	_	MO	1
+6	,	,	$,	,	_	--	5
+7	des	des	ART	d	gen|sg|masc	NK	8
+8	Wohlstands	Wohlstands	NN	Wohlstand	gen|sg|masc	NK	9
+9	wegen	wegen	APPO	wegen	_	MO	1
+10	.	.	SENT	.	_	--	9
+
+1	Hoͤren	Hören	VVIMP	hören	pl|3|pres|ind	--	0
+2	sie	sie	PPER	Sie	nom|pl|*|3	SB	1
+3	:	:	SENT	:	_	--	2
+
+1	Weil	Weil	KOUS	weil	_	CP	6
+2	sie	sie	PPER	Sie	nom|sg|fem|3	SB	6
+3	sich	sich	PRF	er|es|sie	acc|pl|3	OA	5
+4	nicht	nicht	PTKNEG	nicht	_	NG	6
+5	vergleichen	vergleichen	VVINF	vergleichen	_	OC	6
+6	koͤnnen	können	VMFIN	können	_	--	0
+7	;	;	SENT	;	_	--	6
+
+1	so	so	ADV	so	_	MO	2
+2	will	will	VMFIN	wollen	sg|1|pres|ind	--	0
+3	ich	ich	PPER	ich	nom|sg|*|1	SB	2
+4	ihnen	ihnen	PPER	sie	dat|pl|*|3	DA	10
+5	meine	meine	PPOSAT	mein	acc|sg|fem	NK	6
+6	Erklaͤrung	Erklärung	NN	Erklärung	acc|sg|fem	OA	10
+7	von	von	APPR	von	_	MO	10
+8	der	der	ART	d	dat|sg|fem	NK	9
+9	Wiedergeburth	Wiedergeburt	NN	Wiedergeburt	dat|sg|fem	NK	7
+10	sagen	sagen	VVINF	sagen	_	OC	2
+11	:	:	SENT	:	_	--	10
+
+1	Vielleicht	Vielleicht	ADV	vielleicht	_	MO	2
+2	gefaͤllt	gefällt	VVFIN	gefallen	sg|3|pres|ind	--	0
+3	sie	sie	PPER	Sie	nom|sg|fem|3	SB	2
+4	ihnen	ihnen	PPER	sie	dat|pl|*|3	DA	2
+5	besser	besser	ADJD	gut	comp	MO	2
+6	.	.	SENT	.	_	--	5
+
+1	Und	Und	KON	und	_	JU	3
+2	denn	denn	ADV	denn	_	MO	3
+3	ist	ist	VAFIN	sein	sg|3|pres|ind	--	0
+4	der	der	ART	d	nom|sg|masc	NK	5
+5	Streit	Streit	NN	Streit	nom|sg|masc	SB	3
+6	aus	aus	PTKVZ	aus	_	PD	3
+7	.	.	SENT	.	_	--	6
+
+1	Meinetwegen	Meinetwegen	ADV	meinetwegen	nom|pl|masc	--	0
+2	.	.	SENT	.	_	--	1
+
+1	Ich	Ich	PPER	ich	nom|sg|*|1	SB	2
+2	lasse	lasse	VVFIN	lassen	sg|3|pres|subj	--	0
+3	mir	mir	PPER	ich	dat|sg|1	DA	5
+4	s	s	PPER	es	_	DA	5
+5	gefallen	gefallen	VVPP	fallen	_	OC	2
+6	.	.	SENT	.	_	--	5
+
+1	Nun	Nun	ADV	nun	_	MO	2
+2	hoͤren	hören	VVFIN	hören	pl|3|pres|ind	--	0
+3	sie	sie	PPER	Sie	nom|pl|*|3	SB	2
+4	!	!	SENT	!	_	--	3
+
+1	Nach	Nach	APPR	Nach	_	MO	4
+2	meiner	meiner	PPOSAT	mein	dat|sg|fem	NK	3
+3	Meynung	Meinung	NN	Meinung	dat|sg|fem	NK	1
+4	ist	ist	VAFIN	sein	sg|3|pres|ind	--	0
+5	die	die	ART	d	nom|sg|fem	NK	6
+6	Wiedergeburth	Wiedergeburt	NN	Wiedergeburt	nom|sg|fem	SB	4
+7	,	,	$,	,	_	--	6
+8	die	die	ART	d	nom|sg|fem	NK	9
+9	Urstaͤndung	Urständung	NN	Urständung	nom|sg|fem	APP	6
+10	des	des	ART	d	gen|sg|masc	NK	12
+11	wahren	wahren	ADJA	wahr	gen|sg|masc|pos	NK	12
+12	Bildnisses	Bildnisses	NN	Bildnisses	gen|sg|neut	AG	9
+13	der	der	ART	d	gen|sg|fem	NK	15
+14	edlen	edlen	ADJA	edel	gen|sg|fem|pos	NK	15
+15	Perle	Perle	NN	Perle	gen|sg|fem	AG	12
+16	,	,	$,	,	_	--	15
+17	die	die	PRELS	d	nom|pl|masc	SB	30
+18	aus	aus	APPR	aus	_	MO	22
+19	dem	dem	ART	d	dat|sg|neut	NK	21
+20	Magischen	Magischen	NN	Magischen	dat|sg|neut|pos	NK	21
+21	Seelenfeuer	Seelenfeuer	NN	Seelenfeuer	dat|sg|neut	NK	18
+22	gebohren	geboren	VVPP	gebären	_	OC	30
+23	,	,	$,	,	_	--	22
+24	und	und	KON	und	_	CD	22
+25	in	in	APPR	in	_	MO	29
+26	den	den	ART	d	acc|sg|masc	NK	28
+27	ewigen	ewigen	ADJA	ewig	acc|sg|masc|pos	NK	28
+28	Sabbath	Sabbat	NN	Sabbat	acc|sg|masc	NK	25
+29	eingefuͤhret	eingeführet	VVPP	eingeführet	_	CJ	24
+30	wird	wird	VAFIN	werden	sg|3|pres|ind	RC	15
+31	.	.	SENT	.	_	--	30
+
+1	Oder	Oder	KON	oder	_	JU	8
+2	,	,	$,	,	_	--	1
+3	wenn	wenn	KOUS	wenn	_	CP	8
+4	ichs	ich's	PPER	ich	nom|pl|fem|3	SB	8
+5	noch	noch	ADV	noch	_	MO	8
+6	deutlicher	deutlicher	ADJD	deutlich	comp	MO	7
+7	geben	geben	VVINF	geben	_	OC	8
+8	soll	soll	VMFIN	sollen	sg|3|pres|ind	--	0
+9	:	:	SENT	:	_	--	8
+
+1	Sie	Sie	PPER	Sie	nom|sg|fem|3	SB	2
+2	ist	ist	VAFIN	sein	sg|3|pres|ind	--	0
+3	eine	eine	ART	ein	nom|sg|fem	NK	5
+4	himmlische	himmlische	ADJA	himmlisch	nom|sg|fem|pos	NK	5
+5	Tinctur	Tinktur	NN	Tinktur	nom|sg|fem	PD	2
+6	,	,	$,	,	_	--	5
+7	wodurch	wodurch	PWAVREL	wodurch	_	MO	17
+8	die	die	ART	d	nom|sg|fem	NK	10
+9	neue	neue	ADJA	neu	nom|sg|fem|pos	NK	10
+10	Seele	Seele	NN	Seele	nom|sg|fem	SB	17
+11	das	das	ART	d	acc|sg|neut	NK	13
+12	vegetabilische	vegetabilische	ADJA	vegetabilische	acc|sg|neut|pos	NK	13
+13	Leben	Leben	NN	Leben	acc|sg|neut	OA	17
+14	der	der	ART	d	gen|pl|masc	NK	16
+15	vier	vier	CARD	vier	_	NK	16
+16	Elementen	Elementen	NN	Element	gen|pl|masc	AG	13
+17	wegwirfft	wegwirft	VVFIN	wegwirft	sg|3|pres|ind	RC	5
+18	,	,	$,	,	_	--	17
+19	und	und	KON	und	_	CD	13
+20	die	die	ART	d	acc|sg|fem	NK	22
+21	magische	magische	ADJA	magisch	acc|sg|fem|pos	NK	22
+22	Seele	Seele	NN	Seele	acc|sg|fem	CJ	19
+23	als	als	KOKOM	als	_	MO	37
+24	eine	eine	ART	ein	acc|sg|fem	NK	25
+25	Gottheit	Gottheit	NN	Gottheit	acc|sg|fem	NK	23
+26	in	in	APPR	in	_	MNR	25
+27	seiner	seiner	PPOSAT	sein	dat|sg|fem	NK	28
+28	Gleichheit	Gleichheit	NN	Gleichheit	dat|sg|fem	NK	26
+29	nach	nach	APPR	nach	_	MNR	28
+30	dem	dem	ART	d	dat|sg|neut	NK	31
+31	Modell	Modell	NN	Modell	dat|sg|neut	NK	29
+32	der	der	ART	d	gen|sg|fem	NK	33
+33	Weisheit	Weisheit	NN	Weisheit	gen|sg|fem	AG	31
+34	in	in	APPR	in	_	MNR	31
+35	alle	alle	PIAT	all	acc|pl|neut	NK	36
+36	Dinge	Dinge	NN	Ding	acc|pl|neut	NK	34
+37	einbildet	einbildet	VVFIN	einbildet	_	MNR	22
+38	.	.	SENT	.	_	--	37
+
+1	Das	Das	PDS	d	nom|sg|neut	SB	2
+2	ist	ist	VAFIN	sein	sg|3|pres|ind	--	0
+3	eine	eine	ART	ein	nom|sg|fem	NK	5
+4	klare	klare	ADJA	klar	nom|sg|fem|pos	NK	5
+5	Erklaͤrung	Erklärung	NN	Erklärung	nom|sg|fem	PD	2
+6	!	!	SENT	!	_	--	5
+
+1	damit	damit	PAV	damit	_	MO	9
+2	wird	wird	VAFIN	werden	sg|3|pres|ind	--	0
+3	man	man	PIS	man	nom|sg|*	SB	2
+4	allen	allen	PIAT	all	dat|pl|masc	NK	5
+5	Theologis	Theologis	NN	Theologis	dat|pl|masc	DA	8
+6	das	das	ART	d	acc|sg|neut	NK	7
+7	Maul	Maul	NN	Maul	acc|sg|neut	OA	8
+8	stopffen	stopfen	VVINF	stopfen	_	OC	9
+9	koͤnnen	können	VMFIN	können	_	OC	2
+10	.	.	SENT	.	_	--	9
+
+1	Das	Das	ART	d	nom|sg|neut	NK	2
+2	Maul	Maul	NN	Maul	acc|sg|neut	OA	3
+3	stopffen	stopfen	VVINF	stopfen	_	--	0
+4	?	?	SENT	?	_	--	3
+
+1	Ja	Ja	ITJ	ja	_	--	0
+2	!	!	SENT	!	_	--	1
+
+1	Haben	Haben	VAFIN	haben	pl|3|pres|ind	--	0
+2	sie	sie	PPER	Sie	nom|pl|*|3	SB	1
+3	was	was	PIS	was	acc|sg|neut	NK	2
+4	darwider	dawider	PAV	dawider	_	MO	5
+5	einzuwenden	einzuwenden	VVIZU	einwenden	_	OC	1
+6	?	?	SENT	?	_	--	5
+
+1	Etwas	Etwas	ADV	etwas	_	--	0
+2	.	.	SENT	.	_	--	1
+
+1	Das	Das	PDS	d	acc|sg|neut	OA	4
+2	moͤcht	möchte	VMFIN	mögen	sg|1|pres|ind	--	0
+3	ich	ich	PPER	ich	nom|sg|*|1	SB	2
+4	sehen	sehen	VVINF	sehen	_	OC	2
+5	.	.	SENT	.	_	--	4
+
+1	Mir	Mir	PPER	ich	dat|sg|*|1	DA	2
+2	gefaͤllts	gefällt	VVFIN	gefallen	sg|3|pres|ind	--	0
+3	gar	gar	ADV	gar	_	MO	4
+4	nicht	nicht	PTKNEG	nicht	_	NG	2
+5	.	.	SENT	.	_	--	4
+
+1	Mir	Mir	PPER	ich	dat|sg|*|1	--	0
+2	auch	auch	ADV	auch	_	MO	1
+3	nicht	nicht	PTKNEG	nicht	_	NG	1
+4	.	.	SENT	.	_	--	3
+
+1	Das	Das	PDS	d	nom|sg|neut	SB	2
+2	macht	macht	VVFIN	machen	sg|3|pres|ind	--	0
+3	ihr	ihr	PPOSAT	ihr	acc|sg|neut	NK	4
+4	Quell-Wasser	Quell-Wasser	NN	Quellwasser	acc|sg|neut	OA	2
+5	,	,	$,	,	_	--	4
+6	und	und	KON	und	_	CD	2
+7	ihre	ihre	PPOSAT	ihr	nom|sg|fem	NK	8
+8	Erbohrenwerdung	Erbohrenwerdung	NN	Erborenwerdung	nom|sg|fem	SB	9
+9	ist	ist	VAFIN	sein	sg|3|pres|ind	CJ	6
+10	ihnen	ihnen	PPER	sie	dat|pl|*|3	DA	11
+11	angenehmer	angenehmer	ADJD	angenehm	_	SB	9
+12	;	;	SENT	;	_	--	11
+
+1	ists	Ists	VAFIN	sein	nom|sg|*	--	0
+2	nicht	nicht	PTKNEG	nicht	_	NG	1
+3	wahr	wahr	ADJD	wahr	_	MO	1
+4	?	?	SENT	?	_	--	3
+
+1	Und	Und	KON	und	_	JU	3
+2	ich	ich	PPER	ich	nom|sg|*|1	SB	3
+3	sage	sage	VVFIN	sagen	sg|1|pres|ind	--	0
+4	es	es	PPER	es	acc|sg|neut|3	OA	3
+5	ihnen	ihnen	PPER	sie	dat|pl|*|3	DA	3
+6	ungescheuet	ungescheuet	ADJD	ungescheuet	pos	MO	3
+7	unter	unter	APPR	unter	_	MO	3
+8	die	die	ART	d	acc|pl|neut	NK	9
+9	Augen	Augen	NN	Auge	acc|pl|neut	NK	7
+10	:	:	SENT	:	_	--	9
+
+1	In	In	APPR	in	_	MO	4
+2	ihren	ihren	PPOSAT	ihr	dat|pl|fem	NK	3
+3	Erklaͤrungen	Erklärungen	NN	Erklärung	dat|pl|fem	NK	1
+4	ist	ist	VAFIN	sein	sg|3|pres|ind	--	0
+5	kein	kein	PIAT	kein	nom|sg|masc	NK	7
+6	menschlicher	menschlicher	ADJA	menschlich	nom|sg|masc|pos	NK	7
+7	Verstand	Verstand	NN	Verstand	nom|sg|masc	PD	4
+8	.	.	SENT	.	_	--	7
+
+1	Meine	Meine	NE	Main	nom|sg|fem	SB	2
+2	ist	ist	VAFIN	sein	sg|3|pres|ind	--	0
+3	die	die	ART	d	nom|sg|fem	NK	4
+4	Rechte	Rechte	NN	Recht	acc|pl|neut	SB	2
+5	.	.	SENT	.	_	--	4
+
+1	Madame	Madame	FM	--	_	--	0
+2	!	!	SENT	!	_	--	1
+
+1	Madame	Madame	FM	--	_	--	0
+2	!	!	SENT	!	_	--	1
+
+1	nehmen	nehmen	VVIMP	nehmen	pl|3|pres|ind	--	0
+2	sie	sie	PPER	Sie	nom|pl|*|3	SB	1
+3	sich	sich	PRF	er|es|sie	acc|pl|3	OA	1
+4	in	in	APPR	in	_	CVC	1
+5	acht	acht	NN	Acht	dat|sg|fem	NK	4
+6	.	.	SENT	.	_	--	5
+
+1	Thuns	Tuns	NN	tun	gen|sg|*	AG	2
+2	sies	Sies	PPER	Sie	nom|sg|fem	--	0
+3	nur	nur	ADV	nur	_	MO	4
+4	selbst	selbst	PRF	selbst	_	MO	2
+5	.	.	SENT	.	_	--	4
+
+1	Sie	Sie	PPER	Sie	nom|pl|*|3	SB	2
+2	reden	reden	VVFIN	reden	pl|3|pres|ind	--	0
+3	sehr	sehr	ADV	sehr	_	MO	4
+4	nachdruͤcklich	nachdrücklich	ADJD	nachdrücklich	pos	MO	2
+5	.	.	SENT	.	_	--	4
+
+1	Ja	Ja	ITJ	ja	_	--	0
+2	!	!	SENT	!	_	--	1
+
+1	das	das	PDS	d	nom|sg|neut	SB	2
+2	schickt	schickt	VVFIN	schicken	sg|3|pres|ind	--	0
+3	sich	sich	PRF	er|es|sie	acc|sg|3	OA	2
+4	auch	auch	ADV	auch	_	MO	5
+5	fͤr	Ver	PTKVZ	ver	_	SB	2
+6	mich	mich	PRF	ich	acc|sg|*|1	OA	2
+7	;	;	SENT	;	_	--	6
+
+1	wenn	wenn	KOUS	wenn	_	CP	5
+2	ich	ich	PPER	ich	nom|sg|*|1	SB	5
+3	mit	mit	APPR	mit	_	OP	5
+4	ihnen	ihnen	PPER	sie	dat|pl|*|3	NK	3
+5	rede	rede	VVFIN	reden	sg|3|pres|subj	--	0
+6	.	.	SENT	.	_	--	5
+
+1	Verstehen	Verstehen	VVFIN	verstehen	sg|3|pres|ind	--	0
+2	sie	sie	PPER	Sie	nom|sg|fem|3	SB	1
+3	das	das	PDS	d	acc|sg|neut	OA	1
+4	?	?	SENT	?	_	--	3
+
+1	Wusten	wußten	VVFIN	wissen	pl|3|past|ind	--	0
+2	sie	sie	PPER	Sie	nom|pl|*|3	SB	1
+3	wol	wohl	ADV	wohl	_	MO	1
+4	das	das	ART	d	acc|sg|neut	NK	5
+5	geringste	geringste	ADJA	gering	acc|sg|neut|sup	OA	1
+6	von	von	APPR	von	_	MNR	5
+7	der	der	ART	d	dat|sg|fem	NK	8
+8	Theologie	Theologie	NN	Theologie	dat|sg|fem	NK	6
+9	,	,	$,	,	_	--	8
+10	wie	wie	KOUS	wie	_	MO	12
+11	ich	ich	PPER	ich	nom|sg|*|1	SB	12
+12	anfieng	anfing	VVFIN	anfangen	sg|1|past|ind	OC	8
+13	ihnen	ihnen	PPER	sie	dat|pl|*|3	DA	12
+14	das	das	ART	d	acc|sg|neut	NK	15
+15	Verstaͤndniß	Verständnis	NN	Verständnis	acc|sg|neut	OA	17
+16	zu	zu	PTKZU	zu	_	PM	17
+17	eroͤffnen	eröffnen	VVINF	eröffnen	_	OC	12
+18	?	?	SENT	?	_	--	17
+
+1	Wer	Wer	PWS	wer	nom|sg|masc	SB	2
+2	hat	hat	VAFIN	haben	sg|3|pres|ind	--	0
+3	ihnen	ihnen	PPER	sie	dat|pl|*|3	DA	5
+4	alles	alles	PIS	all	acc|sg|neut	SB	2
+5	gesagt	gesagt	VVPP	sagen	_	OC	2
+6	?	?	SENT	?	_	--	5
+
+1	Bin	Bin	VAFIN	Bin	sg|1|pres|ind	--	0
+2	ichs	ich's	PPER	ich	_	MO	1
+3	nicht	nicht	PTKNEG	nicht	_	NG	1
+4	?	?	SENT	?	_	--	3
+
+1	Es	Es	PPER	es	nom|sg|neut|3	SB	2
+2	steht	steht	VVFIN	stehen	sg|3|pres|ind	--	0
+3	ihnen	ihnen	PPER	sie	dat|pl|*|3	DA	2
+4	gewiß	gewiß	ADJD	gewiß	_	MO	2
+5	nicht	nicht	PTKNEG	nicht	_	NG	2
+6	an	an	PTKVZ	an	_	SVP	2
+7	,	,	$,	,	_	--	6
+8	mich	mich	PPER	ich	acc|sg|*|1	OA	10
+9	zu	zu	PTKZU	zu	_	PM	10
+10	hoffmeistern	hofmeistern	VVINF	hofmeistern	_	RE	1
+11	.	.	SENT	.	_	--	10
+
+1	Sie	Sie	PPER	Sie	nom|pl|*|3	SB	2
+2	muͤssen	müssen	VMFIN	müssen	pl|3|pres|ind	--	0
+3	wissen	wissen	VVINF	wissen	_	OC	2
+4	,	,	$,	,	_	--	3
+5	daß	daß	KOUS	daß	_	CP	17
+6	ich	ich	PPER	ich	nom|sg|*|1	SB	17
+7	meine	meine	PPOSAT	mein	acc|sg|fem	NK	8
+8	Erklaͤrung	Erklärung	NN	Erklärung	acc|sg|fem	OA	16
+9	gegen	gegen	APPR	gegen	_	MNR	8
+10	alle	alle	PIAT	all	acc|pl|fem	NK	12
+11	Theologische	Theologische	ADJA	theologisch	acc|pl|fem|pos	NK	12
+12	Facultaͤten	Fakultäten	NN	Fakultät	acc|pl|fem	NK	9
+13	von	von	APPR	von	_	MO	16
+14	der	der	ART	d	dat|sg|fem	NK	15
+15	Welt	Welt	NN	Welt	dat|sg|fem	NK	13
+16	behaupten	behaupten	VVINF	behaupten	_	OC	17
+17	will	will	VMFIN	wollen	sg|3|pres|ind	OC	3
+18	.	.	SENT	.	_	--	17
+
+1	Und	Und	KON	und	_	JU	7
+2	wenn	wenn	KOUS	wenn	_	CP	7
+3	unsere	unsere	PPOSAT	unser	nom|pl|*	NK	4
+4	Leute	Leute	NN	Leute	nom|pl|*	SB	7
+5	es	es	PPER	es	acc|sg|neut|3	OA	7
+6	nicht	nicht	PTKNEG	nicht	_	NG	7
+7	annehmen	annehmen	VVINF	annehmen	_	--	0
+8	;	;	SENT	;	_	--	7
+
+1	so	so	ADV	so	_	MO	2
+2	werde	werde	VAFIN	werden	sg|1|pres|ind	--	0
+3	ich	ich	PPER	ich	nom|sg|*|1	SB	2
+4	wohl	wohl	ADV	wohl	_	MO	2
+5	gar	gar	ADV	gar	_	MO	6
+6	Orthodox	Orthodox	NN	Orthodox	acc|sg|masc	PD	2
+7	,	,	$,	,	_	--	6
+8	und	und	KON	und	_	CD	2
+9	will	will	VMFIN	wollen	sg|3|pres|ind	CJ	8
+10	euch	euch	PPER	ihr	dat|pl|*|2	DA	13
+11	alle	alle	PIAT	all	acc|pl|masc	NK	12
+12	tolle	tolle	ADJA	toll	acc|sg|fem	OA	13
+13	machen	machen	VVINF	machen	_	OC	9
+14	.	.	SENT	.	_	--	13
+
+1	Ach	Ach	ITJ	ach	_	NK	0
+2	!	!	SENT	!	_	--	0
+
+1	da	da	ADV	da	_	MO	2
+2	koͤmmt	kömmt	VVFIN	kommen	sg|3|pres|ind	--	0
+3	der	der	ART	d	nom|sg|masc	NK	4
+4	Herr	Herr	NN	Herr	nom|sg|masc	SB	2
+5	Magister	Magister	NN	Magister	nom|sg|masc	NK	4
+6	Scheinfromm	Scheinfromm	NN	Scheinfromm	nom|sg|masc	OA	2
+7	.	.	SENT	.	_	--	6
+
+1	Er	Er	PPER	Er	nom|sg|masc|3	SB	2
+2	koͤmmt	kömmt	VVFIN	kommen	sg|3|pres|ind	--	0
+3	als	als	KOUS	als	_	CM	5
+4	wie	wie	PWAV	wie	_	MO	5
+5	geruffen	gerufen	VVPP	rufen	_	MO	2
+6	.	.	SENT	.	_	--	5
+
+1	Sie	Sie	PPER	Sie	nom|pl|*|3	SB	2
+2	disputiren	disputieren	NN	Disputieren	pl|3|pres|ind	--	0
+3	ja	ja	ADV	ja	_	MO	2
+4	recht	recht	ADJD	recht	acc|sg|neut	OA	2
+5	hefftig	heftig	ADJD	heftig	pos	MO	2
+6	,	,	$,	,	_	--	5
+7	wie	wie	KOUS	wie	_	MO	9
+8	ich	ich	PPER	ich	nom|sg|*|1	SB	9
+9	hoͤre	höre	VVFIN	hören	sg|1|pres|ind	MO	2
+10	.	.	SENT	.	_	--	9
+
+1	Was	Was	PWS	was	acc|sg|neut	OA	2
+2	haben	haben	VAFIN	haben	pl|3|pres|ind	--	0
+3	sie	sie	PPER	Sie	nom|pl|*|3	SB	2
+4	vor	vor	PTKVZ	vor	_	SVP	2
+5	?	?	SENT	?	_	--	4
+
+1	Wenn	Wenn	KOUS	wenn	_	CP	4
+2	ich	ich	PPER	ich	nom|sg|*|1	SB	4
+3	fragen	fragen	VVINF	fragen	_	OC	4
+4	darff	darf	VMFIN	dürfen	sg|1|pres|ind	--	0
+5	.	.	SENT	.	_	--	4
+
+1	Die	Die	ART	d	nom|sg|fem	NK	2
+2	Frau	Frau	NN	Frau	nom|sg|fem	SB	4
+3	Seuffzerin	SeufzerIn	NN	SeufzerIn	nom|sg|*	NK	2
+4	erklaͤret	erkläret	VVPP	erklären	sg|3|past|ind	--	0
+5	uns	uns	PRF	wir	dat|pl|*|1	DA	4
+6	vor	vor	APPR	vor	_	MO	4
+7	dumme	dumme	ADJA	dumm	*|*|*	PNC	8
+8	Weiber	Weiber	NN	Weib	dat|sg|masc	NK	6
+9	.	.	SENT	.	_	--	8
+
+1	Ah	Ah	ITJ	ah	nom|sg|neut	--	0
+2	!	!	SENT	!	_	--	1
+
+1	Sie	Sie	PPER	Sie	nom|sg|fem|3	SB	2
+2	droht	droht	VVFIN	drohen	sg|3|pres|ind	--	0
+3	,	,	$,	,	_	--	2
+4	sie	sie	PPER	Sie	nom|sg|fem|3	SB	5
+5	will	will	VMFIN	wollen	sg|3|pres|ind	OC	2
+6	Orthodox	Orthodox	NE	Orthodox	nom|sg|*	PD	7
+7	werden	werden	VAINF	werden	_	OC	5
+8	.	.	SENT	.	_	--	7
+
+1	Ah	Ah	ITJ	ah	nom|sg|neut	--	0
+2	!	!	SENT	!	_	--	1
+
+1	ach	ach	ITJ	ach	_	--	0
+2	!	!	SENT	!	_	--	1
+
+1	Nein	Nein	PTKANT	nein	_	DM	4
+2	,	,	$,	,	_	--	1
+3	sie	sie	PPER	Sie	nom|pl|masc|3	SB	4
+4	haben	haben	VAFIN	haben	pl|3|pres|ind	--	0
+5	mich	mich	PPER	ich	acc|sg|*|1	OA	6
+6	geschimpfft	geschimpft	VVPP	geschimpft	_	OC	4
+7	,	,	$,	,	_	--	6
+8	und	und	KON	und	_	CD	4
+9	sind	sind	VAFIN	sein	pl|3|pres|ind	CJ	8
+10	mit	mit	APPR	mit	_	MO	15
+11	meiner	meiner	PPOSAT	mein	dat|sg|fem	NK	12
+12	Theologie	Theologie	NN	Theologie	dat|sg|fem	NK	10
+13	nicht	nicht	PTKNEG	nicht	_	NG	15
+14	zu	zu	APPR	zu	_	PM	15
+15	frieden	frieden	NN	Frieden	_	OC	9
+16	.	.	SENT	.	_	--	15
+
+1	Oh	Oh	NE	Oh	nom|sg|neut	--	0
+2	!	!	SENT	!	_	--	1
+
+1	oh	oh	NE	oh	_	--	0
+2	!	!	SENT	!	_	--	1
+
+1	Sie	Sie	PPER	Sie	nom|pl|*|3	SB	2
+2	gab	gab	VVFIN	geben	sg|3|past|ind	--	0
+3	uns	uns	PPER	wir	dat|pl|*|1	DA	2
+4	eine	eine	ART	ein	acc|sg|fem	NK	5
+5	Erklaͤrung	Erklärung	NN	Erklärung	nom|sg|fem	OA	2
+6	,	,	$,	,	_	--	5
+7	die	die	PRELS	d	nom|sg|fem	SB	8
+8	gefiel	gefiel	VVFIN	gefallen	sg|3|past|ind	RC	5
+9	uns	uns	PPER	wir	dat|pl|*|1	DA	8
+10	nicht	nicht	PTKNEG	nicht	_	NG	8
+11	:	:	SENT	:	_	--	10
+
+1	Und	Und	KON	und	_	JU	3
+2	das	das	PDS	d	nom|sg|neut	SB	3
+3	verdreust	verdreust	VVFIN	verdreust	sg|3|pres|ind	--	0
+4	sie	sie	PPER	Sie	nom|sg|fem|3	OA	3
+5	.	.	SENT	.	_	--	4
+
+1	Ha	Ha	ITJ	Ha	nom|sg|neut	--	0
+2	!	!	SENT	!	_	--	1
+
+1	ha	ha	ITJ	ha	_	NK	0
+2	.	.	SENT	.	_	NK	1
+
+1	Sie	Sie	PPER	Sie	nom|sg|fem|3	SB	2
+2	will	will	VMFIN	wollen	sg|3|pres|ind	--	0
+3	durchaus	durchaus	ADV	durchaus	_	MO	2
+4	,	,	$,	,	_	--	3
+5	daß	daß	KOUS	daß	_	CP	9
+6	sie	sie	PPER	Sie	nom|pl|fem|3	SB	9
+7	besser	besser	ADJD	gut	comp	PD	8
+8	seyn	sein	VAINF	sein	_	OC	9
+9	soll	soll	VMFIN	sollen	sg|3|pres|ind	OC	2
+10	,	,	$,	,	_	--	9
+11	als	als	KOKOM	als	_	CM	12
+12	unsere	unsere	PPOSAT	unser	nom|sg|fem	OC	2
+13	.	.	SENT	.	_	--	12
+
+1	Ah	Ah	ITJ	ah	nom|sg|neut	--	0
+2	!	!	SENT	!	_	--	1
+
+1	ha	ha	ITJ	ha	_	NK	0
+2	.	.	SENT	.	_	NK	1
+
+1	Sie	Sie	PPER	Sie	nom|pl|*|3	SB	2
+2	muͤssen	müssen	VMFIN	müssen	pl|3|pres|ind	--	0
+3	uns	uns	PPER	wir	dat|pl|*|1	OA	4
+4	entscheiden	entscheiden	VVINF	entscheiden	_	OC	2
+5	,	,	$,	,	_	--	4
+6	Herr	Herr	NN	Herr	nom|sg|masc	VO	2
+7	Magister	Magister	NN	Magister	nom|sg|masc	NK	6
+8	.	.	SENT	.	_	--	7
+
+1	Man	Man	PIS	man	nom|sg|*	SB	2
+2	soll	soll	VMFIN	sollen	sg|3|pres|ind	--	0
+3	die	die	ART	d	acc|sg|fem	NK	4
+4	Wiedergeburth	Wiedergeburt	NN	Wiedergeburt	acc|sg|fem	OA	5
+5	erklaͤren	erklären	VVINF	erklären	_	OC	2
+6	.	.	SENT	.	_	--	5
+
+1	Die	Die	ART	d	nom|sg|fem	NK	2
+2	Erklaͤrung	Erklärung	NN	Erklärung	nom|sg|fem	SB	4
+3	aber	aber	KON	aber	_	MO	4
+4	soll	soll	VMFIN	sollen	sg|3|pres|ind	--	0
+5	kurtz	kurz	ADJD	kurz	pos	PD	10
+6	,	,	$,	,	_	--	5
+7	nett	nett	ADJD	nett	pos	CJ	5
+8	und	und	KON	und	_	CD	7
+9	gruͤndlich	gründlich	ADJD	gründlich	pos	CJ	8
+10	seyn	sein	VAINF	sein	_	OC	4
+11	;	;	SENT	;	_	--	10
+
+1	denn	denn	KON	denn	_	JU	3
+2	wir	wir	PPER	wir	nom|pl|*|1	SB	3
+3	wollen	wollen	VMFIN	wollen	pl|1|pres|ind	--	0
+4	einen	einen	ART	ein	acc|sg|masc	NK	5
+5	Glaubens-Artickel	Glaubens-Artickel	NN	Glaubens-Artickel	acc|sg|masc	OA	7
+6	daraus	daraus	PAV	daraus	_	MO	7
+7	machen	machen	VVINF	machen	_	OC	3
+8	.	.	SENT	.	_	--	7
+
+1	Wir	Wir	PPER	wir	nom|pl|*|1	SB	2
+2	haben	haben	VAFIN	haben	pl|1|pres|ind	--	0
+3	eine	eine	ART	ein	acc|sg|fem	NK	6
+4	jede	jede	PIAT	jed	acc|sg|fem	NK	6
+5	unsere	unsere	PPOSAT	unser	nom|sg|fem	NK	6
+6	Meynung	Meinung	NN	Meinung	acc|sg|fem	OA	7
+7	gesagt	gesagt	VVPP	sagen	_	OC	2
+8	.	.	SENT	.	_	--	7
+
+1	Sie	Sie	PPER	Sie	nom|pl|*|3	SB	2
+2	sollen	sollen	VMFIN	sollen	pl|3|pres|ind	--	0
+3	nun	nun	ADV	nun	_	MO	2
+4	sagen	sagen	VVINF	sagen	_	OC	2
+5	,	,	$,	,	_	--	4
+6	wer	wer	PWS	wer	nom|sg|masc	SB	8
+7	recht	recht	ADJD	recht	acc|sg|neut	OA	8
+8	hat	hat	VAFIN	haben	sg|3|pres|ind	OC	4
+9	.	.	SENT	.	_	--	8
+
+1	Gantz	ganz	ADV	ganz	_	MO	2
+2	gern	gern	ADV	gern	_	--	0
+3	.	.	SENT	.	_	--	2
+
+1	Sagen	Sagen	VVIMP	sagen	pl|3|pres|ind	--	0
+2	sie	sie	PPER	Sie	nom|pl|*|3	SB	1
+3	nur	nur	ADV	nur	_	MO	1
+4	,	,	$,	,	_	--	3
+5	wovon	wovon	PWAVREL	wovon	_	MO	8
+6	die	die	ART	d	nom|sg|fem	NK	7
+7	Rede	Rede	NN	Rede	nom|sg|fem	SB	8
+8	ist	ist	VAFIN	sein	sg|3|pres|ind	OC	1
+9	.	.	SENT	.	_	--	8
+
+1	Ich	Ich	PPER	ich	nom|sg|*|1	SB	2
+2	sage	sage	VVFIN	sagen	sg|1|pres|ind	--	0
+3	:	:	SENT	:	_	--	2
+
+1	Die	Die	ART	d	nom|sg|fem	NK	2
+2	Wiedergeburth	Wiedergeburt	NN	Wiedergeburt	nom|sg|fem	SB	3
+3	ist	ist	VAFIN	sein	sg|3|pres|ind	--	0
+4	–	-	$.	-	_	--	3
+5	–	-	$.	-	_	--	4
+6	–	-	$.	-	_	--	5
+
+1	Eine	Eine	ART	ein	nom|sg|fem	NK	2
+2	Erbohrenwerdung	Erbohrenwerdung	NN	Erborenwerdung	nom|sg|fem	--	0
+3	–	-	$.	-	_	--	2
+4	–	-	$.	-	_	--	3
+5	–	-	$.	-	_	--	4
+
+1	Nein	Nein	PTKANT	nein	_	--	0
+2	!	!	SENT	!	_	--	1
+
+1	Herr	Herr	NN	Herr	nom|sg|masc	--	0
+2	Magister	Magister	NN	Magister	nom|sg|masc	NK	1
+3	!	!	SENT	!	_	--	2
+
+1	die	die	ART	d	nom|sg|fem	NK	3
+2	him̄lische	himmlische	ADJA	himmlisch	nom|sg|fem|pos	NK	3
+3	Tinctur	Tinktur	NN	Tinktur	nom|sg|fem	--	0
+4	–	-	$.	-	_	--	3
+5	–	-	$.	-	_	--	4
+6	–	-	$.	-	_	--	5
+
+1	Und	Und	KON	und	_	JU	3
+2	ich	ich	PPER	ich	nom|sg|*|1	SB	3
+3	sage	sage	VVFIN	sagen	sg|1|pres|ind	--	0
+4	:	:	SENT	:	_	--	3
+
+1	Sie	Sie	PPER	Sie	nom|sg|fem|3	SB	2
+2	ist	ist	VAFIN	sein	sg|3|pres|ind	--	0
+3	das	das	ART	d	nom|sg|neut	NK	5
+4	suͤsse	süße	ADJA	süß	nom|sg|neut|pos	NK	5
+5	Quell-Wasser	Quell-Wasser	NN	Quellwasser	nom|sg|neut	PD	2
+6	–	-	$.	-	_	--	5
+7	–	-	$.	-	_	--	6
+8	–	-	$.	-	_	--	7
+
+1	Ich	Ich	PPER	ich	nom|sg|*|1	SB	2
+2	sage	sage	VVFIN	sagen	sg|1|pres|ind	--	0
+3	aber	aber	ADV	aber	_	MO	2
+4	noch	noch	ADV	noch	_	MO	5
+5	einmahl	einmal	ADV	einmal	_	MO	2
+6	:	:	SENT	:	_	--	5
+
+1	Es	Es	PPER	es	nom|sg|neut|3	SB	2
+2	ist	ist	VAFIN	sein	sg|3|pres|ind	--	0
+3	die	die	ART	d	nom|sg|fem	NK	4
+4	Erbohrenwerdung	Erbohrenwerdung	NN	Erborenwerdung	nom|sg|fem	PD	2
+5	–	-	$.	-	_	--	4
+6	–	-	$.	-	_	--	5
+7	–	-	$.	-	_	--	6
+
+1	Ja	Ja	ADV	ja	_	--	0
+2	!	!	SENT	!	_	--	1
+
+1	was	was	PWS	was	nom|sg|neut	SB	2
+2	wollts	wollt	VMFIN	wollen	sg|3|pres|ind	--	0
+3	nur	nur	ADV	nur	_	MO	2
+4	nicht	nicht	PTKNEG	nicht	_	NG	2
+5	!	!	SENT	!	_	--	4
+
+1	Es	Es	PPER	es	nom|sg|neut|3	SB	2
+2	ist	ist	VAFIN	sein	sg|3|pres|ind	OC	7
+3	die	die	ART	d	nom|sg|fem	NK	5
+4	himmlische	himmlische	ADJA	himmlisch	nom|sg|fem|pos	NK	5
+5	Tinctur	Tinktur	NN	Tinktur	nom|sg|fem	PD	2
+6	,	,	$,	,	_	--	5
+7	sag	sag	VVIMP	sagen	sg|1|pres|ind	--	0
+8	ich	ich	PPER	ich	nom|sg|*|1	SB	7
+9	;	;	SENT	;	_	--	8
+
+1	und	und	KON	und	_	JU	3
+2	das	das	PDS	d	nom|sg|neut	NK	3
+3	ists	Ists	VAFIN	sein	nom|sg|neut|pos	--	0
+4	auch	auch	ADV	auch	_	MO	3
+5	.	.	SENT	.	_	--	4
+
+1	Nein	Nein	PTKANT	nein	_	--	0
+2	!	!	SENT	!	_	--	1
+
+1	Es	Es	PPER	es	nom|sg|neut|3	SB	2
+2	ist	ist	VAFIN	sein	sg|3|pres|ind	--	0
+3	das	das	ART	d	nom|sg|neut	NK	5
+4	suͤsse	süße	ADJA	süß	nom|sg|neut|pos	NK	5
+5	Quell-Wasser	Quell-Wasser	NN	Quellwasser	nom|sg|neut	PD	2
+6	,	,	$,	,	_	--	5
+7	und	und	KON	und	_	CD	2
+8	ich	ich	PPER	ich	nom|sg|*|1	SB	9
+9	weiche	weiche	ADJA	weich	sg|1|pres|ind	CJ	7
+10	nicht	nicht	PTKNEG	nicht	_	NG	9
+11	ein	ein	ART	ein	acc|sg|neut	NK	12
+12	Haar	Haar	NN	Haar	acc|sg|neut	OA	9
+13	.	.	SENT	.	_	--	12
+
+1	Ein	Ein	ART	ein	nom|sg|neut	NK	3
+2	suͤsses	süßes	ADJA	süß	nom|sg|neut|pos	NK	3
+3	Quell-Wasser	Quell-Wasser	NN	Quellwasser	nom|sg|neut	--	0
+4	–	-	$.	-	_	--	3
+5	–	-	$.	-	_	--	4
+6	–	-	$.	-	_	--	5
+
+1	Eine	Eine	ART	ein	nom|sg|fem	NK	2
+2	Erbohrenwerdung	Erbohrenwerdung	NN	Erborenwerdung	nom|sg|fem	--	0
+3	–	-	$.	-	_	--	2
+4	–	-	$.	-	_	--	3
+5	–	-	$.	-	_	--	4
+
+1	Eine	Eine	ART	ein	nom|sg|fem	NK	3
+2	himmlische	himmlische	ADJA	himmlisch	nom|sg|fem|pos	NK	3
+3	Tinctur	Tinktur	NN	Tinktur	nom|sg|fem	--	0
+4	–	-	$.	-	_	--	3
+5	–	-	$.	-	_	--	4
+6	–	-	$.	-	_	--	5
+
+1	Zum	Zum	APPRART	zum	dat|sg|masc	--	0
+2	Hencker	Henker	NN	Henker	dat|sg|masc	NK	1
+3	!	!	SENT	!	_	--	2
+
+1	so	so	ADV	so	_	MO	2
+2	reden	reden	VVFIN	reden	pl|3|pres|ind	--	0
+3	sie	sie	PPER	Sie	nom|pl|*|3	SB	2
+4	doch	doch	ADV	doch	_	MO	2
+5	nicht	nicht	PTKNEG	nicht	_	NG	6
+6	alle	alle	PIAT	all	acc|pl|masc	NK	7
+7	drey	drei	CARD	drei	_	SB	2
+8	auf	auf	APPR	auf	_	MO	2
+9	einmal	einmal	ADV	einmal	_	NK	8
+10	;	;	SENT	;	_	--	9
+
+1	ich	ich	PPER	ich	nom|sg|*|1	SB	2
+2	kan	kann	VMFIN	können	sg|3|pres|ind	--	0
+3	ja	ja	ADV	ja	_	MO	2
+4	nichts	nichts	PIS	nichts	*|*|neut	OA	5
+5	verstehen	verstehen	VVINF	verstehen	_	OC	2
+6	.	.	SENT	.	_	--	5
+
+1	Was	Was	PWS	was	acc|sg|neut	OA	2
+2	sagen	sagen	VVFIN	sagen	pl|3|pres|ind	--	0
+3	sie	sie	PPER	Sie	nom|pl|*|3	SB	2
+4	,	,	$,	,	_	--	3
+5	Madame	Madame	FM	--	_	OC	2
+6	?	?	SENT	?	_	--	5
+
+1	Sagen	Sagen	VVIMP	sagen	pl|3|pres|ind	--	0
+2	sie	sie	PPER	Sie	nom|pl|*|3	SB	1
+3	nicht	nicht	PTKNEG	nicht	_	NG	1
+4	,	,	$,	,	_	--	3
+5	es	es	PPER	es	nom|sg|neut|3	SB	6
+6	waͤre	wäre	VAFIN	sein	sg|3|past|subj	OC	1
+7	eine	eine	ART	ein	nom|sg|fem	NK	8
+8	Tinctur	Tinktur	NN	Tinktur	nom|sg|fem	PD	6
+9	?	?	SENT	?	_	--	8
+
+1	Nein	Nein	PTKANT	nein	_	--	0
+2	!	!	SENT	!	_	--	1
+
+1	die	die	ART	d	nom|sg|fem	NK	2
+2	Tinctur	Tinktur	NN	Tinktur	nom|sg|fem	SB	3
+3	war	war	VAFIN	sein	sg|3|past|ind	--	0
+4	von	von	APPR	von	_	MO	3
+5	mir	mir	PPER	ich	dat|sg|*|1	NK	4
+6	.	.	SENT	.	_	--	5
+
+1	Das	Das	ART	d	nom|sg|neut	NK	2
+2	Wasser	Wasser	NN	Wasser	nom|sg|neut	SB	3
+3	war	war	VAFIN	sein	sg|3|past|ind	--	0
+4	von	von	APPR	von	_	MO	3
+5	mir	mir	PPER	ich	dat|sg|*|1	NK	4
+6	.	.	SENT	.	_	--	5
+
+1	Und	Und	KON	und	_	JU	3
+2	die	die	ART	d	nom|sg|fem	NK	3
+3	Erbohrenwerdung	Erbohrenwerdung	NN	Erborenwerdung	nom|sg|fem	--	0
+4	von	von	APPR	von	_	PG	3
+5	mir	mir	PPER	ich	dat|sg|*|1	NK	4
+6	.	.	SENT	.	_	--	5
+
+1	Noch	Noch	ADV	noch	_	MO	2
+2	einmahl	einmal	ADV	einmal	_	MO	3
+3	bitte	bitte	VVFIN	bitten	_	--	0
+4	ich	ich	PPER	ich	nom|sg|*|1	SB	3
+5	mir	mir	PPER	ich	dat|sg|*|1	DA	3
+6	aus	aus	PTKVZ	aus	_	SVP	3
+7	.	.	SENT	.	_	--	6
+
+1	Ich	Ich	PPER	ich	nom|sg|*|1	SB	2
+2	will	will	VMFIN	wollen	sg|1|pres|ind	--	0
+3	ihnen	ihnen	PPER	sie	dat|pl|*|3	DA	4
+4	sagen	sagen	VVINF	sagen	_	OC	2
+5	,	,	$,	,	_	--	4
+6	Herr	Herr	NN	Herr	nom|sg|masc	VO	11
+7	Magister	Magister	NN	Magister	nom|sg|masc	NK	6
+8	,	,	$,	,	_	--	7
+9	die	die	ART	d	nom|sg|fem	NK	10
+10	Sache	Sache	NN	Sache	nom|sg|fem	SB	11
+11	ist	ist	VAFIN	sein	sg|3|pres|ind	OC	4
+12	Sonnenklar	Sonnenklar	ADJD	Sonnenklar	sup	PD	11
+13	.	.	SENT	.	_	--	12
+
+1	Nur	Nur	ADV	nur	_	MO	3
+2	ein	ein	ART	ein	nom|sg|neut	NK	3
+3	Wort	Wort	NN	Wort	nom|sg|neut	--	0
+4	.	.	SENT	.	_	--	3
+
+1	Nur	Nur	ADV	nur	_	MO	4
+2	ein	ein	ART	ein	nom|sg|neut	NK	4
+3	halbes	Halbes	NN	Halbe	nom|sg|neut|pos	NK	4
+4	Wort	Wort	NN	Wort	nom|sg|neut	--	0
+5	.	.	SENT	.	_	--	4
+
+1	Ich	Ich	PPER	ich	nom|sg|*|1	SB	2
+2	muß	muß	VMFIN	müssen	sg|1|pres|ind	--	0
+3	zuerst	zuerst	ADV	zuerst	_	MO	2
+4	reden	reden	VVINF	reden	_	OC	2
+5	.	.	SENT	.	_	--	4
+
+1	Ich	Ich	PPER	ich	nom|sg|*|1	SB	2
+2	habe	habe	VAFIN	haben	sg|1|pres|ind	--	0
+3	nur	nur	ADV	nur	_	MO	5
+4	ein	ein	ART	ein	acc|sg|neut	NK	5
+5	Wort	Wort	NN	Wort	acc|sg|neut	OA	7
+6	zu	zu	PTKZU	zu	_	PM	7
+7	sagen	sagen	VVINF	sagen	_	OC	2
+8	,	,	$,	,	_	--	7
+9	Madame	Madame	FM	--	_	NK	5
+10	!	!	SENT	!	_	--	9
+
+1	Lassen	Lassen	VVIMP	lassen	pl|3|pres|ind	--	0
+2	sie	sie	PPER	Sie	nom|pl|*|3	SB	1
+3	mich	mich	PPER	ich	acc|sg|1	OA	1
+4	nur	nur	ADV	nur	_	MO	7
+5	einen	einen	ART	ein	acc|sg|masc	NK	6
+6	Augenblick	Augenblick	NN	Augenblick	acc|sg|masc	OA	7
+7	reden	reden	VVINF	reden	_	OC	1
+8	,	,	$,	,	_	--	7
+9	hernach	hernach	ADV	hernach	_	MO	10
+10	moͤgen	mögen	VMFIN	mögen	pl|3|pres|ind	OC	7
+11	sie	sie	PPER	Sie	nom|pl|*|3	SB	10
+12	sagen	sagen	VVINF	sagen	_	OC	10
+13	,	,	$,	,	_	--	12
+14	was	was	PWREL	was	acc|sg|neut	OA	16
+15	sie	sie	PPER	Sie	nom|pl|*|3	SB	16
+16	wollen	wollen	VMFIN	wollen	pl|3|pres|ind	OC	12
+17	.	.	SENT	.	_	--	16
+
+1	Mein	Mein	PPOSAT	mein	nom|sg|masc	NK	2
+2	GOtt	Gott	NE	Gott	nom|sg|masc	--	0
+3	!	!	SENT	!	_	--	2
+
+1	vereinigen	vereinigen	VVINF	vereinigen	pl|3|pres|ind	--	0
+2	sie	sie	PPER	Sie	nom|pl|*|3	SB	1
+3	sich	sich	PRF	er|es|sie	acc|pl|3	OA	1
+4	doch	doch	ADV	doch	_	MO	1
+5	,	,	$,	,	_	--	4
+6	wenn	wenn	KOUS	wenn	_	CP	9
+7	es	es	PPER	es	nom|sg|neut|3	SB	9
+8	moͤglich	möglich	ADJD	möglich	pos	PD	9
+9	ist	ist	VAFIN	sein	sg|3|pres|ind	MO	1
+10	!	!	SENT	!	_	--	9
+
+1	Ists	Ists	VAFIN	sein	_	MO	5
+2	nicht	nicht	PTKNEG	nicht	_	NG	5
+3	wahr	wahr	ADJD	wahr	pos	PD	5
+4	,	,	$,	,	_	--	3
+5	Herr	Herr	NN	Herr	nom|sg|masc	--	0
+6	Magister	Magister	NN	Magister	nom|sg|masc	NK	5
+7	?	?	SENT	?	_	--	6
+
+1	Die	Die	ART	d	nom|sg|fem	NK	2
+2	Wiedergeburth	Wiedergeburt	NN	Wiedergeburt	nom|sg|fem	SB	3
+3	ist	ist	VAFIN	sein	sg|3|pres|ind	--	0
+4	das	das	ART	d	nom|sg|neut	NK	6
+5	suͤsse	süße	ADJA	süß	nom|sg|neut|pos	NK	6
+6	Quell-	Quell	NN	Quell	nom|sg|neut	SB	3
+7	Wasser	Wasser	NN	Wasser	nom|sg|neut	NK	6
+8	des	des	ART	d	gen|sg|neut	NK	9
+9	Hertzens	Herzens	NN	Herz	gen|sg|neut	AG	7
+10	.	.	SENT	.	_	--	9
+
+1	Nein	Nein	PTKANT	nein	_	--	0
+2	!	!	SENT	!	_	--	1
+
+1	Es	Es	PPER	es	nom|sg|neut|3	SB	2
+2	ist	ist	VAFIN	sein	sg|3|pres|ind	--	0
+3	die	die	ART	d	nom|sg|fem	NK	4
+4	Erbohrenwerdung	Erbohrenwerdung	NN	Erborenwerdung	nom|sg|fem	PD	2
+5	der	der	ART	d	gen|sg|fem	NK	7
+6	himmlischen	himmlischen	ADJA	himmlisch	gen|sg|fem|pos	NK	7
+7	Wesenheit	Wesenheit	NN	Wesenheit	gen|sg|fem	AG	4
+8	aus	aus	APPR	aus	_	MNR	7
+9	der	der	ART	d	dat|sg|fem	NK	10
+10	Selbstheit	Selbsteid	NN	Selbsteid	dat|sg|fem	NK	8
+11	der	der	ART	d	gen|sg|fem	NK	13
+12	animalischen	animalischen	ADJA	animalischen	gen|sg|fem|pos	NK	13
+13	Seele	Seele	NN	Seele	gen|sg|fem	AG	10
+14	,	,	$,	,	_	--	13
+15	in	in	APPR	in	_	MNR	10
+16	dem	dem	ART	d	dat|sg|neut	NK	17
+17	Centro	Centro	NE	Centro	dat|sg|neut	NK	15
+18	des	des	ART	d	gen|sg|masc	NK	20
+19	irdischen	irdischen	ADJA	irdisch	gen|sg|masc|pos	NK	20
+20	Menschen	Menschen	NN	Mensch	gen|sg|masc	AG	17
+21	,	,	$,	,	_	--	20
+22	und	und	KON	und	_	CD	2
+23	windet	windet	VVFIN	winden	sg|3|pres|ind	CJ	22
+24	sich	sich	PRF	er|es|sie	acc|sg|3	OA	23
+25	einwaͤrts	einwärts	ADV	einwärts	_	MO	23
+26	wie	wie	KOKOM	wie	_	CM	28
+27	ein	ein	ART	ein	nom|sg|masc	NK	28
+28	Rad	Rad	NN	Rad	nom|sg|masc	MO	23
+29	.	.	SENT	.	_	--	28
+
+1	Nein	Nein	PTKANT	nein	_	--	0
+2	!	!	SENT	!	_	--	1
+
+1	Es	Es	PPER	es	nom|sg|neut|3	SB	2
+2	ist	ist	VAFIN	sein	sg|3|pres|ind	--	0
+3	die	die	ART	d	nom|sg|fem	NK	5
+4	himmlische	himmlische	ADJA	himmlisch	nom|sg|fem|pos	NK	5
+5	Tinctur	Tinktur	NN	Tinktur	nom|sg|fem	PD	2
+6	,	,	$,	,	_	--	5
+7	wodurch	wodurch	PWAVREL	wodurch	_	MO	17
+8	die	die	ART	d	nom|sg|fem	NK	10
+9	neue	neue	ADJA	neu	nom|sg|fem|pos	NK	10
+10	Seele	Seele	NN	Seele	nom|sg|fem	SB	17
+11	das	das	ART	d	acc|sg|neut	NK	13
+12	vegetabilische	vegetabilische	ADJA	vegetabilische	acc|sg|neut|pos	NK	13
+13	Leben	Leben	NN	Leben	acc|sg|neut	OA	17
+14	der	der	ART	d	gen|pl|masc	NK	16
+15	vier	vier	CARD	vier	_	NK	16
+16	Elemente	Elemente	NN	Element	gen|pl|neut	AG	13
+17	wegwirfft	wegwirft	VVFIN	wegwirft	sg|3|pres|ind	RC	5
+18	,	,	$,	,	_	--	17
+19	und	und	KON	und	_	CD	5
+20	die	die	ART	d	nom|sg|fem	NK	22
+21	magische	magische	ADJA	magisch	nom|sg|fem|pos	NK	22
+22	Seele	Seele	NN	Seele	nom|sg|fem	CJ	19
+23	,	,	$,	,	_	--	22
+24	als	als	KOKOM	als	_	CP	36
+25	die	die	ART	d	nom|sg|fem	NK	26
+26	Gottheit	Gottheit	NN	Gottheit	nom|sg|fem	SB	36
+27	,	,	$,	,	_	--	26
+28	nach	nach	APPR	nach	_	MO	36
+29	dem	dem	ART	d	dat|sg|neut	NK	30
+30	Modell	Modell	NN	Modell	dat|sg|neut	NK	28
+31	der	der	ART	d	gen|sg|fem	NK	32
+32	Weisheit	Weisheit	NN	Weisheit	gen|sg|fem	AG	30
+33	in	in	APPR	in	_	MO	36
+34	alle	alle	PIAT	all	acc|pl|neut	NK	35
+35	Dinge	Dinge	NN	Ding	acc|pl|neut	NK	33
+36	einbildet	einbildet	VVFIN	einbildet	_	MNR	22
+37	.	.	SENT	.	_	--	36
+
+1	Das	Das	ART	d	nom|sg|neut	NK	2
+2	Quell-Wasser	Quell-Wasser	NN	Quellwasser	nom|sg|neut	--	0
+3	–	-	$.	-	_	--	2
+4	–	-	$.	-	_	--	3
+5	–	-	$.	-	_	--	4
+
+1	Die	Die	ART	d	nom|sg|fem	NK	2
+2	Erbohrenwerdung	Erbohrenwerdung	NN	Erborenwerdung	nom|sg|fem	--	0
+3	–	-	$.	-	_	--	2
+4	–	-	$.	-	_	--	3
+5	–	-	$.	-	_	--	4
+
+1	Die	Die	ART	d	nom|sg|fem	NK	3
+2	himmlische	himmlische	ADJA	himmlisch	nom|sg|fem|pos	NK	3
+3	Tinctur	Tinktur	NN	Tinktur	nom|sg|fem	--	0
+4	–	-	$.	-	_	--	3
+5	–	-	$.	-	_	--	4
+6	–	-	$.	-	_	--	5
+
+1	Habe	Habe	NN	Habe	sg|1|pres|ind	--	0
+2	ich	ich	PPER	ich	nom|sg|*|1	SB	1
+3	nicht	nicht	PTKNEG	nicht	_	NG	1
+4	recht	recht	ADJD	recht	pos	MO	1
+5	,	,	$,	,	_	--	4
+6	Herr	Herr	NN	Herr	nom|sg|masc	VO	1
+7	Magister	Magister	NN	Magister	nom|sg|masc	NK	6
+8	?	?	SENT	?	_	--	7
+
+1	Irre	Irre	VVFIN	Irre	sg|1|pres|ind	--	0
+2	ich	ich	PPER	ich	nom|sg|*|1	SB	1
+3	wohl	wohl	ADV	wohl	_	MO	1
+4	,	,	$,	,	_	--	3
+5	Herr	Herr	NN	Herr	nom|sg|masc	VO	1
+6	Magister	Magister	NN	Magister	nom|sg|masc	NK	5
+7	?	?	SENT	?	_	--	6
+
+1	Ists	Ists	VAFIN	sein	_	MO	5
+2	nicht	nicht	PTKNEG	nicht	_	NG	5
+3	wahr	wahr	ADJD	wahr	pos	PD	5
+4	,	,	$,	,	_	--	3
+5	Herr	Herr	NN	Herr	nom|sg|masc	--	0
+6	Magister	Magister	NN	Magister	nom|sg|masc	NK	5
+7	?	?	SENT	?	_	--	6
+
+1	Wie	Wie	PWAV	wie	_	MO	2
+2	kan	kann	VMFIN	können	sg|1|pres|ind	--	0
+3	ich	ich	PPER	ich	nom|sg|*|1	SB	2
+4	sie	sie	PPER	Sie	sg|1|pres|ind	OA	6
+5	doch	doch	ADV	doch	_	MO	2
+6	vereinigen	vereinigen	VVINF	vereinigen	_	OC	2
+7	,	,	$,	,	_	--	6
+8	wenn	wenn	KOUS	wenn	_	CP	11
+9	ich	ich	PPER	ich	nom|sg|*|1	SB	11
+10	nicht	nicht	PTKNEG	nicht	_	NG	11
+11	weiß	weiß	VVFIN	wissen	sg|1|pres|ind	MO	2
+12	,	,	$,	,	_	--	11
+13	woruͤber	worüber	PWAV	worüber	_	MO	16
+14	sie	sie	PPER	Sie	nom|pl|*|3	SB	16
+15	sich	sich	PRF	er|es|sie	acc|pl|3	OA	16
+16	zancken	zanken	VVINF	zanken	pl|3|pres|ind	OC	11
+17	?	?	SENT	?	_	--	16
+
+1	Es	Es	PPER	es	nom|sg|neut|3	SB	2
+2	ist	ist	VAFIN	sein	sg|3|pres|ind	--	0
+3	der	der	ART	d	nom|sg|masc	NK	5
+4	beste	beste	ADJA	gut	nom|sg|masc|sup	NK	5
+5	Rath	Rat	NN	Rat	nom|sg|masc	PD	2
+6	,	,	$,	,	_	--	5
+7	ich	ich	PPER	ich	nom|sg|*|1	SB	8
+8	gehe	gehe	VVFIN	gehen	sg|1|pres|ind	CJ	2
+9	fort	fort	PTKVZ	fort	_	SVP	8
+10	.	.	SENT	.	_	--	9
+
+1	Adieu	Adieu	ADV	adieu	nom|sg|*	--	0
+2	.	.	SENT	.	_	--	1
+
+1	Ach	Ach	ITJ	ach	_	NK	0
+2	!	!	SENT	!	_	--	0
+
+1	bleiben	bleiben	VVFIN	bleiben	pl|3|pres|ind	--	0
+2	sie	sie	PPER	Sie	nom|pl|*|3	SB	1
+3	Herr	Herr	NN	Herr	nom|sg|masc	SB	1
+4	Magister	Magister	NN	Magister	nom|sg|masc	NK	3
+5	!	!	SENT	!	_	--	4
+
+1	Ach	Ach	ITJ	ach	_	NK	0
+2	!	!	SENT	!	_	--	0
+
+1	gehen	gehen	VVFIN	gehen	pl|3|pres|ind	--	0
+2	sie	sie	PPER	Sie	nom|pl|*|3	SB	1
+3	doch	doch	ADV	doch	_	MO	1
+4	nur	nur	ADV	nur	_	MO	1
+5	nicht	nicht	PTKNEG	nicht	_	NG	1
+6	weg	weg	PTKVZ	weg	_	SVP	1
+7	!	!	SENT	!	_	--	6
+
+1	Nur	Nur	ADV	nur	_	MO	3
+2	einen	einen	ART	ein	acc|sg|masc	NK	3
+3	Augenblick	Augenblick	NN	Augenblick	acc|sg|masc	--	0
+4	!	!	SENT	!	_	--	3
+
+1	Gantz	ganz	ADV	ganz	_	MO	2
+2	gern	gern	ADV	gern	_	--	0
+3	;	;	SENT	;	_	--	2
+
+1	Aber	Aber	KON	aber	_	JU	10
+2	mit	mit	APPR	mit	_	--	0
+3	der	der	ART	d	dat|sg|fem	NK	4
+4	Bedingung	Bedingung	NN	Bedingung	dat|sg|fem	NK	2
+5	,	,	$,	,	_	--	4
+6	daß	daß	KOUS	daß	_	CP	11
+7	mir	mir	PPER	ich	dat|sg|*|1	DA	11
+8	nur	nur	ADV	nur	_	MO	9
+9	immer	immer	ADV	immer	_	MO	11
+10	diejenige	diejenige	PDS	derjenige	acc|pl|*	--	0
+11	antworte	antworte	VVFIN	antworten	sg|3|pres|subj	OC	4
+12	,	,	$,	,	_	--	11
+13	die	die	PRELS	d	acc|pl|*	OA	15
+14	ich	ich	PPER	ich	nom|sg|*|1	SB	16
+15	fragen	fragen	VVINF	fragen	_	OC	16
+16	werde	werde	VAFIN	werden	sg|3|pres|subj	RC	10
+17	.	.	SENT	.	_	--	16
+
+1	Gut	Gut	ADJD	gut	pos	PD	3
+2	,	,	$,	,	_	--	1
+3	Herr	Herr	NN	Herr	nom|sg|masc	--	0
+4	Magister	Magister	NN	Magister	nom|sg|masc	NK	3
+5	!	!	SENT	!	_	--	4
+
+1	fragen	fragen	VVFIN	fragen	pl|3|pres|ind	--	0
+2	sie	sie	PPER	Sie	nom|pl|*|3	SB	1
+3	mich	mich	PPER	ich	acc|sg|*|1	OA	1
+4	zuerst	zuerst	ADV	zuerst	_	MO	1
+5	.	.	SENT	.	_	--	4
+
+1	Ach	Ach	ITJ	ach	_	NK	0
+2	!	!	SENT	!	_	--	0
+
+1	fragen	fragen	VVFIN	fragen	pl|3|pres|ind	--	0
+2	sie	sie	PPER	Sie	nom|pl|*|3	SB	1
+3	mich	mich	PPER	ich	acc|sg|*|1	OA	1
+4	zuerst	zuerst	ADV	zuerst	_	MO	1
+5	,	,	$,	,	_	--	4
+6	ich	ich	PPER	ich	nom|sg|*|1	SB	7
+7	bitte	bitte	VVFIN	bitten	sg|1|past|subj	OC	1
+8	sie	sie	PPER	Sie	acc|*|*|3	OA	7
+9	drum	drum	PAV	darum	_	MO	7
+10	!	!	SENT	!	_	--	9
+
+1	Ich	Ich	PPER	ich	nom|sg|*|1	SB	2
+2	werde	werde	VAFIN	werden	sg|1|pres|ind	--	0
+3	gantz	gantz	ADV	ganz	_	OA	5
+4	kurtz	kurz	ADJD	kurz	pos	MO	5
+5	antworten	antworten	VVINF	antworten	_	OC	2
+6	.	.	SENT	.	_	--	5
+
+1	Zum	Zum	APPRART	zum	dat|sg|masc	MO	13
+2	Hencker	Henker	NN	Henker	dat|sg|masc	NK	1
+3	,	,	$,	,	_	--	2
+4	Es	Es	PPER	es	nom|sg|neut|3	SB	5
+5	hat	hat	VAFIN	haben	sg|3|pres|ind	--	0
+6	ja	ja	ADV	ja	_	MO	5
+7	noch	noch	ADV	noch	_	MO	9
+8	kein	kein	PIAT	kein	acc|sg|neut	NK	9
+9	Ende	Ende	NN	Ende	acc|sg|neut	OA	5
+10	,	,	$,	,	_	--	9
+11	Adieu	Adieu	ADV	adieu	sg|1|pres|ind	CJ	5
+12	ich	ich	PPER	ich	nom|sg|*|1	SB	13
+13	gehe	gehe	VVFIN	gehen	sg|1|pres|ind	OC	5
+14	.	.	SENT	.	_	--	13
+
+1	Ach	Ach	ITJ	ach	_	NK	0
+2	!	!	SENT	!	_	--	0
+
+1	ich	ich	PPER	ich	nom|sg|*|1	SB	2
+2	lasse	lasse	VVFIN	lassen	sg|3|pres|subj	--	0
+3	sie	sie	PPER	Sie	nom|sg|fem|3	OA	2
+4	gewiß	gewiß	ADJD	gewiß	_	MO	2
+5	nicht	nicht	PTKNEG	nicht	_	NG	2
+6	weg	weg	PTKVZ	weg	_	SVP	2
+7	.	.	SENT	.	_	--	6
+
+1	Sie	Sie	PPER	Sie	nom|pl|*|3	SB	2
+2	muͤssen	müssen	VMFIN	müssen	pl|3|pres|ind	--	0
+3	bleiben	bleiben	VVINF	bleiben	_	OC	2
+4	.	.	SENT	.	_	--	3
+
+1	Wir	Wir	PPER	wir	nom|pl|*|1	SB	2
+2	lassen	lassen	VVFIN	lassen	pl|1|pres|ind	--	0
+3	sie	sie	PPER	Sie	acc|*|*|3	OA	2
+4	nicht	nicht	PTKNEG	nicht	_	NG	2
+5	.	.	SENT	.	_	--	4
+
+1	Nun	Nun	ADV	nun	_	MO	4
+2	,	,	$,	,	_	--	1
+3	so	so	ADV	so	_	MO	4
+4	reden	reden	VVFIN	reden	pl|3|pres|ind	--	0
+5	sie	sie	PPER	Sie	nom|pl|*|3	SB	4
+6	huͤbsch	hübsch	ADJD	hübsch	pos	MO	4
+7	eine	eine	ART	ein	acc|sg|fem	OA	4
+8	nach	nach	APPR	nach	_	MNR	7
+9	der	der	ART	d	dat|sg|fem	NK	10
+10	andern	anderen	PIS	ander	dat|sg|fem|pos	NK	8
+11	.	.	SENT	.	_	--	10
+
+1	Nun	Nun	ADV	nun	_	MO	4
+2	,	,	$,	,	_	--	1
+3	wir	wir	PPER	wir	nom|pl|*|1	NK	4
+4	versprechens	Versprechens	NN	Versprechens	gen|sg|neut	--	0
+5	!	!	SENT	!	_	--	4
+
+1	Madame	Madame	FM	--	_	OC	5
+2	Glaubeleichtin	Glaubeleichtin	NN	Glaubeleichtin	_	UC	1
+3	,	,	$,	,	_	--	2
+4	was	was	PWREL	was	acc|sg|neut	OA	5
+5	sagen	sagen	VVFIN	sagen	pl|3|pres|ind	--	0
+6	sie	sie	PPER	Sie	nom|pl|*|3	SB	5
+7	?	?	SENT	?	_	--	6
+
+1	Die	Die	ART	d	nom|sg|fem	NK	2
+2	Wiedergeburth	Wiedergeburt	NN	Wiedergeburt	nom|sg|fem	SB	3
+3	ist	ist	VAFIN	sein	sg|3|pres|ind	--	0
+4	das	das	ART	d	nom|sg|neut	NK	6
+5	suͤsse	süße	ADJA	süß	nom|sg|neut|pos	NK	6
+6	Quell-Wasser	Quell-Wasser	NN	Quellwasser	nom|sg|neut	SB	3
+7	des	des	ART	d	gen|sg|neut	NK	8
+8	Hertzens	Herzens	NN	Herz	gen|sg|neut	AG	6
+9	sag	sag	VVFIN	sagen	sg|1|pres|ind	PD	3
+10	ich	ich	PPER	ich	nom|sg|*|1	SB	9
+11	,	,	$,	,	_	--	10
+12	welches	welches	PRELS	welch	nom|sg|neut	SB	16
+13	aus	aus	APPR	aus	_	MO	16
+14	der	der	ART	d	dat|sg|fem	NK	15
+15	Sophia	Sophia	NE	Sophia	dat|sg|fem	NK	13
+16	urstaͤndet	urständet	VVPP	urständet	sg|3|pres|ind	OC	9
+17	,	,	$,	,	_	--	16
+18	und	und	KON	und	_	CD	9
+19	das	das	ART	d	acc|sg|neut	NK	21
+20	himmlische	himmlische	ADJA	himmlisch	acc|sg|neut|pos	NK	21
+21	Weltwesen	Weltwesen	NN	Weltwesen	acc|sg|neut	OA	22
+22	gebiehret	gebiert	VVFIN	gebären	_	CJ	18
+23	.	.	SENT	.	_	--	22
+
+1	Das	Das	ART	d	nom|sg|neut	SB	2
+2	suͤs––	süs--	TRUNC	süs--	sg|3|pres|ind	--	0
+3	se	se	FM	--	_	PNC	7
+4	Quell–	Quell	NN	Quell	*|*|*	PNC	7
+5	Was––	Was	PWS	was	acc|sg|neut	PNC	7
+6	ser	ser	VVFIN	ser	comp	PNC	7
+7	des––	des--	NE	des--	_	MO	2
+8	Her––	her	PTKVZ	her	_	MO	2
+9	tzens–	tzens-	VVINF	tzens-	_	MO	2
+10	-	-	$.	-	_	--	9
+11	das	das	ART	d	nom|sg|neut	SB	12
+12	ist	ist	VAFIN	sein	sg|3|pres|ind	CJ	2
+13	zimlich	ziemlich	ADV	ziemlich	_	MO	14
+14	deutlich	deutlich	ADJD	deutlich	pos	PD	12
+15	.	.	SENT	.	_	--	14
+
+1	Wel––	Wel--	NE	Wel--	_	CJ	2
+2	ches––	ches--	VVFIN	ches--	_	MO	23
+3	aus––	aus	APPR	aus	_	MO	23
+4	der––	der	ART	d	dat|sg|fem	NK	19
+5	So––	so	ADV	so	_	MO	20
+6	phi––	phi--	ADJA	phi--	_	CJ	7
+7	a––	a--	ADJA	a--	_	CJ	8
+8	ur––	ur--	ADJA	ur--	_	CJ	9
+9	staͤn––	stän--	TRUNC	stän--	_	CJ	14
+10	det	det	PDS	der	sg|3|pres|ind	NK	22
+11	,	,	$,	,	_	--	10
+12	–	-	$-	-	_	--	11
+13	–	-	$.	-	_	--	12
+14	und––	und	KON	und	_	CD	19
+15	das––	das	ART	d	nom|sg|neut	SB	23
+16	himm––	himm--	ADJA	himm--	_	CJ	17
+17	li––	li--	ADJA	li--	_	CJ	14
+18	sche––	sche--	ADJA	sche--	_	NK	19
+19	Welt––	Welt	NN	Welt	dat|sg|fem	NK	3
+20	wesen	wesen	NN	Wesen	_	NK	22
+21	ge––	ge--	TRUNC	ge--	_	CJ	22
+22	bieh––	bieh--	ADV	bieh--	_	MO	23
+23	ret	rät	VVFIN	raten	sg|3|pres|ind	--	0
+24	.	.	SENT	.	_	--	23
+
+1	Das	Das	PDS	d	nom|sg|neut	SB	2
+2	ist	ist	VAFIN	sein	sg|3|pres|ind	--	0
+3	sehr	sehr	ADV	sehr	_	MO	4
+4	schoͤn	schön	ADJD	schön	pos	MO	7
+5	und	und	KON	und	_	CD	4
+6	deutlich	deutlich	ADJD	deutlich	pos	CJ	5
+7	erklaͤrt	erklärt	VVPP	erklären	_	PD	2
+8	.	.	SENT	.	_	--	7
+
+1	Und	Und	KON	und	_	CD	3
+2	sie	sie	PPER	Sie	nom|sg|fem|3	PNC	3
+3	Madame	Madame	FM	--	sg|3|pres|subj	--	0
+4	?	?	SENT	?	_	--	3
+
+1	Ich	Ich	PPER	ich	nom|sg|*|1	SB	2
+2	sage	sage	VVFIN	sagen	sg|1|pres|ind	--	0
+3	,	,	$,	,	_	--	2
+4	es	es	PPER	es	nom|sg|neut|3	SB	5
+5	ist	ist	VAFIN	sein	sg|3|pres|ind	OC	2
+6	die	die	ART	d	nom|sg|fem	NK	7
+7	Erbohrenwerdung	Erbohrenwerdung	NN	Erborenwerdung	nom|sg|fem	PD	5
+8	der	der	ART	d	gen|sg|fem	NK	10
+9	himmlischen	himmlischen	ADJA	himmlisch	gen|sg|fem|pos	NK	10
+10	Wesenheit	Wesenheit	NN	Wesenheit	gen|sg|fem	AG	7
+11	aus	aus	APPR	aus	_	MNR	10
+12	der	der	ART	d	dat|sg|fem	NK	13
+13	Selbstheit	Selbsteid	NN	Selbsteid	dat|sg|fem	NK	11
+14	der	der	ART	d	gen|sg|fem	NK	16
+15	animalischen	animalischen	ADJA	animalischen	gen|sg|fem|pos	NK	16
+16	Seele	Seele	NN	Seele	gen|sg|fem	AG	13
+17	in	in	APPR	in	_	MNR	13
+18	dem	dem	ART	d	dat|sg|neut	NK	19
+19	Centro	Centro	NE	Centro	dat|sg|neut	NK	17
+20	des	des	ART	d	gen|sg|masc	NK	22
+21	irdischen	irdischen	ADJA	irdisch	gen|sg|masc|pos	NK	22
+22	Menschen	Menschen	NN	Mensch	gen|sg|masc	AG	19
+23	,	,	$,	,	_	--	22
+24	und	und	KON	und	_	CD	5
+25	windet	windet	VVFIN	winden	sg|3|pres|ind	CJ	24
+26	sich	sich	PRF	er|es|sie	acc|sg|3	OA	25
+27	einwaͤrts	einwärts	ADV	einwärts	_	MO	25
+28	wie	wie	KOKOM	wie	_	CM	30
+29	ein	ein	ART	ein	nom|sg|masc	NK	30
+30	Rad	Rad	NN	Rad	nom|sg|masc	MO	25
+31	.	.	SENT	.	_	--	30
+
+1	Die––	die	PRELS	d	acc|sg|fem	NK	6
+2	Er––	er	PPER	er	nom|sg|masc|3	SB	3
+3	boh––	boh--	NE	boh--	sg|3|pres|ind	--	0
+4	ren––	Ren	VVFIN	Ren	acc|pl|masc	OA	3
+5	wer––	wer	PWS	wer	nom|sg|masc	NK	6
+6	dung––	Dung	NN	Dung	acc|sg|fem	OA	3
+7	der––	der	ART	d	gen|sg|fem	NK	11
+8	himm––	himm--	ADJA	himm--	_	CJ	9
+9	li––	li--	ADJA	li--	_	NK	11
+10	schen––	Schen	ADJA	Schen	acc|sg|masc|pos	NK	11
+11	We––	Weh	NN	Weh	acc|sg|masc	AG	6
+12	sen––	Sen	VVFIN	Sen	nom|sg|masc	PNC	13
+13	heit––	heit--	ADJD	heit--	_	NK	11
+14	In	In	APPR	in	_	MO	11
+15	Wahrheit	Wahrheit	NN	Wahrheit	dat|sg|fem	NK	14
+16	!	!	SENT	!	_	--	15
+
+1	das	das	PDS	d	nom|sg|neut	SB	2
+2	ist	ist	VAFIN	sein	sg|3|pres|ind	--	0
+3	sehr	sehr	ADV	sehr	_	MO	4
+4	schoͤn	schön	ADJD	schön	pos	MO	5
+5	gesagt	gesagt	VVPP	sagen	_	PD	2
+6	!	!	SENT	!	_	--	5
+
+1	Und	Und	KON	und	_	CD	3
+2	sie	sie	PPER	Sie	nom|sg|fem|3	PNC	3
+3	Madame	Madame	FM	--	sg|3|pres|subj	--	0
+4	?	?	SENT	?	_	--	3
+
+1	Es	Es	PPER	es	nom|sg|neut|3	SB	2
+2	ist	ist	VAFIN	sein	sg|3|pres|ind	--	0
+3	eine	eine	ART	ein	nom|sg|fem	NK	5
+4	himmlische	himmlische	ADJA	himmlisch	nom|sg|fem|pos	NK	5
+5	Tinctur	Tinktur	NN	Tinktur	nom|sg|fem	PD	2
+6	,	,	$,	,	_	--	5
+7	wodurch	wodurch	PWAVREL	wodurch	_	MO	17
+8	die	die	ART	d	nom|sg|fem	NK	10
+9	neue	neue	ADJA	neu	nom|sg|fem|pos	NK	10
+10	Seele	Seele	NN	Seele	nom|sg|fem	SB	17
+11	das	das	ART	d	acc|sg|neut	NK	13
+12	vegetabilische	vegetabilische	ADJA	vegetabilische	acc|sg|neut|pos	NK	13
+13	Leben	Leben	NN	Leben	acc|sg|neut	OA	17
+14	der	der	ART	d	gen|pl|masc	NK	16
+15	vier	vier	CARD	vier	_	NK	16
+16	Elementen	Elementen	NN	Element	gen|pl|masc	AG	13
+17	wegwirfft	wegwirft	VVFIN	wegwirft	sg|3|pres|ind	RC	5
+18	,	,	$,	,	_	--	17
+19	und	und	KON	und	_	CD	5
+20	die	die	ART	d	nom|sg|fem	NK	22
+21	magische	magische	ADJA	magisch	nom|sg|fem|pos	NK	22
+22	Seele	Seele	NN	Seele	nom|sg|fem	CJ	19
+23	,	,	$,	,	_	--	22
+24	als	als	KOKOM	als	_	CP	39
+25	die	die	ART	d	nom|sg|fem	NK	26
+26	Gottheit	Gottheit	NN	Gottheit	nom|sg|fem	SB	39
+27	in	in	APPR	in	_	MO	39
+28	seiner	seiner	PPOSAT	sein	dat|sg|fem	NK	29
+29	Gleichheit	Gleichheit	NN	Gleichheit	dat|sg|fem	NK	27
+30	,	,	$,	,	_	--	29
+31	nach	nach	APPR	nach	_	MO	39
+32	dem	dem	ART	d	dat|sg|neut	NK	33
+33	Modell	Modell	NN	Modell	dat|sg|neut	NK	31
+34	der	der	ART	d	gen|sg|fem	NK	35
+35	Weisheit	Weisheit	NN	Weisheit	gen|sg|fem	AG	33
+36	in	in	APPR	in	_	MO	39
+37	alle	alle	PIAT	all	acc|pl|neut	NK	38
+38	Dinge	Dinge	NN	Ding	acc|pl|neut	NK	36
+39	einbildet	einbildet	VVFIN	einbildet	_	MNR	22
+40	.	.	SENT	.	_	--	39
+
+1	Potz	Potz	NN	Potz	nom|sg|neut	--	0
+2	tausend	tausend	CARD	tausend	_	PNC	1
+3	!	!	SENT	!	_	--	2
+
+1	das	das	PDS	d	nom|sg|neut	SB	2
+2	ist	ist	VAFIN	sein	sg|3|pres|ind	--	0
+3	hoch	hoch	ADJD	hoch	pos	PD	2
+4	!	!	SENT	!	_	--	3
+
+1	Eine	Eine	ART	ein	nom|sg|fem	NK	3
+2	himmlische	himmlische	ADJA	himmlisch	nom|sg|fem|pos	NK	3
+3	Tinctur	Tinktur	NN	Tinktur	nom|sg|fem	--	0
+4	,	,	$,	,	_	--	3
+5	wodurch	wodurch	PWAVREL	wodurch	_	MO	8
+6	die	die	ART	d	nom|sg|fem	NK	8
+7	vegetabilische	vegetabilische	ADJA	vegetabilische	nom|sg|fem|pos	NK	8
+8	Seele	Seele	NN	Seele	nom|sg|fem	CJ	3
+9	–	-	$.	-	_	--	8
+10	–	-	$.	-	_	--	9
+11	–	-	$.	-	_	--	10
+
+1	Nein	Nein	PTKANT	nein	_	--	0
+2	!	!	SENT	!	_	--	1
+
+1	die	die	ART	d	nom|sg|fem	NK	3
+2	neue	neue	ADJA	neu	nom|sg|fem|pos	NK	3
+3	Seele	Seele	NN	Seele	nom|sg|fem	--	0
+4	–	-	$.	-	_	--	3
+5	–	-	$.	-	_	--	4
+6	–	-	$.	-	_	--	5
+
+1	Schon	Schon	ADV	schon	_	MO	2
+2	gut	gut	ADJD	gut	pos	--	0
+3	!	!	SENT	!	_	--	2
+
+1	es	es	PPER	es	nom|sg|neut|3	SB	2
+2	ist	ist	VAFIN	sein	sg|3|pres|ind	--	0
+3	einerley	einerlei	ADJD	einerlei	*|*|*	PD	2
+4	.	.	SENT	.	_	--	3
+
+1	Aber	Aber	KON	aber	_	JU	4
+2	die	die	ART	d	nom|sg|fem	NK	3
+3	Erklaͤrung	Erklärung	NN	Erklärung	nom|sg|fem	SB	4
+4	gefaͤllt	gefällt	VVFIN	gefallen	sg|3|pres|ind	--	0
+5	mir	mir	PPER	ich	dat|sg|*|1	DA	4
+6	sehr	sehr	ADV	sehr	_	MO	4
+7	.	.	SENT	.	_	--	6
+
+1	Koͤnnten	Könnten	VVFIN	Könnten	pl|3|past|subj	--	0
+2	sie	sie	PPER	Sie	nom|pl|*|3	SB	1
+3	nicht	nicht	PTKNEG	nicht	_	NG	1
+4	etwa	etwa	ADV	etwa	_	MO	5
+5	von	von	APPR	von	_	MO	13
+6	der	der	ART	d	dat|sg|fem	NK	7
+7	Materie	Materie	NN	Materie	dat|sg|fem	NK	5
+8	eine	eine	ART	ein	acc|sg|fem	NK	10
+9	huͤbsche	hübsche	ADJA	hübsch	acc|sg|fem|pos	NK	10
+10	Stelle	Stelle	NN	Stelle	acc|sg|fem	OA	13
+11	aus	aus	APPR	aus	_	MNR	10
+12	Francken	Francken	NE	Franken	dat|pl|masc	NK	11
+13	finden	finden	VVINF	finden	_	OC	1
+14	:	:	SENT	:	_	--	13
+
+1	Das	Das	PDS	d	nom|sg|neut	SB	2
+2	wuͤrde	würde	VAFIN	werden	sg|3|past|subj	--	0
+3	den	den	ART	d	acc|sg|masc	NK	4
+4	Streit	Streit	NN	Streit	acc|sg|masc	OA	5
+5	entscheiden	entscheiden	VVINF	entscheiden	_	OC	2
+6	.	.	SENT	.	_	--	5
+
+1	Es	Es	PPER	es	nom|sg|neut|3	SB	2
+2	ist	ist	VAFIN	sein	sg|3|pres|ind	--	0
+3	so	so	ADV	so	_	MO	4
+4	gut	gut	ADJD	gut	pos	PD	2
+5	,	,	$,	,	_	--	4
+6	als	als	KOKOM	als	_	CM	10
+7	wenn	wenn	KOUS	wenn	_	CP	10
+8	ich	ich	PPER	ich	nom|sg|*|1	SB	10
+9	sie	sie	PPER	Sie	nom|sg|fem|3	OA	10
+10	wuͤßte	wüßte	VVFIN	wissen	sg|3|past|subj	CC	3
+11	;	;	SENT	;	_	--	10
+
+1	denn	denn	KON	denn	_	JU	3
+2	ich	ich	PPER	ich	nom|sg|*|1	SB	3
+3	habe	habe	VAFIN	haben	sg|1|pres|ind	--	0
+4	in	in	APPR	in	_	MO	3
+5	meiner	meiner	PPOSAT	mein	dat|sg|fem	NK	6
+6	Bibliothec	Bibliothek	NN	Bibliothek	dat|sg|fem	NK	4
+7	alle	alle	PIAT	all	acc|pl|masc	NK	9
+8	seine	seine	PPOSAT	sein	acc|pl|neut	NK	9
+9	Wercke	Werke	NN	Werk	acc|pl|neut	OA	3
+10	.	.	SENT	.	_	--	9
+
+1	Mich	Mich	PPER	ich	acc|sg|*|1	OA	2
+2	duͤnckt	dünkt	VVFIN	dünken	sg|3|pres|ind	--	0
+3	,	,	$,	,	_	--	2
+4	Spener	Spener	ADJA	Spener	nom|pl|masc	SB	5
+5	wird	wird	NN	Wirt	sg|3|pres|ind	OC	2
+6	auch	auch	ADV	auch	_	MO	7
+7	etwas	etwas	PIS	etwas	*|*|neut	SB	5
+8	davon	davon	PAV	davon	_	MNR	7
+9	haben	haben	VAINF	haben	pl|3|pres|ind	RE	8
+10	.	.	SENT	.	_	--	9
+
+1	Das	Das	PDS	d	nom|sg|neut	SB	2
+2	kan	kann	VMFIN	können	sg|3|pres|ind	--	0
+3	wohl	wohl	ADV	wohl	_	MO	4
+4	seyn	sein	VAINF	sein	_	OC	2
+5	;	;	SENT	;	_	--	4
+
+1	denn	denn	KON	denn	_	JU	7
+2	ein	ein	ART	ein	nom|sg|masc	NK	4
+3	guter	guter	ADJA	gut	nom|sg|masc|pos	NK	4
+4	Freund	Freund	NN	Freund	nom|sg|masc	SB	7
+5	von	von	APPR	von	_	PG	4
+6	mir	mir	PPER	ich	dat|sg|*|1	NK	5
+7	hat	hat	VAFIN	haben	sg|3|pres|ind	--	0
+8	seine	seine	PPOSAT	sein	acc|pl|fem	NK	9
+9	Sachen	Sachen	NN	Sache	acc|pl|fem	OA	10
+10	gekaufft	gekauft	VVPP	kaufen	_	OC	7
+11	.	.	SENT	.	_	--	10
+
+1	Ich	Ich	PPER	ich	nom|sg|*|1	SB	2
+2	bin	bin	VAFIN	sein	sg|1|pres|ind	--	0
+3	gewiß	gewiß	ADJD	gewiß	_	MO	2
+4	,	,	$,	,	_	--	3
+5	daß	daß	KOUS	daß	_	CP	16
+6	meine	meine	PPOSAT	mein	nom|sg|fem	NK	7
+7	Erklaͤrung	Erklärung	NN	Erklärung	nom|sg|fem	SB	16
+8	von	von	APPR	von	_	PG	7
+9	Wort	Wort	NN	Wort	dat|sg|neut	NK	8
+10	zu	zu	APPR	zu	_	MNR	9
+11	Wort	Wort	NN	Wort	dat|sg|neut	NK	10
+12	in	in	APPR	in	_	MO	16
+13	Jacob	Jacob	NE	Jacob	nom|sg|masc	PNC	15
+14	Bͤ	Beh	NE	Beh	*|*|*	PNC	15
+15	hmen	Meen	NN	Meen	nom|sg|masc	NK	12
+16	steht	steht	VVFIN	stehen	sg|3|pres|ind	RE	3
+17	.	.	SENT	.	_	--	16
+
+1	Ja	Ja	PTKANT	ja	_	--	0
+2	,	,	$,	,	_	--	1
+3	ja	ja	ITJ	ja	_	MO	1
+4	!	!	SENT	!	_	--	3
+
+1	ich	ich	PPER	ich	nom|sg|*|1	SB	2
+2	sahe	sah	VVFIN	sehen	sg|1|past|ind	--	0
+3	neulich	neulich	ADV	neulich	_	MO	2
+4	ein	ein	ART	ein	nom|sg|masc	NK	5
+5	Exemplar	Exemplar	NN	Exemplar	nom|sg|masc	OA	2
+6	,	,	$,	,	_	--	5
+7	das	das	PDS	d	nom|sg|neut	SB	8
+8	war	war	VAFIN	sein	sg|3|past|ind	CJ	2
+9	vortrefflich	vortrefflich	ADJD	vortrefflich	pos	MO	10
+10	schoͤn	schön	ADJD	schön	pos	MO	11
+11	eingebunden	eingebunden	VVPP	einbinden	_	OC	8
+12	.	.	SENT	.	_	--	11
+
+1	Nun	Nun	ADV	nun	_	MO	2
+2	Herr	Herr	NN	Herr	nom|sg|masc	--	0
+3	Magister	Magister	NN	Magister	nom|sg|masc	NK	2
+4	!	!	SENT	!	_	--	3
+
+1	Wer	Wer	PWS	wer	nom|sg|masc	SB	2
+2	hat	hat	VAFIN	haben	sg|3|pres|ind	--	0
+3	recht	recht	ADJD	recht	acc|sg|neut	OA	2
+4	von	von	APPR	von	_	PG	3
+5	uns	uns	PPER	wir	dat|pl|*|1	NK	4
+6	?	?	SENT	?	_	--	5
+
+1	Alle	Alle	PIAT	all	nom|pl|masc	NK	2
+2	dreye	drei	CARD	drei	_	--	0
+3	!	!	SENT	!	_	--	2
+
+1	Glauben	Glauben	VVIMP	glauben	pl|3|pres|ind	MO	5
+2	sie	sie	PPER	Sie	nom|pl|*|3	SB	1
+3	mir	mir	PPER	ich	dat|sg|*|1	DA	1
+4	,	,	$,	,	_	--	3
+5	bleiben	bleiben	VVFIN	bleiben	pl|3|pres|ind	--	0
+6	sie	sie	PPER	Sie	nom|pl|*|3	SB	5
+7	nur	nur	ADV	nur	_	MO	10
+8	eine	eine	ART	ein	acc|sg|fem	NK	9
+9	jede	jede	PIS	jed	acc|sg|fem	NK	10
+10	bey	bei	APPR	bei	_	MO	5
+11	ihrer	ihrer	PPOSAT	ihr	dat|sg|fem	NK	12
+12	Erklaͤrung	Erklärung	NN	Erklärung	dat|sg|fem	NK	10
+13	.	.	SENT	.	_	--	12
+
+1	Das	Das	PDS	d	nom|sg|neut	SB	2
+2	kan	kann	VMFIN	können	sg|3|pres|ind	--	0
+3	aber	aber	ADV	aber	_	MO	2
+4	nicht	nicht	PTKNEG	nicht	_	NG	2
+5	seyn	sein	VAINF	sein	_	OC	2
+6	:	:	SENT	:	_	--	5
+
+1	Es	Es	PPER	es	nom|sg|neut|3	PH	2
+2	soll	soll	VMFIN	sollen	sg|3|pres|ind	--	0
+3	ein	ein	ART	ein	nom|sg|neut	NK	4
+4	Glaubens-Artickel	Glaubens-Artickel	NN	Glaubens-Artickel	nom|sg|neut	PD	5
+5	werden	werden	VAINF	werden	_	OC	2
+6	.	.	SENT	.	_	--	5
+
+1	Oh	Oh	NE	Oh	nom|sg|neut	--	0
+2	!	!	SENT	!	_	--	1
+
+1	ho	ho	NE	ho	_	--	0
+2	!	!	SENT	!	_	--	1
+
+1	Ein	Ein	ART	ein	nom|sg|neut	NK	2
+2	Glaubens	Glaubens	NN	Glaube	nom|sg|masc	--	0
+3	Artickel	Artikel	NN	Artikel	nom|sg|masc	NK	2
+4	?	?	SENT	?	_	--	3
+
+1	Ja	Ja	ITJ	ja	_	--	0
+2	!	!	SENT	!	_	--	1
+
+1	Ein	Ein	ART	ein	nom|sg|neut	NK	2
+2	Glaubens-Artickel	Glaubens-Artickel	NN	Glaubens-Artickel	nom|sg|masc	--	0
+3	!	!	SENT	!	_	--	2
+
+1	Wie	Wie	PWAV	wie	_	--	0
+2	?	?	SENT	?	_	--	1
+
+1	haben	haben	VAFIN	haben	pl|3|pres|ind	--	0
+2	sie	sie	PPER	Sie	nom|pl|*|3	SB	1
+3	denn	denn	ADV	denn	_	MO	7
+4	unsere	unsere	PPOSAT	unser	nom|pl|masc	NK	5
+5	Herren	Herren	NN	Herr	nom|pl|masc	SB	7
+6	darum	darum	PAV	darum	_	OP	7
+7	befragt	befragt	VVPP	befragen	_	OC	1
+8	?	?	SENT	?	_	--	7
+
+1	Nein	Nein	PTKANT	nein	_	--	0
+2	!	!	SENT	!	_	--	1
+
+1	Wie	Wie	PWAV	wie	_	--	0
+2	?	?	SENT	?	_	--	1
+
+1	und	und	KON	und	_	JU	2
+2	wollen	wollen	VMFIN	wollen	pl|3|pres|ind	--	0
+3	Glaubens-Artickel	Glaubens-Artickel	NN	Glaubens-Artickel	acc|sg|masc	OA	4
+4	machen	machen	VVINF	machen	_	OC	2
+5	,	,	$,	,	_	--	4
+6	ohne	ohne	KOUI	ohne	_	CP	12
+7	die	die	ART	d	acc|sg|fem	NK	8
+8	Einwilligung	Einwilligung	NN	Einwilligung	acc|sg|fem	OA	12
+9	unserer	unserer	PPOSAT	unser	gen|pl|fem	NK	10
+10	Herrn	Herrn	NN	Herr	acc|sg|masc	AG	8
+11	zu	zu	PTKZU	zu	_	PM	12
+12	haben	haben	VAINF	haben	_	MO	4
+13	.	.	SENT	.	_	--	12
+
+1	Ich	Ich	PPER	ich	nom|sg|*|1	SB	2
+2	bin	bin	VAFIN	sein	sg|1|pres|ind	--	0
+3	ihr	ihr	PPOSAT	ihr	dat|sg|fem|3	NK	4
+4	Diener	Diener	NN	Diener	nom|sg|masc	PD	2
+5	:	:	SENT	:	_	--	4
+
+1	Damit	Damit	PAV	damit	_	MO	6
+2	habe	habe	VAFIN	haben	sg|1|pres|ind	--	0
+3	ich	ich	PPER	ich	nom|sg|*|1	SB	2
+4	nichts	nichts	PIS	nichts	*|*|neut	OA	6
+5	zu	zu	PTKZU	zu	_	PM	6
+6	thun	tun	VVINF	tun	_	OC	2
+7	.	.	SENT	.	_	--	6
+
+1	Die	Die	ART	d	nom|sg|fem	NK	2
+2	Frau	Frau	NN	Frau	nom|sg|fem	SB	3
+3	Ehrlichen	Ehrlichen	NN	Ehrlichen	pl|3|pres|ind	--	0
+4	hier	hier	ADV	hier	_	MO	3
+5	neben	neben	ADV	neben	_	MO	3
+6	bey	bei	PTKVZ	bei	_	NK	5
+7	ist	ist	VAFIN	sein	sg|3|pres|ind	CJ	3
+8	da	da	ADV	da	_	MO	7
+9	.	.	SENT	.	_	--	8
+
+1	Sie	Sie	PPER	Sie	nom|pl|*|3	SB	2
+2	sagt	sagt	VVFIN	sagen	sg|3|pres|ind	--	0
+3	:	:	SENT	:	_	--	2
+
+1	Sie	Sie	PPER	Sie	nom|sg|fem|3	SB	2
+2	haͤtte	hätte	VAFIN	haben	sg|3|past|subj	--	0
+3	den	den	ART	d	dat|pl|masc	NK	4
+4	Herrn	Herrn	NN	Herr	acc|sg|masc	OA	10
+5	Magister	Magister	NN	Magister	nom|sg|masc	NK	4
+6	Scheinfromm	Scheinfromm	NN	Scheinfromm	nom|sg|masc	NK	4
+7	hier	hier	ADV	hier	_	MO	10
+8	hinein	hinein	PTKVZ	hinein	_	MO	9
+9	gehen	gehen	VVINF	gehen	_	OC	10
+10	sehen	sehen	VVINF	sehen	_	OC	2
+11	,	,	$,	,	_	--	10
+12	und	und	KON	und	_	CD	2
+13	haͤtte	hätte	VAFIN	haben	sg|3|past|subj	CJ	12
+14	was	was	PIAT	was	nom|sg|neut	SB	15
+15	nothwendiges	notwendiges	NA	Notwendige	nom|sg|neut|pos	MO	19
+16	mit	mit	APPR	mit	_	MO	19
+17	ihm	ihm	PPER	er	dat|sg|masc|3	NK	16
+18	zu	zu	PTKZU	zu	_	PM	19
+19	sprechen	sprechen	VVINF	sprechen	_	OC	13
+20	.	.	SENT	.	_	--	19
+
+1	Ich	Ich	PPER	ich	nom|sg|*|1	SB	2
+2	komme	komme	VVFIN	kommen	sg|1|pres|ind	--	0
+3	den	den	ART	d	acc|sg|masc	NK	4
+4	Augenblick	Augenblick	NN	Augenblick	acc|sg|masc	OA	2
+5	.	.	SENT	.	_	--	4
+
+1	Ach	Ach	ITJ	ach	_	NK	3
+2	,	,	$,	,	_	--	1
+3	nein	nein	PTKANT	nein	_	--	0
+4	!	!	SENT	!	_	--	3
+
+1	Herr	Herr	NN	Herr	nom|sg|masc	--	0
+2	Magister	Magister	NN	Magister	nom|sg|masc	NK	1
+3	:	:	SENT	:	_	--	2
+
+1	Worzu	Worzu	PWAV	wozu	_	MO	2
+2	wollen	wollen	VMFIN	wollen	pl|3|pres|ind	--	0
+3	sie	sie	PPER	Sie	nom|pl|*|3	SB	2
+4	sich	sich	PRF	er|es|sie	acc|pl|3	OA	6
+5	heraus	heraus	PTKVZ	heraus	_	MO	2
+6	bemuͤhen	bemühen	VVINF	bemühen	pl|3|pres|ind	OC	2
+7	?	?	SENT	?	_	--	6
+
+1	Laßt	Laßt	VVIMP	lassen	pl|2|imp	--	0
+2	sie	sie	PPER	Sie	nom|pl|*|3	SB	1
+3	nur	nur	ADV	nur	_	MO	1
+4	herein	herein	PTKVZ	herein	_	MO	5
+5	kommen	kommen	VVINF	kommen	_	OC	1
+6	.	.	SENT	.	_	--	5
+
+1	Da	Da	ADV	da	_	MO	2
+2	koͤmmt	kömmt	VVFIN	kommen	sg|3|pres|ind	--	0
+3	sie	sie	PPER	Sie	nom|sg|fem|3	SB	2
+4	schon	schon	ADV	schon	_	MO	2
+5	von	von	APPR	von	_	OP	2
+6	selbsten	Selbstteen	PRF	selbst	dat|pl|fem	NK	5
+7	.	.	SENT	.	_	--	6
+
